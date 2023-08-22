@@ -1,8 +1,23 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 98548J Notebook
+description: This webpage contains the engineering notebook for the VRC team 98548J.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+color_scheme: modifications
+search_enabled: true
+
+callouts:
+  highlight:
+    color: green
+
+defaults:
+
+  - scope:
+      path: "docs"
+    values:
+      layout: "doc"
+
+
+url: https://98548J.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
