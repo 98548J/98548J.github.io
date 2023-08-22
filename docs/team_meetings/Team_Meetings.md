@@ -4,6 +4,7 @@ notebook: header
 notebook-head: team_meetings
 nav_order: 6
 has_children: true
+has_toc: false
 ---
 
 <ul>

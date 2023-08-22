@@ -4,6 +4,7 @@ notebook: header
 notebook-head: skills_history
 nav_order: 5
 has_children: true
+has_toc: false
 ---
 
 <ul>

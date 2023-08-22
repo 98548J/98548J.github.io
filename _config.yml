@@ -4,10 +4,7 @@ theme: just-the-docs
 
 color_scheme: modifications
 search_enabled: true
-
-callouts:
-  highlight:
-    color: green
+favicon_ico: "/assets/Fedora.ico"
 
 defaults:
 

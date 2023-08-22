@@ -1,3 +1,20 @@
 @import "./color_schemes/dark";
 
-$link-color: #f1a619;
+$link-color: tomato;
+
+.design {
+    padding: 5px;
+    background-color: #a6ff002c;
+    font-weight: bolder;
+    border-radius: 6px;
+    box-shadow: 3px 3px #a6ff00;
+}
+
+.center {
+    text-align: center;
+}
+
+.aux-nav {
+    visibility: hidden;
+    display: none;
+}
