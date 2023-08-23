@@ -2,14 +2,7 @@
 layout: default
 ---
 
-<p  style="font-size: small; margin-top: 0px; padding-top: 0px;">
-    {% if page.notebook == "header" %}
-        <a href="{{site.url}}" style="font-size: small; margin-top: 0px; padding-top: 0px;">Notebook Sections</a> &NonBreakingSpace; / &NonBreakingSpace; {{page.title}}
-    {% endif %}
-</p>
-
-
-<h1 style="padding-bottom: 20px;">
+<h1 style="padding-bottom: 20px; z-index: -1; margin-top: 0px;" id="page-title">
     <a href="{{ page.url | absolute_url }}"> {{ page.title }} </a> - {% if page.notebook == "header" %} Table Of Contents {% endif %}{{ page.date | date: "%B %d, %Y" }}
 </h1>
 

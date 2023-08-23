@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+#navbar {
+  top: 0;
+  overflow: hidden;
+  font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+  font-size: 1.125rem !important;
+  border-bottom: 1px solid #44434D;
+  background-color: #27262B;
+  display:block;
+  padding-left: 1rem;
+}
+
+#navbar a {
+  top: 0;
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  transform: translate(0, 20%);
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+#navbar a:hover {
+  top: 0;
+  background-color: #ddd;
+  color: black;
+}
+
+#navbar a.active {
+  top: 0;
+  background-color: teal;
+  color: white;
+  box-shadow: 2px 2px 5px #000000;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+</style>
+</head>
+<body>
+
+<div id="navbar">
+    <a {% if page.url == "/" %} class="active" {% endif %} href="{{site.url}}">Sections</a>
+
+    {% if page.url != "/" and page.parent %}
+        {% assign pages_list = site[page.collection]
+            | default: site.html_pages
+            | where_exp: "item", "item.title != nil"
+            | where_exp: "item", "item.has_children != nil" %}
+
+        {% if page.grand_parent %}
+            {% assign parent_page = pages_list
+                | where: "title", page.parent
+                | where: "parent", page.grand_parent
+                | first %}
+            {% assign grandparent_page = pages_list
+                | where: "title", page.grand_parent
+                | first %}
+        {% else %}
+            {% assign parent_page = pages_list
+                | where: "title", page.parent
+                | where_exp: "item", "item.parent == nil"
+                | first %}
+        {% endif %}
+
+        {% if page.parent %}
+            {% if page.grand_parent %}
+                <a href="{{ grandparent_page.url | relative_url }}">{{ page.grand_parent }}</a>
+            {% endif %}
+            <a href="{{ parent_page.url | relative_url }}">{{ page.parent }}</a>
+        {% endif %}
+    {% endif %}
+    
+    {% if page.url != "/" %}
+        <a class="active">{{ page.title }}</a>
+    {% endif %}
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    window.onscroll = function() {myFunction()};
+
+    var navbar = document.getElementById("navbar");
+    var page_title = document.getElementById("page-title");
+    var site_header_style = getComputedStyle(document.getElementsByClassName("site-header").item(0));
+    var sticky = navbar.offsetTop;
+
+    navbar.style.height = site_header_style.height;
+
+    function myFunction() {
+        if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky");
+            page_title.style.marginTop = site_header_style.height;
+        } else {
+            navbar.classList.remove("sticky");
+            page_title.style.marginTop = "0px";
+            sticky = navbar.offsetTop;
+            navbar.style.height = site_header_style.height;
+        }
+    }
+});
+
+</script>
+
+</body>
+</html>

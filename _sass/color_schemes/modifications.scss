@@ -4,7 +4,7 @@ $link-color: tomato;
 
 .design {
     padding: 5px;
-    background-color: darkgreen;
+    background-color: teal;
     font-weight: bolder;
     border-radius: 3px;
     box-shadow: 2px 2px 5px #000000;
@@ -17,4 +17,29 @@ $link-color: tomato;
 .aux-nav {
     visibility: hidden;
     display: none;
+}
+
+.main-content-wrap {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.main-content {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.main-content ol > li {
+    z-index: -1 !important;
+}
+
+.main-content ul > li::before {
+    z-index: -1 !important;
+}
+
+.main-content ol > li::before {
+    z-index: -1 !important;
 }
