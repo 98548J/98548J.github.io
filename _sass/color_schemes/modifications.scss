@@ -33,13 +33,13 @@ $link-color: tomato;
 }
 
 .main-content ol > li {
-    z-index: -1 !important;
+    z-index: 0 !important;
 }
 
 .main-content ul > li::before {
-    z-index: -1 !important;
+    z-index: 0 !important;
 }
 
 .main-content ol > li::before {
-    z-index: -1 !important;
+    z-index: 0 !important;
 }
