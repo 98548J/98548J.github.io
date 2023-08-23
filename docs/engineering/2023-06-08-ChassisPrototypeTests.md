@@ -75,4 +75,3 @@ We started building the first of our seven CAD chassis today. Our aim is to test
 Our testing procedure involves multiple runs over the center bar to determine its success rate. We will document each instance of success and failure, along with the reason for any failures.
 
 After completing construction, we will move on to testing the functionality of each drivetrain to evaluate how well it performs during game tasks. Here are some pictures showing the first drivetrain, and the first test mode of the adjustable chassis:
-
