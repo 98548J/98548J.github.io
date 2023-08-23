@@ -3,6 +3,9 @@ title: Odometry Test Rig
 parent: Engineering
 notebook: engineering
 date: 2023-06-05
+signatures:
+- "Ayla Clark"
+- "Caleb Carlson"
 nav_order: 2
 has_children: false
 ---

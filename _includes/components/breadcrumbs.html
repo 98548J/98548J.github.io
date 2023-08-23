@@ -2,65 +2,11 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-
-#navbar {
-  top: 0;
-  overflow: hidden;
-  font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
-  font-size: 1.125rem !important;
-  border-bottom: 1px solid #44434D;
-  background-color: #27262B;
-  display:block;
-  padding-left: 1rem;
-  z-index: 1;
-}
-
-#navbar a {
-  top: 0;
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  transform: translate(0, 20%);
-  padding: 5px;
-  margin: 5px;
-  text-decoration: none;
-  border-radius: 3px;
-}
-
-#navbar a:hover {
-  top: 0;
-  background-color: #ddd;
-  color: black;
-}
-
-#navbar a.active {
-  top: 0;
-  background-color: teal;
-  color: white;
-  box-shadow: 2px 2px 5px #000000;
-}
-
-.content {
-  padding: 16px;
-}
-
-.sticky {
-  overflow: hidden;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-}
-</style>
 </head>
 <body>
 
 <div id="navbar">
-    <a {% if page.url == "/" %} class="active" {% endif %} href="{{site.url}}">Sections</a>
+    <a {% if page.url == "/" %} class="active" {% endif %} {% if page.url != "/" %} href="{{site.url}}" {% endif %}>Sections</a>
 
     {% if page.url != "/" and page.parent %}
         {% assign pages_list = site[page.collection]

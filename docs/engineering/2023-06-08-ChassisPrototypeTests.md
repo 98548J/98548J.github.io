@@ -3,6 +3,10 @@ title: Chassis Prototype Tests
 parent: Engineering
 notebook: engineering
 date: 2023-06-08
+signatures:
+- "Ayla Clark"
+- "Caleb Carlson"
+- "Tucker Nielson"
 nav_order: 3
 has_children: false
 ---

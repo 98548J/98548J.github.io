@@ -5,11 +5,8 @@ nav_order: 1
 has_children: false
 ---
 
-Tip:
-
- * Looking for certain steps in the design process? Feel free to use the search bar!
-
-# Notebook Sections -
+<h1>Notebook Sections -</h1>
+<br>
 
 <!-- {: .center} -->
 <span class="fs-6">

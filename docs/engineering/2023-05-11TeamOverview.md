@@ -3,6 +3,10 @@ title: Team Overview
 parent: Engineering
 notebook: engineering
 date: 2023-05-11
+signatures:
+- "Ayla Clark"
+- "Caleb Carlson"
+- "Tucker Nielson"
 nav_order: 1
 has_children: false
 ---
