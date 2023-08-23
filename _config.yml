@@ -13,6 +13,9 @@ callouts:
   decision:
     title: "The Decision"
     color: yellow
+  note:
+    title: "note"
+    color: grey-lt
 
 defaults:
 
