@@ -37,3 +37,7 @@ We are all in agreement that the last concept (#3) is a poor choice. And while o
 
 {: .decision}
 The option that would allow us to learn the most, is option #1. (Also, this solution would adhere to the design process).
+
+{: .design}
+Develop Solution
+
