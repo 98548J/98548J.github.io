@@ -6,6 +6,14 @@ color_scheme: modifications
 search_enabled: true
 favicon_ico: "/assets/Fedora.ico"
 
+callouts:
+  problem:
+    title: "The Problem"
+    color: red
+  decision:
+    title: "The Decision"
+    color: yellow
+
 defaults:
 
   - scope:

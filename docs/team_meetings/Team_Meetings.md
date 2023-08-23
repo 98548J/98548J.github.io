@@ -8,7 +8,7 @@ has_toc: false
 ---
 
 <ul>
-{% for post in site.pages reversed%}
+{% for post in site.pages %}
 {% if post.notebook == page.notebook-head %}
     <li>
     <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
