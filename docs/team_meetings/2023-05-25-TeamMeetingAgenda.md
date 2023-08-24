@@ -45,21 +45,22 @@ In order to consolidate the previous concepts we listed, we will create an **age
 
 Below is the template we will use for our meetings:
 
-## Review and update calendar and timeline(s) -
-
-* What do we have scheduled?
-* Who is going to be available?
-* Are there any tournaments coming up?
-
-## Assign Task(s) -
-
-* What can you get done this week?
-* How long will it take?
-
-## Evaluate progress since the last meeting -
-
-Is there anything that wasn’t done on time?
-
-## Discuss any previous competitions, and/ or scrimmages -
-
-* What went well/ wrong?
+{: .grey-lt}
+> ## Review and update calendar and timeline(s) -
+> 
+> * What do we have scheduled?
+> * Who is going to be available?
+> * Are there any tournaments coming up?
+> 
+> ## Assign Task(s) -
+> 
+> * What can you get done this week?
+> * How long will it take?
+> 
+> ## Evaluate progress since the last meeting -
+> 
+> Is there anything that wasn’t done on time?
+> 
+> ## Discuss any previous competitions, and/ or scrimmages -
+> 
+> * What went well/ wrong?
