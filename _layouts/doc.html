@@ -14,3 +14,29 @@ layout: default
         {{signature}}
     {% endfor %}
 {% endif %}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function (){
+        var tdElements = document.querySelectorAll("td");
+
+        tdElements.forEach(function(td) {
+
+            var textContent = td.textContent.trim();
+            
+            var percentagePattern = /^\d+%$/;
+            
+            if (! percentagePattern.test(textContent)) {
+                return;
+            }
+
+            var percentage = parseInt(td.textContent);
+            var hueValue = Math.round((percentage / 100) * 120);
+            var backgroundColor = "hsl(" + hueValue + ", 50%, 50%)";
+            
+            td.style.backgroundColor = backgroundColor;
+
+            td.style.color = "black";
+        });
+    });
+</script>
+

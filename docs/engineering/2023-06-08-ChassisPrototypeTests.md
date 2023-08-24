@@ -70,8 +70,41 @@ The images depicted above show the seven chassis that we will be testing. We pla
 {: .design}
 Construct & Test
 
-We started building the first of our seven CAD chassis today. Our aim is to test them and determine their strengths and weaknesses through our testing. This will help us identify the features that work well and those that don't.
+We aim to first build, and test each chassis, determining their strengths and weaknesses through our testing. This will help us identify the features that work well and those that don't.
 
 Our testing procedure involves multiple runs over the center bar to determine its success rate. We will document each instance of success and failure, along with the reason for any failures.
 
 After completing construction, we will move on to testing the functionality of each drivetrain to evaluate how well it performs during game tasks. Here are some pictures showing the first drivetrain, and the first test mode of the adjustable chassis:
+
+![smallerChassis](/assets/engineering/MinniChassis2.jpg){: width="35.665%"}
+![adjustableChassis](/assets/engineering/AdjustableChassisSide.jpg){: width="63.345%"}
+
+To become familiar with the smallest robot, our driver, Tucker, ran some driver skills. He completed a total of six runs and the following scores were obtained. The average skills score obtained was **6.5**:
+
+| Run 1 | Run 2 | Run 3 | Run 4 | Run 5 | Run 6 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2|7|4|12|6|8|
+
+We then conducted a series of tests involving the central bar:
+
+1. Start driving at the bar early, building up momentum before driving over the bar.
+2. Start driving where the robot is contacting the bar, then drive over.
+3. Manually high center the robot on the bar, and see if it can drive off of it.
+
+| First Test - Distance | Second Test - Contacting | Third Test - High Centered |
+|:---:|:---:|:---:|
+|![Distance](/assets/engineering/Distance.jpg) | ![Contact](/assets/engineering/Contact.jpg) | ![HighCentered](/assets/engineering/HighCentered.jpg) |
+
+Below you can see the results of our barrier tests, each trial had 10 tests, the result of those 10 tests is shown in percentage as a success rate; higher is better.
+
+(This test includes all 7 chassis, including the adjustable chassis):
+
+| | Momentum Jump | Contact Jump | High-Centered Jump|
+|:---|:---:|:---:|:---:|
+| (Small) Four-4” | 100% | 100% | 100% |
+| (Adjustable) Six-4”  | 100% | 100% | 100% |
+| (Adjustable) Four-4” + Two Flex | 100% | 100% | 100% |
+| (Adjustable) Four-4” | 100% | 100% | 30% |
+| (Adjustable) Six-3.25” | 40% | 80% | 80% |
+| (Adjustable) Four-3.25” + Two Flex | 100% | 100% | 90% |
+| (Adjustable) Four-3.25” | 0% | 1% | 0% |
