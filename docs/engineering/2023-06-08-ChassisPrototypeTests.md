@@ -95,7 +95,7 @@ We then conducted a series of tests involving the central bar:
 |:---:|:---:|:---:|
 |![Distance](/assets/engineering/Distance.jpg) | ![Contact](/assets/engineering/Contact.jpg) | ![HighCentered](/assets/engineering/HighCentered.jpg) |
 
-Below you can see the results of our barrier tests, each trial had 10 tests, the result of those 10 tests is shown in percentage as a success rate; higher is better.
+Below you can see the results of our barrier tests, each trial had 10 tests, and the result of those 10 tests is shown in percentage as a success rate; higher is better.
 
 (This test includes all 7 chassis, including the adjustable chassis):
 
@@ -108,3 +108,22 @@ Below you can see the results of our barrier tests, each trial had 10 tests, the
 | (Adjustable) Six-3.25” | 40% | 80% | 80% |
 | (Adjustable) Four-3.25” + Two Flex | 100% | 100% | 90% |
 | (Adjustable) Four-3.25” | 0% | 1% | 0% |
+
+{: .design}
+Evaluate Solution
+
+During the testing phase, we discovered the advantages and disadvantages of each drivetrain configuration. As a result, we now have the necessary information to construct a high-performing chassis for our competition robot. Here is a list of things we have learned about what did and didn't work, as well as ideas we want to incorporate into our competition robot:
+
+## Advantages
+
+* Having larger wheels makes jumping over the bar easier.
+* Using flex wheels in the middle adds traction when going over the center bar; in many cases preventing the chassis from getting high-centered.
+* Using flex wheels in the middle protects the gears and motors of the drivetrain from being hit by the barrier.
+* Having smaller wheels in the center helps the drive train to drive over the bar smoother and faster compared to larger diameter center wheels.
+
+## Disadvantages
+
+* Large distances between wheels; increase the chance of becoming high-centered.
+* Motor placement too close to the front (exposed motors) can potentially damage the motor from repeated violent contact with the barrier.
+* Without a guard or wheel in the middle, the gears hit the barrier while going over.
+* Having wheels in the center of the chassis that are too big makes driving over the barrier a rough, and slow ride.
