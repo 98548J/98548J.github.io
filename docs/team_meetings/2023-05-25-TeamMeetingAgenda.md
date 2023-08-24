@@ -31,12 +31,12 @@ Here are some ideas we produced on how to address each of these points:
 
 * Create an agenda that we can refer to during each of our team meetings.​
 * Decide on a specific day that we will meet on.​
-* Work together with those that can be present at the meeting. (if not we work with those who are there) 
+* Work together with those who can be present at the meeting. (If not we work with those who are there) 
 
 {:. design}
 Our Decision
 
-After discussing about each concept as a team, because there seemed to be no downside to any of the concepts we brainstormed for our team meetings. As such, we decided to use all of them. 
+After discussing each concept as a team, because there seemed to be no downside to any of the concepts we brainstormed for our team meetings. As such, we decided to use all of them. 
 
 {: .design}
 Develop Solution
