@@ -4,7 +4,7 @@ theme: just-the-docs
 
 color_scheme: modifications
 search_enabled: true
-favicon_ico: "/assets/Fedora.ico"
+favicon_ico: "/assets/engineering/Fedora.ico"
 
 callouts:
   problem:
