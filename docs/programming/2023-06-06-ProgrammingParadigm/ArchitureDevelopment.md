@@ -71,3 +71,16 @@ The next architecture to go is decided to be the **event-bus pattern**. This pat
 
 This leaves the **layered pattern**. The layered pattern is very adaptable to different situations, usually you have a top-level UI layer and then each layer down handles continually lower-level responsibilities. For our robot I would probably make one change, the top layer wouldn’t contain UI, rather, it would watch for changes in match state (disablement, autonomous, driver control, etc…) Then, the next layer down would handle any UI: (things like an autonomous selector or information displayed on the brain screen.) Finally, the bottom-most layer would handle the actual robot motion. Any layers below this will probably be method calls to any classes we make.
 
+{: .design}
+Develop Solution
+
+The next step is to begin deciding exactly how we will program this.
+
+First I will outline what the layered pattern will look and behave like.
+
+
+{: .design}
+Implement Solution
+
+![idk]()
+
