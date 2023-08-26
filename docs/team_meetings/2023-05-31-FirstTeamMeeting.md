@@ -38,8 +38,17 @@ As we are not starting construction for another week, we are dedicating our atte
 Regarding the other tasks, we will collaborate as a team. At the moment, we are in the process of deciding a date for our team photo. Furthermore, we will review the notable signature events in our region that we intend to take part in this year.
 
 {: .design}
-# Summery
+# Summary
 
 After our team meeting, we organized all the important information in a calendar. Please find the calendar attached below.
 
-# CALENDARRRRR
+|  June 1 - 7  | Plan (s) |
+|:---|:---|
+| Thu | Finish First Team Meeting entry. |
+| Fri |Finish Team Meeting Agenda entry.|
+| Sat | Finish Odometry research entry. |
+| Sun |  |
+| Mon | Add methods of getting to worlds to Team Overview entry. <br> Finish State Analysis team meeting entry. |
+| Tue | Make a rules entry. |
+| Wed | Next team meeting. |
+{: .calendar}

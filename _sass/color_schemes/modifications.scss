@@ -18,6 +18,21 @@ strong {
     font-weight: 400;
 }
 
+.calendar thead tr th {
+  background-color: #000000;
+  font-weight: 500;
+}
+.calendar tbody tr td {
+  background-color: #cccccc;
+  color: black;
+  font-weight: 500;
+}
+
+.design .anchor-heading {
+  left: -25px !important;
+  bottom: -1px !important;
+}
+
 .center {
     text-align: center;
 }
