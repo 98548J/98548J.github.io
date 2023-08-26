@@ -91,7 +91,7 @@ And, here is our CAD with the addition of bearings, axles, motors, wheels, and o
 
 ![FirstDrivetrainHalf](/assets/engineering/FirstDrivetrainHalf.png)
 
-Once we had one half of the chassis in CAD, we simply mirrored the part, and jointed the two halves together with the rest of our robot's structure:
+Once we had one half of the chassis in CAD, we simply mirrored the part, and joined the two halves together with the rest of our robot's structure:
 
 ![FirstDrivetrainTop](/assets/engineering/FirstDrivetrainTop.png){: width="45%"}
 ![FirstDrivetrainTop](/assets/engineering/FirstDrivetrainISO.png){: width="54%"}
