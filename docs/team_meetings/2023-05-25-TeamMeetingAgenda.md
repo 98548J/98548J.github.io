@@ -12,7 +12,7 @@ has_children: false
 ---
 
 {: .design}
-Introduction 
+# Introduction 
 
 As a team, part of being successful is holding regular team meetings. The problem is, we have not decided exactly how our meetings will proceed. ​
 
@@ -25,7 +25,7 @@ By having team meetings, we should be addressing these points:​
 * Discuss our last competition and/or scrimmage.​
 
 {: .design}
-Generate Concepts 
+# Generate Concepts 
 
 Here are some ideas we produced on how to address each of these points:
 
@@ -34,12 +34,12 @@ Here are some ideas we produced on how to address each of these points:
 * Work together with those who can be present at the meeting. (If not we work with those who are there) 
 
 {:. design}
-Our Decision
+# Our Decision
 
 After discussing each concept as a team, because there seemed to be no downside to any of the concepts we brainstormed for our team meetings. As such, we decided to use all of them. 
 
 {: .design}
-Develop Solution
+# Develop Solution
 
 In order to consolidate the previous concepts we listed, we will create an **agenda template** for team meetings that will help us stay on track. Because it is a template, it can be modified to meet our requirements for that week.​
 

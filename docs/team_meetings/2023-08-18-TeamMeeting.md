@@ -12,14 +12,14 @@ has_children: false
 ---
 
 {: .design}
-Introduction
+# Introduction
 
 Today we held the fifth team meeting of the year. Last week, we made a list of tasks that needed to be done, which we plan to complete this week. We also finished building our first chassis, but it had some flaws, so we needed to work on a CAD and later the construction of a new one. Additionally, we need to research the different operations for our future robot, such as catapult vs. flywheel, to have a better idea of what we want our robot to achieve.
 
 This week, our main focus will be on improving the notebook and CAD for the new chassis. Our goal is to ensure that it meets our requirements for a chassis and can perform tasks more efficiently. Additionally, we aim to build upon it more effectively.
 
 {: .design}
-Agenda
+# Agenda
 
 ## Review calendar and timeline(s) - 
 
@@ -37,7 +37,7 @@ Weekly Goal:  Build a good competition chassis
 * Update Links									(Tucker)
 
 {: .design}
-Summary
+# Summary
 
 Through researching chassis, we can move closer to our objective of creating a robust foundation for our competition robot. Moreover, we will enhance our knowledge of online notebooking and the design process, thereby improving our notebook. By conducting research and performing tests, we can work towards our ultimate goal of qualifying for worlds.
 

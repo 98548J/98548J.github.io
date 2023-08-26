@@ -12,11 +12,11 @@ has_children: false
 ---
 
 {: .design}
-Introduction
+# Introduction
 
 This year's game is called "Over Under" and it is played on a 12x12 foot field. The field is divided into two sides, one red and one blue, and two alliances (one red and one blue) play on the field at a time. Each alliance works together to score as many points as possible before the match ends. The team with the highest score at the end of the match is declared the winner. 
 
-![idk]()
+![Over Under Field](\assets\Game Analysis\Over Under field.png)
 
 Teams in this game score by using tri balls and scoring them in a netted goal or by scoring them in their offensive zone. In total there are 60 tri balls are available on the field. 12 of them begin on the field, and the other 44 are split between the alliances to use as **match loads**. 4 of the tri balls on the field are color-coordinated to the alliances, with 2 red and 2 blue. They are called **pre loads**. Teams can use the colored tri balls in a program to complete the tasks of the autonomous win point.
 
@@ -24,4 +24,4 @@ To earn an autonomous win point, one robot from each alliance must touch the ele
 
 In this game, teams can earn points by elevating their robot off the ground and up a bar. The amount of points depends on how high the robot is lifted, with different tiers earning different point values. Tier A earns 5 points, Tier B earns 10 points, Tier C earns 15 points, and Tier D earns 20 points. However, if your robot is in contact with the yellow cap at the top of the elevation bar, you earn 0 points.
 
-![idk]()
+![Elevation Tier](/assets/Game%20Analysis/Elevation%20Tier.png)

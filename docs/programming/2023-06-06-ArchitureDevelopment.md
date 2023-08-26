@@ -12,19 +12,19 @@ has_children: false
 ---
 
 {: .design}
-Define Problem
+# Define Problem
 
 With the completion of the test bed robot, we need to decide how we will program the test bed and any other robots we build. 
 
 The problem is, that we do not know what software architecture to use for any of our programs.
 
 {: .design}
-Constraints
+# Constraints
 
 We intend to use the same **architecture** for any prototypes and/or competition robots. Because of this, we will need to adhere to the constraints for competition programs. The main requirement for competition programs is that the program uses the **Competition Template**.
 
 {: .design}
-Generate Concepts
+# Generate Concepts
 
 Here is a list of paradigms we could use for our robot:
 
@@ -39,7 +39,7 @@ Also, below is a list of architectures we could use for our robot. These archite
 * Broker Pattern.
 
 {: .design}
-Our Decision
+# Our Decision
 
 After evaluating each option, I have decided to use:
 
@@ -55,7 +55,8 @@ This dependency on the environment or situation at hand is exactly opposite of w
 
 **Object oriented** programming works very well for robots; the structure of object oriented programs parallels almost perfectly with the structure of a robot:
 
-![idk]()
+A robot is made up of **subsystems** that each have specific **functionalities**. A robot can be modeled with multiple **classes** that have specific **methods**.
+
 
 Now, as far as **Imperative** programming is concerned, by looking at an autonomous routine from last season, we can see how this parallels an imperative programming style.
 
@@ -72,7 +73,7 @@ The next architecture to go is decided to be the **event-bus pattern**. This pat
 This leaves the **layered pattern**. The layered pattern is very adaptable to different situations, usually you have a top-level UI layer and then each layer down handles continually lower-level responsibilities. For our robot I would probably make one change, the top layer wouldn’t contain UI, rather, it would watch for changes in match state (disablement, autonomous, driver control, etc…) Then, the next layer down would handle any UI: (things like an autonomous selector or information displayed on the brain screen.) Finally, the bottom-most layer would handle the actual robot motion. Any layers below this will probably be method calls to any classes we make.
 
 {: .design}
-Develop Solution
+# Develop Solution
 
 The next step is to begin deciding exactly how we will program this.
 
@@ -80,7 +81,7 @@ First I will outline what the layered pattern will look and behave like.
 
 
 {: .design}
-Implement Solution
+# Implement Solution
 
 ![idk]()
 

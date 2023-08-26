@@ -12,7 +12,7 @@ has_children: false
 ---
 
 {: .design}
-Introduction 
+# Introduction 
 
 We recently held our fourth team meeting of the year and have achieved significant progress with our tasks. We even managed to complete some that we had planned to tackle later on. I believe our efforts have been very successful, especially with the help of the improved sticky notes that helped speed up the process. I am hopeful that we can maintain this level of consistency throughout the remainder of the year.
 
@@ -20,7 +20,7 @@ Next week, we're going to focus on creating a chassis by starting with a CAD des
 
 
 {: .design}
-Agenda
+# Agenda
 
 ## Review calendar and timeline(s) -
 
@@ -36,7 +36,7 @@ Weekly Goal: Use base chassis to compete in Thursday's scrimmage.
 * Take apart Odometry chassis 						(Caleb)
 
 {: .design}
-Summary
+# Summary
 
 In my opinion, our robot will have a strong foundation thanks to the extensive testing and hard work we have invested. This has allowed us to identify what is unnecessary, ultimately resulting in a superior robot.
 

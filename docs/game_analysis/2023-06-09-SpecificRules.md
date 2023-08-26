@@ -12,12 +12,12 @@ has_children: false
 ---
 
 {: .design}
-Introduction
+# Introduction
 
 Apart from scoring, there are particular regulations that determine whether a point has been earned or not and other regulations consist of information on the number of tri-balls in possession, specifications on elevation, criteria for match loads, offensive zones, double zoning, and winpoint requirements.
 
 {: .design}
-Generate Concepts
+# Generate Concepts
 
 **SC3 Goal criteria:**
 
