@@ -12,19 +12,19 @@ has_children: false
 ---
 
 {: .design}
-Define Problem
+# Define Problem
 
 Before we start brainstorming specific robot mechanisms, we want to identify specific tasks within the game that the robot can perform. The tasks we outline are not necessarily tasks that will make it into our robot’s capabilities, but we want a thorough list of tasks, nonetheless. ​
 
 {: .design}
-Constraints
+# Constraints
 
 As we are outlining tasks, the only constraints we have are outlined in the game manual. ​
 
 It is important to remember that the game manual doesn’t tell you what you can do, rather, it only tells you what you can’t do.​
 
 {: .design}
-Generate Concepts
+# Generate Concepts
 
 To produce our ideas, we had a brainstorming session as a team. Here is our list of potential objectives, abilities, or tasks that our robot could potentially perform:​
 
@@ -41,7 +41,7 @@ To produce our ideas, we had a brainstorming session as a team. Here is our list
 * Navigating under the barrier.​
 
 {: .design}
-Evaluate Solution
+# Evaluate Solution
 
 Now that we have made these criteria for this year’s game, we will be able to more effectively brainstorm robot ideas, concepts, and mechanisms.
 

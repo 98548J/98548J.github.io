@@ -12,14 +12,14 @@ has_children: false
 ---
 
 {: .design}
-Introduction
+# Introduction
 
 Today, we held our second team meeting of the year, where we utilized the agenda to outline a plan for the upcoming week. Our objective is to stay on track towards the development of the beginning of a robot.
 
 Our goal is to begin the robot this week and to have a working chassis ready for the upcoming scrimmage next Thursday. This will allow us to compete against the other teams in our club, and take data to see if it is an effective drivetrain. Not only that but look at other teams drive trains for inspiration.
 
 {: .design}
-Agenda
+# Agenda
 
 ## Review calendar and timeline(s) -
 
@@ -56,7 +56,7 @@ Assign Task(s):
 * Test chassis and take data							(Everyone)
 
 {: .design}
-Summery
+# Summery
 
 In this meeting, one of our main goals was to create a plan to begin our chassis. We believe the set of tasks we have set up should put us well underway to accomplishing the base of our robot and then once we come back from summer break we can begin design on the other subsystems of our robot.
 
