@@ -12,7 +12,7 @@ has_children: false
 ---
 
 {: .design}
-Introduction
+# Introduction
 
 This season will be our team’s second year competing in VRC. During the previous season, Spin Up, we had a successful season. In total, we earned 10 awards: 4 tournament champions, 2 skills champions, 3 excellence awards, and 1 design award.
 
@@ -21,7 +21,7 @@ Even though we were successful during much of the season, at our state tournamen
 To make sure we learn from those mistakes, we will be holding a formal team meeting regarding our plan to go to worlds, including discussing what happened at state in the previous season.
 
 {: .design}
-Team Members
+# Team Members
 
 ## Caleb Carlson
 

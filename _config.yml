@@ -19,6 +19,9 @@ callouts:
   grey-lt:
     title: "Meeting Template"
     color: grey-lt
+  takeaway:
+    title: "The Takeaway"
+    color: grey-lt
 
 defaults:
 

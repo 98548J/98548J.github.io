@@ -11,7 +11,7 @@ has_children: false
 ---
 
 {: .design}
-Define Problem
+# Define Problem
 
 We currently have no experience with odometry. One thing I (Caleb) want to do this year is use odometry to program our autonomous routines. However, we need a robot to start programming odometry with.
 
@@ -19,7 +19,7 @@ We currently have no experience with odometry. One thing I (Caleb) want to do th
 We need a robot to begin developing our odometry.
 
 {: .design}
-Generate Concepts
+# Generate Concepts
 
 Here are some potential solutions we came up with for this ‘testbed’:
 
@@ -27,7 +27,7 @@ Here are some potential solutions we came up with for this ‘testbed’:
 * Build a simple testbed robot separately.
 
 {: .design}
-Our Decision
+# Our Decision
 
 Since we have not finished our game analysis yet, it wouldn’t make sense to integrate odometry into our competition robot. 
 
@@ -35,7 +35,7 @@ Since we have not finished our game analysis yet, it wouldn’t make sense to in
 As such, we decided to design a simple robot with odometry tracking wheels instead.
 
 {: .design}
-Develop Solution
+# Develop Solution
 
 To speed up the process of building our designs, we use CAD software before we build. The CAD software we use is Autodesk Fusion 360. One convenient thing about Fusion 360 is that it stores all of your files online, this way each team member can almost seamlessly work on the same file, from different computers.
 
@@ -49,7 +49,7 @@ Below you can see the CAD we will build our design from:
 One thing to note is that we only inserted one tracking wheel into the CAD, this was to make sure we knew exactly what spacing to use to get the tracking wheel to make contact with the center of the robot. 
 
 {: .design}
-Construct & Test
+# Construct & Test
 
 First, we put together the frame of the chassis. Then, we constructed the tracking wheels and attached all the motors and tracking wheels.
 
@@ -62,7 +62,7 @@ However, by this point, we realized something was wrong. The issue was, that the
 If we tried to run this robot, we would risk damaging our brain.
 
 {: .design}
-Define Problem
+# Define Problem
 
 To summarize, our original plan was to use the old 393 motors for the testbed; we discovered that this would not be feasible with the V5 brain.
 
@@ -70,7 +70,7 @@ To summarize, our original plan was to use the old 393 motors for the testbed; w
 We need a new way of powering the drivetrain of our test-rig, without the risk of damaging our robot's brain.
 
 {: .design}
-Generate Concepts
+# Generate Concepts
 
 Here are some potential solutions we came up with to solve the problem:
 
@@ -80,7 +80,7 @@ Here are some potential solutions we came up with to solve the problem:
 * Use 4 V5 5.5-watt motors, but flip them so they are on the outside of the robot.
 
 {: .design}
-Our Decision
+# Our Decision
 
 The first two potential solutions involve a level of risk that we don’t want to take. (A V5 brain costs > $350!) Out of the other two potential solutions, while we don’t necessarily need the power of the 11-Watt motors, because the 5.5-Watt motors are essentially rare commodities at the moment in our robotics program, it wouldn’t be wise to use 4 of them. 
 
@@ -88,7 +88,7 @@ The first two potential solutions involve a level of risk that we don’t want t
 Using the process of elimination, we decided to simply use 4 of the 11-watt motors.
 
 {: .design}
-Develop Solution
+# Develop Solution
 
 Normally, having motors on the outside of your robot, exposed, would be a very bad idea. The reason this would be a bad idea is that during a competition match, an opposing robot could accidentally ram into you and damage any exposed elements of your robot -- in this case, your motors.
 
@@ -106,7 +106,7 @@ Aside from any questions of whether this should be done, the switch should be ve
 …And that’s it!
 
 {: .design}
-Construct & Test
+# Construct & Test
 
 Below you can see the test rig with the motors attached, and then wired:
 
@@ -118,6 +118,6 @@ The first step in testing our rig was to turn on the brain and verify that all o
 The test rig was able to drive without any issues.
 
 {: .design}
-Evaluate Solution
+# Evaluate Solution
 
 Now that we have a test rig, we will be able to begin researching and developing odometry for our robot.

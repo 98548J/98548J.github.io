@@ -12,7 +12,7 @@ has_children: false
 ---
 
 {: .design}
-Define Problem
+# Define Problem
 
 In our previous entry, we detailed how we designed, built, and tested 7 different drivetrains. The purpose of these tests was to figure out what the best wheel layout for our drivetrain would be. The results of our tests are shown in this entry.
 
@@ -20,7 +20,7 @@ In our previous entry, we detailed how we designed, built, and tested 7 differen
 We need to decide exactly which wheel configuration we will use, the speed of the chassis, and the size footprint of our drivetrain.
 
 {: .design}
-Generate Concepts
+# Generate Concepts
 
 Here are some potential solutions we came up with, all of these concepts were based on our testing data.
 
@@ -48,7 +48,7 @@ Here are some potential solutions we came up with, all of these concepts were ba
    * 600 Rpm Motors -> 36 Tooth Gear -> 72 Tooth Gear -> 3.25"
 
 {: .design}
-Our Decision
+# Our Decision
 
 ## Wheel Configuration -
 
@@ -75,7 +75,7 @@ As we have decided not to use 4" wheels, we don't have to consider idea [#1]({{s
 > * Idea [#2]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20fast%20chassis%20(~61%20inches%20per%20second)). A fast chassis ***(~61 inches per second)***
 
 {: .design}
-Develop Solution
+# Develop Solution
 
 Below you can see the layout of the gears and wheels we would use:
 
@@ -99,7 +99,7 @@ Once we had one half of the chassis in CAD, we simply mirrored the part, and joi
 ![FirstDrivetrainTop](/assets/engineering/FirstDrivetrainFront.png){: width="48%"}
 
 {: .design}
-Construct & Test
+# Construct
 
 Now that we have finished the CAD of our base chassis, we will build it according to the CAD. That way, there will be as few mistakes as possible, and because the CAD is so detailed, we won't need to figure out spacing when we build it. This method also keeps the chassis square and causes the least friction. Untimely leading to a more successful drive train.
 
@@ -113,10 +113,38 @@ Below is one 5.5-watt motor vertical mounting bracket constructed:
 ![5.5wattmount](/assets/engineering/5.5wattmount.jpg){: width="48%"}
 ![5.5wattmountfront](/assets/engineering/5.5wattmountfront.jpg){: width="48%"}
 
-With the help of the CAD, we were able to construct the chassis in only a few hours. The chassis is very smooth-running and has almost no friction. Using CAD allowed us to work out any problems with the chassis we had beforehand which saved so much time in the end. 
+Below is the completed chassis with both halves attached, and to the right is a render of our CAD for refrence:
 
-There was one thing that differed from the CAD on the chassis was instead of a screw joint on the wheel, we changed it to a regular axle so that it would move smoother. The screw joint was causing friction, and changing it eliminated all the friction. 
+<!-- ![CompletedFirstDrivetrain](/assets/engineering/CompletedFirstDrivetrainPIC2.jpg){: width="48%"}
+![CompletedFirstDrivetrainCAD](/assets/engineering/CompletedFirstDrivetrainCAD2.png){: width="48%"} -->
+![CompletedFirstDrivetrain](/assets/engineering/CompletedFirstDrivetrainPIC3.jpg){: width="45%"}
+![CompletedFirstDrivetrainCAD](/assets/engineering/CompletedFirstDrivetrainCAD3.png){: width="54%"}
 
-We plan to test the new chassis in our club scrimmage on Thursday. That way, we can compare our drive train to others and then reevaluate to see if there are any adjustments we can consider. However, with all the testing and CAD work we have done, I don't see much that we could adjust other than making a cover for the gears that contact the bar slightly. 
+With the help of the CAD, we were able to construct the chassis in only a few hours. The chassis is very smooth-running and has almost no friction.
 
-Along with the scrimmage, we ran the same tests on this chassis as we did on the previous test chassis. Below are the results of the scrimmage and tests:
+We plan to test this new chassis in our scrimmage on Thursday. That way, we can compare our drivetrain to others and then reevaluate to see if there are any adjustments we can consider. Along with the scrimmage, we ran the same tests on this chassis as we did on the previous test chassis. Below are the results of the scrimmage and tests:
+
+{: .design}
+# Test
+
+To test this chassis, we ran the same tests as we did for our [drivetrain prototypes]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(This%20test%20includes%20all%207%20chassis%2C%20including%20the%20adjustable%20chassis)%3A); each test was run 10 times, and the results were recorded as a percentage. Below, you can see our results:
+
+| Momentum Jump | Contact Jump | High-Centered Jump|
+|:---:|:---:|:---:|
+| 100% | 100% | 100% |
+
+From this testing data, we can see that the [conclusions]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#evaluate-solution) we had drawn from our drivetrain prototype testing previously have proven accurate. The use of flex wheels in between the drivetrain's main wheels allows the chassis to drive over the barrier much easier.
+
+## Scrimmage -
+
+During the scrimmage, we won all of our matches. This shows that this chassis performs well. **However**, although we won all of our matches, throughout the scrimmage, **our robot's motors would very quickly heat up**; this is a problem because when a V5 smart motor gets too hot, it will limit the amount of voltage that can be applied to the motor. The effect of this thermal throttling is that our robot will accelerate slower, have a lower top speed, and also have a very low torque. Sometimes, when the motors are thermal throttling, the chassis is unable to go over the barrier.
+
+{: .design}
+# Evaluate Solution
+
+In summary, here is what we have learned from this chassis:
+
+* Our chassis is too fast; it overheats too quickly.
+* Using two flex wheels per drivetrain side is an effective way to assist in driving over the barrier.
+
+Now that we are aware of these advantages and disadvantages, we will be able to make a much better chassis in the future.

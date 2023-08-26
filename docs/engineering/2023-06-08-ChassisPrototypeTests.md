@@ -12,7 +12,7 @@ has_children: false
 ---
 
 {: .design}
-Define Problem
+# Define Problem
 
 This season presents our robots with a unique challenge; there is a (non-trivially tall) barrier spanning the field:
 
@@ -24,7 +24,7 @@ Because our team has never encountered such a (literal) obstacle before, we don'
 We need to find out what features make a good chassis for this season.
 
 {: .design}
-Generate Concepts
+# Generate Concepts
 
 Here are some potential ways we could solve our problem:
 
@@ -33,7 +33,7 @@ Here are some potential ways we could solve our problem:
 3. Make our best educated-guesses about what kind of characteristics will perform the best on a chassis, and start building.
 
 {: .design}
-Our Decision
+# Our Decision
 
 We are all in agreement that the last concept (#3) is a poor choice. And while option #2 would probably work, we wouldn't know **why** the chassis we built is good.
 
@@ -41,7 +41,7 @@ We are all in agreement that the last concept (#3) is a poor choice. And while o
 The option that would allow us to learn the most, is option #1. (Also, this solution would adhere to the design process).
 
 {: .design}
-Develop Solution
+# Develop Solution
 
 First, we will install Fusion 360 on our personal computers and create a shared folder for easy access to all team members. However, the robotics room will be closed from June 16 to August 1, which means that we will have to halt production of the robot until we can meet as a team again. In the meantime, we will focus on completing the chassis so that we can have a quick start when we resume working together.
 
@@ -68,7 +68,7 @@ For our seven different chassis designs, we first made a CAD model of **a single
 The images depicted above show the seven chassis that we will be testing. We plan to gather data on both designs and incorporate the best features into another CAD model.
 
 {: .design}
-Construct & Test
+# Construct
 
 We aim to first build, and test each chassis, determining their strengths and weaknesses through our testing. This will help us identify the features that work well and those that don't.
 
@@ -78,6 +78,9 @@ After completing construction, we will move on to testing the functionality of e
 
 ![smallerChassis](/assets/engineering/MinniChassis2.jpg){: width="35.665%"}
 ![adjustableChassis](/assets/engineering/AdjustableChassisSide.jpg){: width="63.345%"}
+
+{: .design}
+# Test
 
 To become familiar with the smallest robot, our driver, Tucker, ran some driver skills. He completed a total of six runs and the following scores were obtained. The average skills score obtained was **6.5**:
 
@@ -110,7 +113,7 @@ Below you can see the results of our barrier tests, each trial had 10 tests, and
 | (Adjustable) Four-3.25” | 0% | 1% | 0% |
 
 {: .design}
-Evaluate Solution
+# Evaluate Solution
 
 During the testing phase, we discovered the advantages and disadvantages of each drivetrain configuration. As a result, we now have the necessary information to construct a high-performing chassis for our competition robot. Here is a list of things we have learned about what did and didn't work, as well as ideas we want to incorporate into our competition robot:
 

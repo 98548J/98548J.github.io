@@ -38,5 +38,35 @@ layout: default
             td.style.color = "black";
         });
     });
+
+    function delay(milliseconds){
+        return new Promise(resolve => {
+            setTimeout(resolve, milliseconds);
+        });
+    }
+
+    document.addEventListener("DOMContentLoaded", async function(){
+
+        if (window.location.hash) {
+
+            await delay(750);
+
+            var targetElement = document.getElementById(window.location.hash.slice(1));
+            var site_header_style = getComputedStyle(document.getElementsByClassName("site-header").item(0));
+
+            if (targetElement) {
+                var offset = -80;
+                
+                var newScrollPosition = targetElement.getBoundingClientRect().top + window.scrollY + offset;
+                
+
+                window.scrollTo({
+                    top: newScrollPosition,
+                    behavior: "smooth"
+                });
+            }
+        }
+    });
+
 </script>
 
