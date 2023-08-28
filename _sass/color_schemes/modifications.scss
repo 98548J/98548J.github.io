@@ -18,14 +18,20 @@ strong {
     font-weight: 400;
 }
 
+table.calendar {
+  background-color: grey;
+}
+
 .calendar thead tr th {
   background-color: #000000;
   font-weight: 500;
+  border:1.5px solid #555;
 }
 .calendar tbody tr td {
-  background-color: #cccccc;
+  background-color: #eeeeee;
   color: black;
   font-weight: 500;
+  border:1.5px solid #aaa;
 }
 
 .design .anchor-heading {
