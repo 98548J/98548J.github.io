@@ -26,6 +26,11 @@ During the initial skills runs, the points accumulated varied due to a few facto
 {: .design}
 # Evaluate
 
-![idk]()
+|  Skills | Scores  |
+|:---|:---|
+| Runs 1| 12 |
+| Run 2 | 32 |
+| Run 3 | 52 |
+{: .calendar}
 
 To begin, these runs were done with this robot. These runs were also done after I had researched the rules on skills a bit more. Understanding the rules helped me realize that I could push the alliance triballs into the goal right to the left of where I was starting. This changed my strategy a lot. Put link here for skills game analysis. 

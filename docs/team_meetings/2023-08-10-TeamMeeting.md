@@ -40,4 +40,13 @@ Weekly Goal: Use base chassis to compete in Thursday's scrimmage.
 
 In my opinion, our robot will have a strong foundation thanks to the extensive testing and hard work we have invested. This has allowed us to identify what is unnecessary, ultimately resulting in a superior robot.
 
-# CALENDARRRR
+| August 10 - 16  | Plan (s) |
+|:---|:---|
+| Thu | Take apart odometry chassis |
+| Fri |CAD base chassis|
+| Sat | Finish Odometry research entry. |
+| Sun |  |
+| Mon | FInish CAD/ build chassis |
+| Tue | Build chassis |
+| Wed | Finishing building/ get ready for Thursday <br> scermage |
+{: .calendar}

@@ -41,4 +41,13 @@ Weekly Goal:  Build a good competition chassis
 
 Through researching chassis, we can move closer to our objective of creating a robust foundation for our competition robot. Moreover, we will enhance our knowledge of online notebooking and the design process, thereby improving our notebook. By conducting research and performing tests, we can work towards our ultimate goal of qualifying for worlds.
 
-# CALENDARRRR
+| August 17 - 23  | Plan (s) |
+|:---|:---|
+| Thu | Test first chassis |
+| Fri |Began research on second chassis|
+| Sat | |
+| Sun |  |
+| Mon | Research notebook |
+| Tue | CAD new chassis |
+| Wed | Finish CAD/  build chassis |
+{: .calendar}

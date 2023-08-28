@@ -41,4 +41,13 @@ We have returned from our summer break and are currently focused on testing the 
 
 When we assign fewer tasks to each person, we have a more direct path toward achieving our goal. This approach also allows us to accomplish more. I am confident that with the upcoming testing, our robot will be highly successful in the future. 
 
-# CALENDEREERR
+|  August 3 - 9  | Plan (s) |
+|:---|:---|
+| Thu | Build First chassis |
+| Fri | Finish building / test |
+| Sat | Cad chassis/ work on rules entry |
+| Sun |  |
+| Mon | Take apart chassis and build next chassis  |
+| Tue | Finish building/ test |
+| Wed | Take apart and CAD  |
+{: .calendar}

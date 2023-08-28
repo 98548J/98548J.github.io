@@ -35,8 +35,17 @@ Weekly Goal:  Transfur notebook into the website
 * Test chassis 								(Tucker)
 
 {: .design}
-# Summary
+# SummaryThis
 
-this week most if not all tasks should be completed. Using the calendar we should be well on trak of our goal of being prepared for our first competition. Not only to compete but also learn and take notes on the other teams around us.
+This week most if not all tasks should be completed. Using the calendar we should be well on track with our goal of being prepared for our first competition. Not only to compete but also to learn and take notes on the other teams around us.
 
-# CALENDERSARSSS
+ |  June 23 - 30  | Plan (s) |
+|:---|:---|
+| Thu | Finish website coding |
+| Fri |Transfer information and photos |
+| Sat | Make custom tables for the website |
+| Sun |  |
+| Mon | CAD chassis |
+| Tue | Finish chassis CAD |
+| Wed |  build chassis |
+{: .calendar}
