@@ -80,16 +80,20 @@ As we have decided not to use 4" wheels, we don't have to consider idea [#1]({{s
 Below you can see the layout of the gears and wheels we would use:
 
 ![FirstDrivetrainGears](/assets/engineering/FirstDrivetrainGears.png)
+{: .cad}
 
 Rather than using a 6-motor drivetrain (66 watts), we want to make a 55-watt drivetrain. To do this, we would replace two of the regular V5 smart motors with some 5.5-watt motors.
 
 To mount the 5.5-watt motors, we had to make a special mounting bracket. Below you can see the CAD used for the bracket:
 
-![5.5-wattBracket](/assets/engineering/5.5WVerticalISO.png){: width="45%"} ![5.5-wattBracket](/assets/engineering/5.5WVerticalRight.png){: width="54%"}
+![5.5-wattBracket](/assets/engineering/5.5WVerticalISO.png){: width="45%"}
+![5.5-wattBracket](/assets/engineering/5.5WVerticalRight.png){: width="54%"}
+ {: .cad}
 
 And, here is our CAD with the addition of bearings, axles, motors, wheels, and other necessary components:
 
 ![FirstDrivetrainHalf](/assets/engineering/FirstDrivetrainHalf.png)
+{: .cad}
 
 Once we had one half of the chassis in CAD, we simply mirrored the part, and joined the two halves together with the rest of our robot's structure:
 
@@ -97,6 +101,7 @@ Once we had one half of the chassis in CAD, we simply mirrored the part, and joi
 ![FirstDrivetrainTop](/assets/engineering/FirstDrivetrainISO.png){: width="54%"}
 ![FirstDrivetrainTop](/assets/engineering/FirstDrivetrainRight.png){: width="48%"}
 ![FirstDrivetrainTop](/assets/engineering/FirstDrivetrainFront.png){: width="48%"}
+ {: .cad}
 
 {: .design}
 # Construct
@@ -113,12 +118,11 @@ Below is one 5.5-watt motor vertical mounting bracket constructed:
 ![5.5wattmount](/assets/engineering/5.5wattmount.jpg){: width="48%"}
 ![5.5wattmountfront](/assets/engineering/5.5wattmountfront.jpg){: width="48%"}
 
-Below is the completed chassis with both halves attached, and to the right is a render of our CAD for refrence:
+Below is the completed chassis with both halves attached, and to the right is a render of our CAD for reference:
 
-<!-- ![CompletedFirstDrivetrain](/assets/engineering/CompletedFirstDrivetrainPIC2.jpg){: width="48%"}
-![CompletedFirstDrivetrainCAD](/assets/engineering/CompletedFirstDrivetrainCAD2.png){: width="48%"} -->
 ![CompletedFirstDrivetrain](/assets/engineering/CompletedFirstDrivetrainPIC3.jpg){: width="45%"}
 ![CompletedFirstDrivetrainCAD](/assets/engineering/CompletedFirstDrivetrainCAD3.png){: width="54%"}
+{: .cad}
 
 With the help of the CAD, we were able to construct the chassis in only a few hours. The chassis is very smooth-running and has almost no friction.
 

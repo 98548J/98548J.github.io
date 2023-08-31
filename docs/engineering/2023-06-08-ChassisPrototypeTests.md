@@ -64,6 +64,7 @@ For our seven different chassis designs, we first made a CAD model of **a single
 ![adjustable](/assets/engineering/3.75 inch 4 wheel RIGHT.png){: width="32.5%"}
 ![adjustable](/assets/engineering/3.75 inch 4 wheel 2 flex RIGHT.png){: width="32.5%"}
 ![adjustable](/assets/engineering/3.75 inch 6 wheel RIGHT.png){: width="32.5%"}
+ {: .cad}
 
 The images depicted above show the seven chassis that we will be testing. We plan to gather data on both designs and incorporate the best features into another CAD model.
 
