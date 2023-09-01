@@ -72,28 +72,94 @@ layout: default
 
     document.addEventListener("DOMContentLoaded", function() {
 
-    var data = [
-        ["2003", 1, 0, 0],
-        ["2004", 4, 0, 0],
-        ["2005", 6, 0, 0],
-        ["2006", 9, 1, 0],
-        ["2007", 12, 2, 0],
-        ["2008", 13, 5, 1],
-        ["2009", 15, 6, 1],
-        ["2010", 16, 9, 1],
-        ["2011", 16, 10, 4],
-        ["2012", 17, 11, 5],
-        ["2013", 17, 13, 6],
-        ["2014", 17, 14, 7],
-        ["2015", 17, 14, 10],
-        ["2016", 17, 14, 12],
-        ["2017", 19, 16, 12],
-        ["2018", 20, 17, 14],
-        ["2019", 20, 19, 16],
-        ["2020", 20, 20, 17],
-        ["2021", 20, 20, 20],
-        ["2022", 20, 22, 20]
+    var tag = document.getElementById("SkillsHistory");
+    var end_date = tag.getAttribute("to_date");
+
+    console.log(end_date);
+
+    var months = [
+        "January",
+        "Febuary",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
     ];
+
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+
+    var data_raw = [
+
+        ["2023-08-12", 2, 0, 0, 0],
+        ["2023-08-12", 7, 0, 0, 0],
+        ["2023-08-12", 4, 0, 0, 0],
+
+        ["2023-08-31", 37, 12, 65, 0],
+        ["2023-08-31", 35, 12, "continue", 0],
+        ["2023-08-31", 12, 12, "continue", 0],
+    ];
+
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+    /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
+
+    var data_parsed = [];
+
+    var target_date_found = false;
+    var last_date_found;
+    var date_counter;
+    var date_as_string_array;
+    var new_date;
+
+    var date_year;
+    var date_month;
+    var date_day;
+
+    var last_driver_score = 0;
+    var last_programming_score = 0;
+    var last_rank_100_score = 0;
+    var last_rank_1000_score = 0;
+
+    var date;
+    var driver_score;
+    var programming_score;
+    var rank_100_score;
+    var rank_1000_score;
+
+    for (let i = 0; i < data_raw.length; i++) {
+        const element = array[i];
+
+        date = element[0];
+        driver_score = element[1];
+        programming_score = element[2];
+        rank_100_score = element[3];
+        rank_1000_score = element[4];
+        
+        if(date != last_date_found) {
+            date_counter = 1;
+            last_date_found = date;
+        } else {
+            date_counter += 1;
+        }
+
+        date_as_string_array = toString(date).split("-");
+        date_year = date_as_string_array[0];
+        date_month = months[parseInt(date_as_string_array[1])-1];
+        date_day = date_as_string_array[2];
+
+        new_date = String(date_month) + String(date_day) + String(date_year)
+
+    }
 
     var dataSet = anychart.data.set(data);
 
