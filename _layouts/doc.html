@@ -75,11 +75,9 @@ layout: default
     var tag = document.getElementById("SkillsHistory");
     var end_date = tag.getAttribute("to_date");
 
-    console.log(end_date);
-
     var months = [
         "January",
-        "Febuary",
+        "February",
         "March",
         "April",
         "May",
@@ -98,14 +96,8 @@ layout: default
     /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
 
     var data_raw = [
-
-        ["2023-08-12", 2, 0, 0, 0],
-        ["2023-08-12", 7, 0, 0, 0],
-        ["2023-08-12", 4, 0, 0, 0],
-
-        ["2023-08-31", 37, 12, 65, 0],
-        ["2023-08-31", 35, 12, "continue", 0],
-        ["2023-08-31", 12, 12, "continue", 0],
+        ["2023-08-12", [2, 7, 4], [0], 0, 0],
+        ["2023-08-31", [37, 35, 12], [12], 65, 0],
     ];
 
     /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
@@ -115,9 +107,7 @@ layout: default
 
     var data_parsed = [];
 
-    var target_date_found = false;
-    var last_date_found;
-    var date_counter;
+    let target_date_found = false;
     var date_as_string_array;
     var new_date;
 
@@ -125,41 +115,58 @@ layout: default
     var date_month;
     var date_day;
 
-    var last_driver_score = 0;
-    var last_programming_score = 0;
-    var last_rank_100_score = 0;
-    var last_rank_1000_score = 0;
-
     var date;
-    var driver_score;
-    var programming_score;
+
+    var driver_scores;
+    var programming_scores;
+
+    var best_driver;
+    var best_programming;
+
+    let last_driver = 0;
+    let last_programming = 0;
+
     var rank_100_score;
     var rank_1000_score;
 
     for (let i = 0; i < data_raw.length; i++) {
-        const element = array[i];
+        const element = data_raw[i];
 
         date = element[0];
-        driver_score = element[1];
-        programming_score = element[2];
+        driver_scores = element[1];
+        programming_scores = element[2];
         rank_100_score = element[3];
         rank_1000_score = element[4];
-        
-        if(date != last_date_found) {
-            date_counter = 1;
-            last_date_found = date;
-        } else {
-            date_counter += 1;
-        }
 
-        date_as_string_array = toString(date).split("-");
+        /*Creating nice date*/
+        date_as_string_array = date.split("-");
         date_year = date_as_string_array[0];
         date_month = months[parseInt(date_as_string_array[1])-1];
         date_day = date_as_string_array[2];
+        new_date = String(date_month) + " " + String(date_day) + ", " + String(date_year);
+        
+        /*Creating nice driver and programming*/
+        driver_scores.sort();
+        programming_scores.sort();
 
-        new_date = String(date_month) + String(date_day) + String(date_year)
+        if (driver_scores.length == 0) {
+            best_driver = last_driver;
+        } else {
+            best_driver = driver_scores[-1];
+            last_driver = best_driver;
+        }
+        
+        if (programming_scores.length == 0) {
+            best_programming = last_programming;
+        } else {
+            best_programming = programming_scores[-1];
+            last_programming = best_programming;
+        }
 
+        data_parsed.push([new_date, best_driver, best_programming, rank_100_score, rank_1000_score, driver_scores, programming_scores]);
     }
+
+    console.log(data_parsed);
 
     var dataSet = anychart.data.set(data);
 
