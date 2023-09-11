@@ -14,7 +14,7 @@ layout: default
         {{signature}}
     {% endfor %}
 {% endif %}
-<script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-base.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
 <script>
     /*Chart Percentage Coloring*/
     document.addEventListener("DOMContentLoaded", function (){
@@ -168,28 +168,33 @@ layout: default
 
     console.log(data_parsed);
 
-    var dataSet = anychart.data.set(data);
+    const xValues = [100,200,300,400,500,600,700,800,900,1000];
 
-    var firstSeriesData = dataSet.mapAs({x: 0, value: 1});
-    var secondSeriesData = dataSet.mapAs({x: 0, value: 2});
-    var thirdSeriesData = dataSet.mapAs({x: 0, value: 3});
-
-    var chart = anychart.line();
-
-    var firstSeries = chart.line(firstSeriesData);
-    firstSeries.name("Roger Federer");
-    var secondSeries = chart.line(secondSeriesData);
-    secondSeries.name("Rafael Nadal");
-    var thirdSeries = chart.line(thirdSeriesData);
-    thirdSeries.name("Novak Djokovic");
-
-    chart.legend().enabled(true);
-
-    chart.title("Big Three's Grand Slam Title Race");
-
-    chart.container("SkillsHistory");
-
-    chart.draw();
+    new Chart("SkillsHistory", {
+    type: "line",
+    data: {
+        labels: xValues,
+        datasets: [{
+        data: [860,1140,1060,1060,1070,1110,1330,2210,7830,2478],
+        borderColor: "red",
+        fill: false,
+        label: "Our score"
+        },{
+        data: [1600,1700,1700,1900,2000,2700,4000,5000,6000,7000],
+        borderColor: "green",
+        fill: false,
+        label: "#100 in the world"
+        },{
+        data: [300,700,2000,5000,6000,4000,2000,1000,200,100],
+        borderColor: "blue",
+        fill: false,
+        label: "#1000 in the world"
+        }]
+    },
+    options: {
+        legend: {display: true},
+    }
+    });
 
     });
 </script>
