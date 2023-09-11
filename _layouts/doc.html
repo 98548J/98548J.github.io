@@ -98,6 +98,11 @@ layout: default
     var data_raw = [
         ["2023-08-12", [2, 7, 4], [0], 0, 0],
         ["2023-08-31", [37, 35, 12], [12], 65, 0],
+
+
+        ["2023-09-31", [37, 77, 12], [50], 65, 0],
+        ["2023-10-31", [37, 35, 88], [60], 65, 0],
+        ["2023-11-31", [150, 35, 12], [65], 65, 0],
     ];
 
     /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
@@ -149,39 +154,53 @@ layout: default
         driver_scores.sort();
         programming_scores.sort();
 
+        driver_scores.reverse();
+        programming_scores.reverse();
+
         if (driver_scores.length == 0) {
             best_driver = last_driver;
         } else {
-            best_driver = driver_scores[-1];
+            best_driver = driver_scores[0];
             last_driver = best_driver;
         }
         
         if (programming_scores.length == 0) {
             best_programming = last_programming;
         } else {
-            best_programming = programming_scores[-1];
+            best_programming = programming_scores[0];
             last_programming = best_programming;
         }
 
-        data_parsed.push([new_date, best_driver, best_programming, rank_100_score, rank_1000_score, driver_scores, programming_scores]);
+        data_parsed.push([new_date, best_driver, best_programming, best_driver + best_programming, rank_100_score, rank_1000_score, driver_scores, programming_scores]);
     }
 
-    console.log(data_parsed);
+    var dataSet = anychart.data.set(data_parsed);
 
-    var dataSet = anychart.data.set(data);
-
-    var firstSeriesData = dataSet.mapAs({x: 0, value: 1});
-    var secondSeriesData = dataSet.mapAs({x: 0, value: 2});
-    var thirdSeriesData = dataSet.mapAs({x: 0, value: 3});
+    var driverScores = dataSet.mapAs({x: 0, value: 1});
+    var programmingScores = dataSet.mapAs({x: 0, value: 2});
+    var combignedScores = dataSet.mapAs({x: 0, value: 3});
+    var top100Scores = dataSet.mapAs({x: 0, value: 4});
+    var top1000Scores = dataSet.mapAs({x: 0, value: 5});
 
     var chart = anychart.line();
 
-    var firstSeries = chart.line(firstSeriesData);
-    firstSeries.name("Roger Federer");
-    var secondSeries = chart.line(secondSeriesData);
-    secondSeries.name("Rafael Nadal");
-    var thirdSeries = chart.line(thirdSeriesData);
-    thirdSeries.name("Novak Djokovic");
+    /*
+    var driverScoresSeries = chart.line(driverScores);
+    driverScoresSeries.name("Driver Skills");
+
+    var programmingScoresSeries = chart.line(programmingScores);
+    programmingScoresSeries.name("Programming Skills");
+    */
+
+    var combignedScoresSeries = chart.line(combignedScores);
+    combignedScoresSeries.name("Our Score");
+    combignedScoresSeries.color("Red");
+
+    var top100ScoresSeries = chart.line(top100Scores);
+    top100ScoresSeries.name("Worlds Rank-100 Score");
+
+    var top1000ScoresSeries = chart.line(top1000Scores);
+    top1000ScoresSeries.name("Worlds Rank-1,000 Score");
 
     chart.legend().enabled(true);
 
