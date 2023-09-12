@@ -14,7 +14,7 @@ layout: default
         {{signature}}
     {% endfor %}
 {% endif %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
     /*Chart Percentage Coloring*/
     document.addEventListener("DOMContentLoaded", function (){
@@ -96,16 +96,11 @@ layout: default
     /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
 
     var data_raw = [
-        ["2023-08-12", [2, 7, 4], [0], 0, 0],
-        ["2023-08-15", [22, 17, 24], [], 0, 0],
-        ["2023-08-17", [], [], 43, 0],
-        ["2023-08-24", [], [], 58, 0],
-        ["2023-08-31", [37, 35, 12], [12], 65, 0],
-
-
-        ["2023-09-31", [37, 77, 12], [50], 65, 0],
-        ["2023-10-31", [37, 35, 88], [60], 65, 0],
-        ["2023-11-31", [150, 35, 12], [65], 65, 0],
+        ["2023-08-12", [2, 7, 4], [0], NaN, NaN],
+        ["2023-08-15", [22, 17, 24], [], NaN, NaN],
+        ["2023-08-17", [], [], 43, NaN],
+        ["2023-08-24", [], [], 58, NaN],
+        ["2023-08-31", [37, 35, 12], [12], 65, NaN],
     ];
 
     /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
@@ -159,9 +154,6 @@ layout: default
         driver_scores.sort();
         programming_scores.sort();
 
-        driver_scores.reverse();
-        programming_scores.reverse();
-
         if (driver_scores.length == 0) {
             best_driver = NaN;
         } else {
@@ -176,7 +168,7 @@ layout: default
             last_programming = best_programming;
         }
 
-        data_parsed.push([new_date, best_driver, best_programming, best_driver + best_programming, rank_100_score, rank_1000_score, driver_scores, programming_scores]);
+        data_parsed.push([new_date, best_driver, best_programming, rank_100_score, rank_1000_score, driver_scores, programming_scores]);
 
         if(date == end_date) {
             date_extent = i + 1;
@@ -218,6 +210,15 @@ layout: default
         ]
     },
     options: {
+        elements: {
+            line: {
+                tension: 0.5
+            }
+        },
+        interaction: {
+            mode: 'index',
+            intersect: false,
+        },
         legend: {display: true},
         scales: {
             x: [{
