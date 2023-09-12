@@ -6,6 +6,13 @@ strong {
   color: tan;
 }
 
+canvas {
+  background-color: #ffffff;
+  border: 5px;
+  border-radius: 5px;
+  padding: 15px;
+}
+
 .design {
     padding: 5px;
     background-color: teal;
@@ -16,6 +23,17 @@ strong {
     margin-bottom: 16px !important;
     font-size: 1.3rem !important;
     font-weight: 400;
+}
+
+.cad {
+  background-color: rgb(135, 207, 235);
+  border: 5px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+img {
+  border-radius: 5px;
 }
 
 table.calendar {

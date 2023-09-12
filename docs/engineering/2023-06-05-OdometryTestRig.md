@@ -45,6 +45,7 @@ Below you can see the CAD we will build our design from:
 ![placeholder CAD PICTURES](/assets/engineering/TestRig.png){: width="46%"}
 ![placeholder CAD PICTURES](/assets/engineering/TestRigRight.png){: width="48%"}
 ![placeholder CAD PICTURES](/assets/engineering/TestRigFront.png){: width="48%"}
+{: .cad}
 
 One thing to note is that we only inserted one tracking wheel into the CAD, this was to make sure we knew exactly what spacing to use to get the tracking wheel to make contact with the center of the robot. 
 

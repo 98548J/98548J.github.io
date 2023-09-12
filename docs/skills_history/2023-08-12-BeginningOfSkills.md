@@ -35,4 +35,4 @@ During the initial skills runs, the points accumulated varied due to a few facto
 
 To begin, these runs were done with this robot. These runs were also done after I had researched the rules on skills a bit more. Understanding the rules helped me realize that I could push the alliance triballs into the goal right to the left of where I was starting. This changed my strategy a lot. Put link here for skills game analysis. 
 
-<div id="SkillsHistory" to_date="2023-08-12"></div>
+<canvas id="SkillsHistory" to_date="2023-08-31"></canvas>

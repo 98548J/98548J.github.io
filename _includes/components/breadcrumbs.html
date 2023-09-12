@@ -44,7 +44,12 @@
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
+function delay(milliseconds) {
+    return new Promise(resolve => {
+        setTimeout(resolve, milliseconds);
+    });
+}
+document.addEventListener("DOMContentLoaded", async function() {
     window.onscroll = function() {myFunction()};
 
     var navbar = document.getElementById("navbar");
@@ -63,6 +68,29 @@ document.addEventListener("DOMContentLoaded", function() {
             page_title.style.marginTop = "0px";
             sticky = navbar.offsetTop;
             navbar.style.height = site_header_style.height;
+        }
+    }
+
+    myFunction();
+
+    if (window.location.hash) {
+        const targetElementId = window.location.hash.slice(1);
+        const targetElement = document.getElementById(targetElementId);
+
+        if (targetElement) {
+
+            await delay(750);
+
+            const offset = -80;
+            const newScrollPosition = targetElement.getBoundingClientRect().top + window.scrollY + offset;
+
+            window.scrollTo({
+                top: newScrollPosition,
+                behavior: "smooth"
+            });
+            console.log("Smooth scrolling to element:", targetElementId);
+        } else {
+            console.log("Target element not found:", targetElementId);
         }
     }
 });
