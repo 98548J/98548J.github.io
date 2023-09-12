@@ -46,4 +46,3 @@ To produce our ideas, we had a brainstorming session as a team. Here is our list
 Now that we have made these criteria for this year’s game, we will be able to more effectively brainstorm robot ideas, concepts, and mechanisms.
 
 
-# BRAIN STRMMMMSSSS
