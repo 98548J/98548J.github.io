@@ -35,7 +35,7 @@ This gives us a small amount of elevation points from hanging on the horizontal 
 **Intake:**
 Sideways rollers that grip on to the tri balls and intake it into the robot to either a catapult or a flywheel.
 
-{: .desing}
+{: .design}
 # Our Dection
 
 When considering which mechanism to use on our robot, the initial question is whether a catapult or a flywheel would be more suitable. Both serve the same purpose, but we want to choose the option that is optimal for our robot and provides the highest level of accuracy. During our decision-making process, we observed robot relays and discovered that catapults performed better than flywheels. However, we acknowledge that flywheels have more potential for improvement. As a result, we have decided to incorporate a catapult in our first robot before the Christmas rebuild. We plan to further explore the possibility of using a flywheel, but for now, we believe that the catapult is more dependable.
