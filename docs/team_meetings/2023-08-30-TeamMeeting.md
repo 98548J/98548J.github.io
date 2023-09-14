@@ -35,11 +35,11 @@ Weekly Goal:  Transfur notebook into the website
 * Test chassis 								    (Tucker)
 
 {: .design}
-# SummaryThis
+# Summary
 
 This week most if not all tasks should be completed. Using the calendar we should be well on track with our goal of being prepared for our first competition. Not only to compete but also to learn and take notes on the other teams around us.
 
- |  August 23 - 30  | Plan (s) |
+ |  Agust 30 - september 6  | Plan (s) |
 |:---|:---|
 | Thu | Finish website coding |
 | Fri |Transfer information and photos |
