@@ -33,7 +33,7 @@ Here are some ideas we produced on how to address each of these points:
 * Decide on a specific day that we will meet on.​
 * Work together with those who can be present at the meeting. (If not we work with those who are there) 
 
-{:. design}
+{: .design}
 # Our Decision
 
 After discussing each concept as a team, because there seemed to be no downside to any of the concepts we brainstormed for our team meetings. As such, we decided to use all of them. 
