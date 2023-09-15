@@ -104,7 +104,7 @@ First I will outline what the layered pattern will look and behave like.
 
 Below you can see how the layered pattern will most likely behave. Keep in mind that this is our first look at the layered architecture of our program and it is likely to change:
 
-![LayeredPattern](/assets/programming/Layered%20Architecture.png){: width="75%"}
+![LayeredPattern](/assets/programming/Layered%20Architecture.png){: width="80%"}
 
 Whenever the mode changes, the **mode handling layer** (first layer) will recognize this and switch modes. Switching modes will probably involve ending certain tasks that are no longer needed and starting new ones that are used for the current mode.
 
