@@ -170,12 +170,47 @@ code {
   font-size: large;
 }
 
+div.highlighter-rouge {
+  background-color: #00000000 !important;
+}
+
+div.highlighter-rouge > div.highlight {
+  background-color: #21232b;
+  padding: 5px !important;
+}
+
+div.highlighter-rouge>
+div.highlight>
+pre.highlight>
+code>
+div.table-wrapper>
+table.rouge-table>
+tbody>
+tr>
+td.rouge-code>
+pre{
+  font-size: 0.85rem !important;
+}
+
+div.highlighter-rouge>
+div.highlight>
+pre.highlight>
+code>
+div.table-wrapper>
+table.rouge-table>
+tbody>
+tr>
+td>
+pre.lineno {
+  font-size: 0.85rem !important;
+}
+
 .highlighter-rouge button {
   border-radius: 8px !important;
 }
 
 .highlight .table-wrapper pre{
-  line-height: 1.4 !important;
+  line-height: 1.6 !important;
 }
 
 pre.highlight,
@@ -195,7 +230,6 @@ code {
 
 .highlighter-rouge .highlight{
   border-radius: 8px !important;
-  transition: box-shadow 0.25sec !important;
 }
 
 .highlighter-rouge:hover {
@@ -211,19 +245,41 @@ code {
   background-color: #f92672;
 }
 .highlight .c, .highlight .cd, .highlight .cm, .highlight .c1, .highlight .cs {
-  color: #768f84;
+  font-weight: 600;
+  font-style: italic;
+  color: #009c60;
+  background-color: #1b1b1b;
+  border-radius: 5px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  transition-duration: 0.125s;
+
 }
+
+.highlight .c:hover, .highlight .cd:hover, .highlight .cm:hover, .highlight .c1:hover, .highlight .cs:hover{
+  font-weight: 400;
+  font-style: italic;
+  color: #00ff88;
+  background-color: #373d4e;
+  box-shadow: 2px 2px #888, -2px -2px #888,  2px -2px #888,  -2px 2px #888
+}
+
 .highlight .cp {
-  color: #f4bf75;
+  color: #f92672;
+}
+.highlight .cpf {
+  color: #f4bf75
 }
 .highlight .nt {
   color: #f4bf75;
 }
 .highlight .o, .highlight .ow {
-  color: #f8f8f2;
+  color: #f92672;
 }
 .highlight .p, .highlight .pi {
-  color: #f8f8f2;
+  color: #f0bc82;
 }
 .highlight .gi {
   color: #a6e22e;
@@ -236,14 +292,17 @@ code {
   background-color: #272822;
   font-weight: bold;
 }
-.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
+.highlight .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
   color: #ae81ff;
+}
+.highlight .k {
+  color: cyan;
 }
 .highlight .kc {
   color: #fd971f;
 }
 .highlight .kt {
-  color: #fd971f;
+  color: cyan;
 }
 .highlight .kd {
   color: #fd971f;
