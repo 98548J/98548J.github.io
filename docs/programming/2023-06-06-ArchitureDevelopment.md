@@ -130,6 +130,7 @@ Odometry::Odometry() {
 }
 
 void Odometry::Update() {
+
     // Get change in encoder position in inches
     double fr_fwd_travel = fr_fwd.get_travel();
     double fl_fwd_travel = fl_fwd.get_travel();
@@ -155,6 +156,7 @@ void Odometry::Update() {
 }
 
 void Odometry::Callibrate(double _x, double _y, double _h) {
+
     // Reset inertial sensor.
     inert.calibrate();
     inert.setHeading(_h, deg);
@@ -167,3 +169,5 @@ void Odometry::Callibrate(double _x, double _y, double _h) {
     internal_h_rad = degToRad(h);
 }
 ```
+
+The above code was a product of a few hours of debugging. After I got the bugs worked out, we drove the robot around while 
