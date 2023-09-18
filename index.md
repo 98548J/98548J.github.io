@@ -1,33 +1,99 @@
 ---
-title: Notebook Sections
+title: Table of Contents
 layout: home
 nav_order: 1
 has_children: false
 ---
-
-<h1>Notebook Sections -</h1>
 <br>
+<h1 style="font-size: 3rem !important;" id="page-title">Table of Contents</h1>
 
-<!-- {: .center} -->
-<span class="fs-6">
-[Engineering](docs/engineering/Engineering.html){: .btn}
+<h1>
+    <a href="{{site.url}}/docs/engineering/Engineering.html"> Engineering </a> -
+</h1>
 
-<!-- {: .center} -->
-<span class="fs-6">
-[Programming](docs/programming/Programming.html){: .btn}
+<ol>
+{% for post in site.pages %}
+{% if post.notebook == "engineering" %}
+    <li>
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
+    - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+{% endif %}
+{% endfor %}
+</ol>
 
-<!-- {: .center} -->
-<span class="fs-6">
-[Game Analysis](docs/game_analysis/Game_Analysis.html){: .btn}
+<h1>
+    <a href="{{site.url}}/docs/programming/Programming.html"> Programming </a> -
+</h1>
 
-<!-- {: .center} -->
-<span class="fs-6">
-[Skills History](docs/skills_history/Skills_History.html){: .btn}
+<ol>
+{% for post in site.pages %}
+{% if post.notebook == "programming" %}
+    <li>
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
+    - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+{% endif %}
+{% endfor %}
+</ol>
 
-<!-- {: .center} -->
-<span class="fs-6">
-[Team Meetings](docs/team_meetings/Team_Meetings.html){: .btn}
+<h1>
+    <a href="{{site.url}}/docs/game_analysis/Game_analysis.html"> Game Analysis </a> -
+</h1>
 
-<!-- {: .center} -->
-<span class="fs-6">
-[Research](docs/research/Research.html){: .btn}
+<ol>
+{% for post in site.pages %}
+{% if post.notebook == "game_analysis" %}
+    <li>
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
+    - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+{% endif %}
+{% endfor %}
+</ol>
+
+<h1>
+    <a href="{{site.url}}/docs/skills_history/Skills_History.html"> Skills History </a> -
+</h1>
+
+<ol>
+{% for post in site.pages %}
+{% if post.notebook == "skills_history" %}
+    <li>
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
+    - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+{% endif %}
+{% endfor %}
+</ol>
+
+<h1>
+    <a href="{{site.url}}/docs/team_meetins/Team_Meetings.html"> Team Meetings </a> -
+</h1>
+
+<ol>
+{% for post in site.pages %}
+{% if post.notebook == "team_meetings" %}
+    <li>
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
+    - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+{% endif %}
+{% endfor %}
+</ol>
+
+<h1>
+    <a href="{{site.url}}/docs/research/Research.html"> Research </a> -
+</h1>
+
+<ol>
+{% for post in site.pages %}
+{% if post.notebook == "research" %}
+    <li>
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
+    - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+{% endif %}
+{% endfor %}
+</ol>
+
