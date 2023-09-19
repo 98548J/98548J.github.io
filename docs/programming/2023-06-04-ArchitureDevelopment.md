@@ -2,7 +2,7 @@
 title: Programming Paradigm / Architecture Development
 parent: Programming
 notebook: programming
-date: 2023-06-06
+date: 2023-06-04
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
@@ -83,7 +83,7 @@ It is evident that this is almost exactly how an **imperative** program would lo
 
 As far as **software architectures** are concerned, the decision on which one to use wasn’t as easy. Each one of these architectures has the potential to work just fine. Since this is the case, we have to narrow our options down by getting rid of the architectures that might overcomplicate the program. Keeping a software model simple is a great way to keep code maintained properly.
 
-The first one to go would probably be the **broker pattern**. While this could potentially work, there is one aspect of the broker pattern that could overcomplicate things. This aspect is where “services” will “publish” their capabilities to a broker. This could work well in applications where the software is used by many different organizations; each one submitting their own capabilities to the broker, however, this is not the case with our robot. It will have predefined capabilities that won’t change very much over time. Even if it does change, there would be no reason to have the extra layer to heighten compatibility.
+The first one to go would probably be the **broker pattern**. While this could potentially work, there is one aspect of the broker pattern that could over complicate things. This aspect is where “services” will “publish” their capabilities to a broker. This could work well in applications where the software is used by many different organizations; each one submitting their own capabilities to the broker, however, this is not the case with our robot. It will have predefined capabilities that won’t change very much over time. Even if it does change, there would be no reason to have the extra layer to heighten compatibility.
 
 The next architecture to go is decided to be the **event-bus pattern**. This pattern is great for things like notification services. Although this pattern could work pretty well in handling events like controller input or changes in game state, this is still an over-complication.
 
@@ -112,62 +112,7 @@ The **UI layer** (second layer) will handle any UI required for the current mode
 
 The **robot operation layer** (third layer) is the layer where any commands to move the robot or operate any of its functions will take place.
 
-Finally, below we can see a basic **UML** diagram showing the structure of the various classes we will use for our first [testbed robot]({{site.url}}/docs/engineering/2023-06-05-OdometryTestRig.html): 
-
-![RobotClassUML](/assets/programming/UML%20Odometry.png)
-
 {: .design}
-# Implement Solution
+# Evaluate Solution
 
-Now that we know what we are going to do for our program, I can start programming. Below you can see the odometry implementation:
-
-```cpp
-#include "vex.h"
-using namespace vex;
-
-Odometry::Odometry() {
-    // Constructor
-}
-
-void Odometry::Update() {
-
-    // Get change in encoder position in inches
-    double fr_fwd_travel = fr_fwd.get_travel();
-    double fl_fwd_travel = fl_fwd.get_travel();
-    double b_s_travel = b_s.get_travel();
-
-    // Calculate delta_theta.
-    previous_heading = current_heading;
-    current_heading = degToRad(inert.rotation(deg));
-    double delta_theta = current_heading - previous_heading;
-
-    // Calculate fwd and strafe travel distances; (x and y respectively.)
-    double fwd_travel = (fr_fwd_travel + fl_fwd_travel) / 2.0;
-    double strafe_travel = b_s_travel + delta_theta * strafe_radius;
-
-    // Rotate the point (fwd, strafe) to convert from a local coordinate shift to a global coordinate shift.
-    rotatePoint(fwd_travel, strafe_travel, previous_heading);
-
-    // Update each location variable. We keep things in radians internally because the math is nicer this way.
-    internal_h_rad = wrapAngleRad(current_heading);
-    h = radToDeg(internal_h_rad);
-    x += fwd_travel;
-    y += strafe_travel;
-}
-
-void Odometry::Callibrate(double _x, double _y, double _h) {
-
-    // Reset inertial sensor.
-    inert.calibrate();
-    inert.setHeading(_h, deg);
-    inert.setRotation(_h, deg);
-
-    // Apply changes to odometry location.
-    x = _x;
-    y = _y;
-    h = _h;
-    internal_h_rad = degToRad(h);
-}
-```
-
-The above code was a product of a few hours of debugging. After I got the bugs worked out, we drove the robot around while 
+Now that we have figured out what architecture, and programming paradigm we will be using for our program, we can start programming for our robot.
