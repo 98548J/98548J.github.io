@@ -1,8 +1,8 @@
 ---
-title: Team Meeting
+title: First Catapult
 parent: Team Meetings
 notebook: team_meetings
-date: 2023-09-13
+date: 2023-09-06
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
@@ -13,7 +13,8 @@ has_children: false
 
 {: .design}
 # Introduction
-We successfully built the catapult last week, but due to homecoming events, we were unable to test it. This week, we plan to test it and catch up on our notebook work. Additionally, we aim to start designing and building the wings using CAD software. 
+
+Today we had our sevinth team meeting of the yea, and Last week, we were able to construct the catapult successfully. However, we were not able to test it due to homecoming events. This week, we plan to test it and also catch up on our notebook work. This will enable us to prepare ourselves for when we begin working on other mechanisms for the robots. We don't want to be constantly playing catch-up. Additionally, we like to use notebooks as a tool to reflect and learn from.
 
 {: .design}
 # Agenda 
@@ -22,18 +23,16 @@ We successfully built the catapult last week, but due to homecoming events, we w
 During the process of constructing the catapult, we discussed ways to improve our team meetings. We concluded that providing a shared itinerary for everyone to write on would enable individuals to plan accordingly. This would also assist us in keeping the meeting on track.
 
 ## Tasks -
-* CAD Wings	(Thomas)
-* Notebook 						    (Ayla, Caleb)
-* Build wings					    (Caleb, Thomas)
+* Get Caught up onNotebook 						    (Ayla, Caleb)
 * Test Catapult							   (Tucker,Thomas)
-* Test wings (Tucker, Thomas)
 
 
 {: .design}
 # Summary
+
 I think we'll be caught up this week and ready for our first competition. Let's create a healthy schedule to stay on track, even when life gets in the way.
 
-| September 13 - 6  | Plan (s) |
+| September 6 - 13  | Plan (s) |
 |:---|:---|
 | Thu | CAD Catapult |
 | Fri | CAD and Transfur photos|
@@ -41,5 +40,5 @@ I think we'll be caught up this week and ready for our first competition. Let's 
 | Sun |  |
 | Mon | Build catapult |
 | Tue | Build Catapult |
-| Wed | Test Chassis |
+| Wed | Test Catapult |
 {: .calendar}
