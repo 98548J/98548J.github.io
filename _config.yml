@@ -23,13 +23,20 @@ callouts:
     title: "The Takeaway"
     color: grey-lt
 
-defaults:
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+      
+compress_html:
+  ignore:
+    envs: all
 
+defaults:
   - scope:
       path: "docs"
     values:
       layout: "doc"
-
 
 url: https://98548J.github.io
 

@@ -23,7 +23,7 @@ Today we had our sevinth team meeting of the yea, and Last week, we were able to
 During the process of constructing the catapult, we discussed ways to improve our team meetings. We concluded that providing a shared itinerary for everyone to write on would enable individuals to plan accordingly. This would also assist us in keeping the meeting on track.
 
 ## Tasks -
-* Get Caught up onNotebook 						    (Ayla, Caleb)
+* Get Caught up on Notebook 						    (Ayla, Caleb)
 * Test Catapult							   (Tucker,Thomas)
 
 
@@ -35,10 +35,10 @@ I think we'll be caught up this week and ready for our first competition. Let's 
 | September 6 - 13  | Plan (s) |
 |:---|:---|
 | Thu | CAD Catapult |
-| Fri | CAD and Transfur photos|
+| Fri | CAD and Transfer photos|
 | Sat | |
 | Sun |  |
 | Mon | Build catapult |
 | Tue | Build Catapult |
-| Wed | Test Catapult |
+| Wed | Test Catapult|
 {: .calendar}
