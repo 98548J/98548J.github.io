@@ -126,3 +126,7 @@ Below you can see a CAD screenshot of the gears after we moved them down. Specif
 ![SecondGearLayout](/assets/engineering/SecondRobot/SecondChassisGears.png)
 ![SecondGearLayoutWithSupports](/assets/engineering/SecondRobot/SecondChassisFlexDisplay.png)
 {: .cad}
+
+{: .design}
+# summery
+
