@@ -30,13 +30,47 @@ Initially we began with the rubber band test and we did 14 tests each time we sw
 
 In the graph it demonstrate the number of tests the amount of rubber bands on each side of the catapult and the score parentage it got
 
-| Right Side Band Tension | Left Side Band Tension | Score |
+| Right Side Rubber-Band | Left Side Rubber-Band | Score |
 |:--:|:---:|:---:|
 | 2 | 2 | 90% |
 | 2 | 2 | 80% | 
-| 3 | 3 | 10% |
 | 3 | 3 | 100% |
+| 3 | 3 | 80% |
 | 2 | 3 | 100% |
-| 2 | 3 | 100% |
-| 8 | 8 | 100% |
+| 3 | 2 | 100% |
+| 3 | 2 | 100% |
+| 3 | 4 | 100% |
+| 3 | 4 | 100% |
+| 3 | 3 | 100% |
+| 4 | 3 | 90% |
+| 4 | 3 | 100% |
+| 4 | 4 | 100% |
+| 4 | 4 | 100% |
 {: .calendar}
+
+After conducting the rubber band intensity test we moved on to stand off lengths we did 4 different sizes of stand offs with and without the central stand off supporting in the launch. We did two versions of this test one with four rubber band tensioned catapult and one with a six band tensioned catapult as seen in the tables below. 
+
+## 6 Rubber band
+
+| Stand- Off length | With Middle Stand-Off | Without Middle Stand-Off |
+|:--:|:---:|:---:|
+| 1.5 | 90% | 60% |
+| 2 | 90% | 70% | 
+| 2.5 | 70% | 80% |
+| 3 | 70% | 50% |
+{: .calendar}
+
+## 4 Rubber Band
+
+| Stand- Off length | With Middle Stand-Off | Without Middle Stand-Off |
+|:--:|:---:|:---:|
+| 1.5 | 100% | 60% |
+| 2 | 80% | 100% | 
+| 2.5 | 60% | 100% |
+| 3 | 70% | 70% |
+{: .calendar}
+
+{: .design}
+# Summery
+
+After conducting tests, we have determined the optimal tension and length for the stand-offs witch is two inch stand offs with 4 rubber bands. However, we also realized that we needed a new catapult head to achieve the desired launch. Our plan is to build a new head while keeping the base in place, with the hope that this will result in the best launch possible. Our goal is to keep all the tri balls in one place so that we can easily push them into the goal with our wings once we drive over the central bar.
