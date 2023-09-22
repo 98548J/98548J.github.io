@@ -29,13 +29,14 @@ We have successfully built our first catapult and are now ready to begin testing
 Initially we began with the rubber band test and we did 14 tests each time we switched the rubber bands we latched the catapult ten times after launching them ten times we gave them a percentage from zero to one hundred and given a color based off it. As is demonstrated in the graph below.
 
 In the graph it demonstrate the number of tests the amount of rubber bands on each side of the catapult and the score parentage it got
-| Rubber-Band Amount |
-| Test | Right Side | Left Side | Score |
-|:--:|:---:|:---:|:---:|
-| 1 | 2 | 2 | 100% |
-| 1 | 3 | 3 | 100% | 
-| 1 | 4 | 4 | 100% |
-| 1 | 5 | 5 | 100% |
-| 1 | 6 | 6 | 100% |
-| 1 | 7 | 7 | 100% |
-| 1 | 8 | 8 | 100% |
+
+| Right Side Band Tension | Left Side Band Tension | Score |
+|:--:|:---:|:---:|
+| 2 | 2 | 90% |
+| 2 | 2 | 80% | 
+| 3 | 3 | 10% |
+| 3 | 3 | 100% |
+| 2 | 3 | 100% |
+| 2 | 3 | 100% |
+| 8 | 8 | 100% |
+{: .calendar}
