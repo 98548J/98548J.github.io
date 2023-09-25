@@ -1,5 +1,5 @@
 ---
-title: Team Meetings
+title: Team History
 notebook: header
 notebook-head: team_meetings
 nav_order: 6

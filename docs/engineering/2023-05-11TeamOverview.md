@@ -16,7 +16,7 @@ has_children: false
 
 This season will be our team’s second year competing in VRC. During the previous season, Spin Up, we had a successful season. In total, we earned 10 awards: 4 tournament champions, 2 skills champions, 3 excellence awards, and 1 design award.
 
-Even though we were successful during much of the season, at our state tournament last year we failed to earn a worlds spot. To make sure we learned from our mistakes during state, and the season as a whole, we had a meeting with those who were on the team at the time. During the meeting, we made a list of things we could improve on. See this entry from the Team Meetings section of our notebook.
+Even though we were successful during much of the season, at our state tournament last year we failed to earn a worlds spot. To make sure we learned from our mistakes during state, and the season as a whole, we had a meeting with those who were on the team at the time. During the meeting, we made a list of things we could improve on. See this entry from the Team History section of our notebook.
 
 To make sure we learn from those mistakes, we will be holding a formal team meeting regarding our plan to go to worlds, including discussing what happened at state in the previous season.
 

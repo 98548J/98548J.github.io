@@ -68,7 +68,7 @@ has_children: false
 </ol>
 
 <h1>
-    <a href="{{site.url}}/docs/team_meetins/Team_Meetings.html"> Team Meetings </a> -
+    <a href="{{site.url}}/docs/team_meetins/Team_Meetings.html"> Team History </a> -
 </h1>
 
 <ol>
