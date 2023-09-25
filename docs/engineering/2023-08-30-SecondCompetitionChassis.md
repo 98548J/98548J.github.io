@@ -7,7 +7,7 @@ signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 4
+nav_order: 5
 has_children: false
 ---
 
@@ -126,3 +126,7 @@ Below you can see a CAD screenshot of the gears after we moved them down. Specif
 ![SecondGearLayout](/assets/engineering/SecondRobot/SecondChassisGears.png)
 ![SecondGearLayoutWithSupports](/assets/engineering/SecondRobot/SecondChassisFlexDisplay.png)
 {: .cad}
+
+{: .design}
+# summery
+

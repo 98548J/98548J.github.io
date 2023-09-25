@@ -1,5 +1,5 @@
 ---
-title: Team Meeting
+title: General Setup
 parent: Team Meetings
 notebook: team_meetings
 date: 2023-06-07

@@ -1,5 +1,5 @@
 ---
-title: Team Meeting
+title: First Chassis
 parent: Team Meetings
 notebook: team_meetings
 date: 2023-08-10

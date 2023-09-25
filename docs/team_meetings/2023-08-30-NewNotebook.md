@@ -1,5 +1,5 @@
 ---
-title: Team Meeting
+title: New Notebook
 parent: Team Meetings
 notebook: team_meetings
 date: 2023-08-23
