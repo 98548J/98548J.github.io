@@ -1,6 +1,6 @@
 ---
 title: Improvement
-parent: Team Meetings
+parent: Team History
 notebook: team_meetings
 date: 2023-09-06
 signatures:

@@ -1,6 +1,6 @@
 ---
 title: Breaking It Down 
-parent: Team Meetings
+parent: Team History
 notebook: team_meetings
 date: 2023-08-07
 signatures:

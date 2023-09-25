@@ -1,6 +1,6 @@
 ---
 title: Team Meeting Agenda
-parent: Team Meetings
+parent: Team History
 notebook: team_meetings
 date: 2023-05-25
 signatures:
