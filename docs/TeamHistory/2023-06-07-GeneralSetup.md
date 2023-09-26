@@ -56,7 +56,7 @@ Assign Task(s):
 * Test chassis and take data							(Everyone)
 
 {: .design}
-# Summery
+# Summary
 
 In this meeting, one of our main goals was to create a plan to begin our chassis. We believe the set of tasks we have set up should put us well underway to accomplishing the base of our robot and then once we come back from summer break we can begin design on the other subsystems of our robot.
 

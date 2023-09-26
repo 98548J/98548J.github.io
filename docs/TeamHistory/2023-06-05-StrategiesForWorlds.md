@@ -52,6 +52,6 @@ Our goal is to qualify at state or a signature event by achieving an excellence 
 Some signature events we are partaking in are, (Rumble in the Rockies) UT, (Pikes Peak) CO. These are the two signature events we guaranteed going to but there are a few others we are thinking about such as, (Haunted) TN, (Silicon Valley)CA, (Hollywood Blockbuster) CA.
 
 {: .design}
-# Summery
+# Summary
 
 The effect of our team preparing multiple pathways to worlds increases our chances of qualifying. Also, winning awards at any of these competitions enhances our team's reputation and increases our likelihood of being selected higher on the waiting list, in case other options fall through. 

@@ -14,7 +14,7 @@ has_children: false
 {: .design}
 # Introduction
 
-Today we had our sevinth team meeting of the yea, and Last week, we were able to construct the catapult successfully. However, we were not able to test it due to homecoming events. This week, we plan to test it and also catch up on our notebook work. This will enable us to prepare ourselves for when we begin working on other mechanisms for the robots. We don't want to be constantly playing catch-up. Additionally, we like to use notebooks as a tool to reflect and learn from.
+Today we had our seventh team meeting of the yea, and Last week, we were able to construct the catapult successfully. However, we were not able to test it due to homecoming events. This week, we plan to test it and also catch up on our notebook work. This will enable us to prepare ourselves for when we begin working on other mechanisms for the robots. We don't want to be constantly playing catch-up. Additionally, we like to use notebooks as a tool to reflect and learn from.
 
 {: .design}
 # Agenda 

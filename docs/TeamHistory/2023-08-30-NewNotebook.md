@@ -23,7 +23,7 @@ Today, we had our sixth team meeting of the year to discuss our progress and pla
 
 Throughout the past week, our team has been conducting research and putting in effort to establish a new notebook format, while also initiating the development of a CAD for the upcoming chassis. We created a website using Github to facilitate our use of the notebook. We are confident that this new format will allow us to showcase and utilize the notebook as a tool in a more effective manner. Furthermore, we are now able to access the notebook from any device, enabling us to easily revisit our ideas and thought processes without the need for a specific computer.
 
-Weekly Goal:  Transfur notebook into the website 
+Weekly Goal:  Transfer notebook into the website 
 
 ## Tasks -
 
