@@ -68,12 +68,12 @@ has_children: false
 </ol>
 
 <h1>
-    <a href="{{site.url}}/docs/team_meetins/Team_Meetings.html"> Team History </a> -
+    <a href="{{site.url}}/docs/team_meetins/team_history.html"> Team History </a> -
 </h1>
 
 <ol>
 {% for post in site.pages %}
-{% if post.notebook == "team_meetings" %}
+{% if post.notebook == "team_history" %}
     <li>
     <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
     - {{ post.date | date: "%B %d, %Y" }}

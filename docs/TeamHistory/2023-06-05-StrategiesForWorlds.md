@@ -1,7 +1,7 @@
 ---
 title: Strategies for Worlds
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-06-05
 signatures:
 - "Ayla Clark"

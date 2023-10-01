@@ -1,7 +1,7 @@
 ---
 title: General Setup
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-06-07
 signatures:
 - "Ayla Clark"

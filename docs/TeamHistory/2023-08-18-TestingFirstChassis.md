@@ -1,7 +1,7 @@
 ---
 title: Testing First Chassis
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-08-18
 signatures:
 - "Ayla Clark"

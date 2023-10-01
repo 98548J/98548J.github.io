@@ -1,7 +1,7 @@
 ---
 title: First Team Meeting
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-05-31
 signatures:
 - "Ayla Clark"

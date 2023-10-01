@@ -1,7 +1,7 @@
 ---
 title: Team Overview
-parent: Engineering
-notebook: engineering
+parent: Team History
+notebook: team_history
 date: 2023-05-11
 signatures:
 - "Ayla Clark"

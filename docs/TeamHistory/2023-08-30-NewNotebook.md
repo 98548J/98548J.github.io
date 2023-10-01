@@ -1,7 +1,7 @@
 ---
 title: New Notebook
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-08-23
 signatures:
 - "Ayla Clark"

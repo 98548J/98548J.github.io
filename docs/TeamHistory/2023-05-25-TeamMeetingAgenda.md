@@ -1,7 +1,7 @@
 ---
 title: Team Meeting Agenda
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-05-25
 signatures:
 - "Ayla Clark"

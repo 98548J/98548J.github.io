@@ -1,7 +1,7 @@
 ---
 title: Catapult Redesign 
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-09-20
 signatures:
 - "Ayla Clark"
