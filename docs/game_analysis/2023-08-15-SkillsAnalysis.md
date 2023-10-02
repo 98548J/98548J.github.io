@@ -2,7 +2,7 @@
 title: Skills Analysis
 parent: Game Analysis
 notebook: game_analysis
-date: 2023-08-12
+date: 2023-08-15
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"

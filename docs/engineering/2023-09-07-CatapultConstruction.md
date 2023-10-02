@@ -27,7 +27,7 @@ Here are some ideas we came up with to launch the tri-balls:
 
 2. **Catapult**: Using a catapult allows us to launch tri-balls with great accuracy, consistently placing them in the desired area. This strategy makes it easier for us to push the balls under the goal, resulting in a significant increase in our points per-second. However, it's important to note that the use of rubber bands is required, and over time, the rubber bands may wear out, potentially leading to decreased accuracy.
 
-3. **Puncher**: Using a puncher allows triballs to be placed onto a stationary platform (as opposed to a moving catapult), which can make it much easier to match load quickly.
+3. **Puncher**: Using a puncher allows tri-balls to be placed onto a stationary platform (as opposed to a moving catapult), which can make it much easier to match load quickly.
 
 4. **Cata-Puncher** So-called "Cata-Punchers" are a hybrid between a regular catapult and a puncher. If a tri-ball is placed into the catapult of a "cata-puncher", the tri-ball is launched just as a normal catapult would. However, what sets a cata-puncher apart from the rest is a platform near the hinge of the catapult, where, if a tri-ball is placed on this platform, the catapult will *smack*, or *punch* the ball. One disadvantage of a "cata-puncher" is the extra space required to build the platform.
 
