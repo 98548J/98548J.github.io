@@ -14,7 +14,7 @@ has_children: false
 {: .design}
 # Introduction 
 
-As we analyze this year's games, we have identified several critical moments in the match: flooding the zone, filling the goal, descoring, and finally elevation. By examining these key moments, we can start to predict the potential winner.
+As we analyze this year's games, we have identified several critical moments in the match: flooding the zone, filling the goal, descoring, and finally elevation. By examining these key moments, we can create better strategies to win matchces.
 
 {: .design}
 # Generate Concepts 
