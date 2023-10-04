@@ -2,7 +2,7 @@
 title: New Notebook
 parent: Team History
 notebook: team_meetings
-date: 2023-08-23
+date: 2023-08-30
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
