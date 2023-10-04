@@ -1,14 +1,14 @@
 ---
 title: Improvement
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-09-06
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 10
-has_children: f1alse
+nav_order: 11
+has_children: false
 ---
 
 {: .design}
@@ -24,7 +24,7 @@ Last week, we fell behind on the notebook while testing and adjusting. So, we pl
 
 ## Tasks -
 * CAD Catapult	(Caleb)
-* Transfer pictures 						    (Ayla)
+* Transfer notebook pictures 						    (Ayla)
 * Build Catapult					    (Caleb, Ayla)
 * Test Catapult							   (Tucker,Thomas)
 
@@ -35,7 +35,7 @@ Overall, I believe that this week we can be extremely productive by focusing on 
 | September 6 - 13  | Plan (s) |
 |:---|:---|
 | Thu | CAD Catapult |
-| Fri | CAD and Transfur photos|
+| Fri | CAD and transfer photos|
 | Sat | |
 | Sun |  |
 | Mon | Build catapult |

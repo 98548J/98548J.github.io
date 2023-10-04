@@ -73,4 +73,4 @@ After conducting the rubber band intensity test we moved on to stand off lengths
 {: .design}
 # Summary
 
-After conducting tests, we have determined the optimal tension and length for the stand-offs witch is two inch stand offs with 4 rubber bands. However, we also realized that we needed a new catapult head to achieve the desired launch. Our plan is to build a new head while keeping the base in place, with the hope that this will result in the best launch possible. Our goal is to keep all the tri balls in one place so that we can easily push them into the goal with our wings once we drive over the central bar.
+After conducting tests, we have determined the optimal tension and length for the stand-offs witch is two inch stand offs with 4 rubber bands. However, we also realized that we needed a new catapult head to achieve the desired launch. Our plan is to build a new head while keeping the base in place, with the hope that this will result in the best launch possible. Our goal is to keep all the tri-balls in one place so that we can easily push them into the goal with our wings once we drive over the central bar.

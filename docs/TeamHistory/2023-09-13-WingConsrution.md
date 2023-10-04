@@ -1,13 +1,13 @@
 ---
 title: Wing Construction
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-09-13
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 12
+nav_order: 13
 has_children: false
 ---
 

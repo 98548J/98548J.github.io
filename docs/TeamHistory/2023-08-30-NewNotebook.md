@@ -1,13 +1,13 @@
 ---
 title: New Notebook
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-08-30
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 9
+nav_order: 10
 has_children: false
 ---
 
@@ -47,5 +47,5 @@ This week most if not all tasks should be completed. Using the calendar we shoul
 | Sun |  |
 | Mon | CAD chassis |
 | Tue | Finish chassis CAD |
-| Wed |  build chassis |
+| Wed | build chassis |
 {: .calendar}

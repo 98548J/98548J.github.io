@@ -1,17 +1,17 @@
 ---
 title: Breaking It Down 
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-08-07
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 6
+nav_order: 7
 has_children: false
 ---
 
-{: .desing}
+{: .design}
 # Introduction
 
 We just had our third team meeting of the year after the summer break, during which it was difficult to complete tasks. Now that we're back, our focus is on building a successful robot. We're breaking down tasks and conducting thorough tests to ensure the robot's reliability and functionality in the future.
@@ -20,7 +20,7 @@ We have observed that our current sticky note process for task delegation result
 
 We have implemented a weekly goal that encompasses all of our tasks. By working towards this goal with every task, we can keep the bigger picture in mind.
 
-{: .desing}
+{: .design}
 # Agenda
 
 ## Review calendar and timeline(s) -

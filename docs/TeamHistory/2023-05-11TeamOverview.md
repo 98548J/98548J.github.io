@@ -1,13 +1,13 @@
 ---
 title: Team Overview
-parent: Engineering
-notebook: engineering
+parent: Team History
+notebook: team_history
 date: 2023-05-11
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
 

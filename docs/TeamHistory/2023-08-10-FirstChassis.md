@@ -1,13 +1,13 @@
 ---
 title: First Chassis
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-08-10
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 7
+nav_order: 8
 has_children: false
 ---
 
