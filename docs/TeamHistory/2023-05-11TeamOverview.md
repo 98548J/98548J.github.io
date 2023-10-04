@@ -35,6 +35,8 @@ This will be my third year participating in VRC, and my second year on 98548-J (
 
 This will be my third year participating in VRC, and my first year on 98548-J. I will be the driver. Last year, I was the driver on 98548-H; we won Tournament Champions, and Excellence state and competed at worlds. 
 
+
+
 ## Thomas Reid
 
 This will be my first year participating in VRC, and my first year on 98548-J. I am the designer and builder. I have had experience coding through school classes and building through putting together different things.

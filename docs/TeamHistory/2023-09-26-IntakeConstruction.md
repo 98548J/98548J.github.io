@@ -21,7 +21,7 @@ Today, our team had our tenth meeting of the year. We discussed the importance o
 
 ## Review calendar and timeline(s) -
 
-WE were able to compelty rebuild our catapult in a reasonable time along with the beginning of a CAD for an intake. by the end of the week we should have a full robot to program and drive. 
+WE were able to completely rebuild our catapult in a reasonable time along with the beginning of a CAD for an intake. by the end of the week we should have a full robot to program and drive. 
 
 ## Tasks -
 * Build Intake			    (Caleb)
@@ -33,11 +33,11 @@ With having our first full robot we can finally work on full programs for skills
 
 | September 20 - 27  | Plan (s) |
 |:---|:---|
-| Thu | CAD Intake |
-| Fri | CAD Intake/ Rebuild Catapult|
+| Thu | Finish CAD |
+| Fri | CAD Intake/ Build Intake|
 | Sat | |
 | Sun |  |
-| Mon | Rebuild Catapult/CAD Intake|
-| Tue | REBuild Catapult/ Build Intake |
-| Wed | Build Intake |
+| Mon | Build intake|
+| Tue | Hook up |
+| Wed | Wire consolidation/ pneumatics |
 {: .calendar}
