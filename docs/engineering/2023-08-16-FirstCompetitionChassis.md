@@ -14,7 +14,7 @@ has_children: false
 {: .design}
 # Define Problem
 
-In our previous entry, we detailed how we designed, built, and tested 7 different drivetrains. The purpose of these tests was to figure out what the best wheel layout for our drivetrain would be. The results of our tests are shown in this entry.
+In our previous entry, we detailed how we designed, built, and tested 7 different drivetrain's. The purpose of these tests was to figure out what the best wheel layout for our drivetrain would be. The results of our tests are shown in this entry.
 
 {: .problem}
 We need to decide exactly which wheel configuration we will use, the speed of the chassis, and the size footprint of our drivetrain.

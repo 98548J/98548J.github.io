@@ -39,7 +39,7 @@ Rebuilding the catapult is the most beneficial in the long run.
 {: .design}
 # Develop Solution  
 
-For our rebuild, we require a catapult that can be loaded in two ways: one for match loads and another with an intake. Our plan is to create a spot in front of the catapult for auton or early match where we can load the tri-balls. This way, they will be hit by the catapult, almost like a punch, instead of sitting inside it. Then once the match is set in, we will use our intake to carry the tri-ball into the catapult itself, to launch it instead of punching it.
+For our rebuild, we require a catapult that can be loaded in two ways: one for match loads and another with an intake. Our plan is to create a spot in front of the catapult for autonomous or early match where we can load the tri-balls. This way, they will be hit by the catapult, almost like a punch, instead of sitting inside it. Then once the match is set in, we will use our intake to carry the tri-ball into the catapult itself, to launch it instead of punching it.
 
 {: .design}
 # Construction

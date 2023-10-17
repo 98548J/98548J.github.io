@@ -48,5 +48,5 @@ In my opinion, our robot will have a strong foundation thanks to the extensive t
 | Sun |  |
 | Mon | FInish CAD/ build chassis |
 | Tue | Build chassis |
-| Wed | Finishing building/ get ready for Thursday <br> scermage |
+| Wed | Finishing building/ get ready for Thursday <br> scrimmage |
 {: .calendar}

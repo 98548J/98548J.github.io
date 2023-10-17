@@ -14,7 +14,7 @@ has_children: false
 {: .design}
 # Introduction
 
-Apart from scoring, there are particular regulations that determine whether a point has been earned or not and other regulations consist of information on the number of tri-balls in possession, specifications on elevation, criteria for match loads, offensive zones, double zoning, and winpoint requirements.
+Apart from scoring, there are particular regulations that determine whether a point has been earned or not and other regulations consist of information on the number of tri-balls in possession, specifications on elevation, criteria for match loads, offensive zones, double zoning, and win-point requirements.
 
 {: .design}
 # Generate Concepts
@@ -37,12 +37,12 @@ In order to avoid disqualification, it's important to remember that your team's 
 
 **Double zoning:**
 
-If both robots form the same alliance and are in the opposing team's offensive zone it is called double zoning.  When a team is double zoning the opposing team is allowed to descore tri-balls from the opposite team's netted goal.
+If both robots form the same alliance and are in the opposing team's offensive zone it is called double zoning.  When a team is double zoning the opposing team is allowed to de-score tri-balls from the opposite team's netted goal.
 
 **Match load:**
 
 To receive a match load from your team, your robot must be in contact with the match load bar. Once this is achieved, a team member can place the match load into your robot without using force. Please note that using force is not permitted.
 
-**Winpoint:**
+**Win-point:**
 
-In order you get the full winpoint the member of the alliance on the right side must score their preload under the netted goal. Then the second member of the alliance on the left must remove the green match load from the match load section. Then at least one member of the alliance must be making contact with the elevation bar. 
+In order you get the full win-point the member of the alliance on the right side must score their preload under the netted goal. Then the second member of the alliance on the left must remove the green match load from the match load section. Then at least one member of the alliance must be making contact with the elevation bar. 

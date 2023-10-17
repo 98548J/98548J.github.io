@@ -17,7 +17,7 @@ has_children: false
 Now that we have a drivetrain, the next phase in designing our robot is to develop a way to score tri-balls during the [flood-the-zone]({{site.url}}/docs/game_analysis/2023-05-17-CriticalGameMoments.html#:~:text=consider%20them%20significant.-,Flood%20the%20zone%3A,-%E2%80%9CFlooding%20the%20zone) game phase.
 
 {: .problem}
-We need to decide what kind of mechanisim we will use to launch tri-balls.
+We need to decide what kind of mechanism we will use to launch tri-balls.
 
 {: .design}
 # Generate concepts 
@@ -34,7 +34,7 @@ Here are some ideas we came up with to launch the tri-balls:
 {: .design}
 # Develop Solution
 
-We had a small meeting to discuss which concept to use. We ultimately decided on a catapult due to its therorized accuracy and ability to score points quickly. Additionally, it should be a relatively simple mechanism to design and build.
+We had a small meeting to discuss which concept to use. We ultimately decided on a catapult due to its theorized accuracy and ability to score points quickly. Additionally, it should be a relatively simple mechanism to design and build.
 
 {: .decision}
 We will be designing and building a catapult.
