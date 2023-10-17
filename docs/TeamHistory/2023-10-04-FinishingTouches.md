@@ -14,7 +14,7 @@ has_children: false
 {: .design}
 Introduction
 
-This week we had our eleventh team meeting of the year and it is the last full week before our first competition. SAo there is a multitude of things that need to or could be polished. That way our robot can be in peak condition. We are looking to 
+We just had our eleventh team meeting of the year, and it's the last full week before our first competition. With the competition fast approaching, there are many things that need to be polished so that our robot can be in peak condition. We not only want to improve the robot, but also our communication skills, such as interviews and strategies with other alliances.
 
 {: .design}
 # Agenda 
