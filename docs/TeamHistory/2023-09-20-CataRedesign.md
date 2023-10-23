@@ -32,7 +32,7 @@ We were able to get caught up on notebook and testing, the wings have also been 
 
 We believe that by effectively managing our time, we will be well-prepared for our first competition. This includes not only coding, but also ensuring that our driver is experienced. By planning ahead now, we can minimize the amount of work we need to do between our first and second competitions.
 
-| September 20 - 27  | Plan (s) |
+| September  20 - 27  | Plan (s) |
 |:---|:---|
 | Thu | CAD Intake |
 | Fri | CAD Intake/ Rebuild Catapult|
