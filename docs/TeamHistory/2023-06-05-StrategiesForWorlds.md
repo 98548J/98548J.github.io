@@ -29,7 +29,7 @@ Online challenges:
 * Cad engineering 
 * Career readiness 
 * Reverse engineering 
-* Mathworks follow the path
+* Math-works follow the path
 
 State Championship:
 
@@ -47,7 +47,7 @@ Signature Events:
 
 Our top choices for the online challenges were [Girl Power](https://challenges.robotevents.com/challenge/205/vrc-high-school-girl-powered-challenge-sponsored-by-google), [Career Readiness](https://challenges.robotevents.com/challenge/187/vrc-high-school-career-readiness-challenge), [CAD Engineering](https://challenges.robotevents.com/challenge/197/vrc-high-school-cad-engineering-challenge-sponsored-by-autodesk), and [Math Works Follow the Path](https://challenges.robotevents.com/challenge/217/MathWorks_FollowThePath). Doing these challenges will give us a fallback in case we don't qualify for worlds through traditional means.
 
-Our goal is to qualify at state or a signature event by achieving an excellence award, torment champion, or design. To achieve this, we will meticulously document everything we do in our notebook using the design process. We will prioritize giving our driver more time to practice and improve their skills score, as well as dedicating more time to programming our autons to help us score win points and increase our qualifications ranking. Additionally, we will work on developing strategies for different types of robots to ensure we are fully prepared for each match.
+Our goal is to qualify at state or a signature event by achieving an excellence award, torment champion, or design. To achieve this, we will meticulously document everything we do in our notebook using the design process. We will prioritize giving our driver more time to practice and improve their skills score, as well as dedicating more time to programming our autonomous's to help us score win points and increase our qualifications ranking. Additionally, we will work on developing strategies for different types of robots to ensure we are fully prepared for each match.
 
 Some signature events we are partaking in are, (Rumble in the Rockies) UT, (Pikes Peak) CO. These are the two signature events we guaranteed going to but there are a few others we are thinking about such as, (Haunted) TN, (Silicon Valley)CA, (Hollywood Blockbuster) CA.
 

@@ -81,7 +81,7 @@ It is evident that this is almost exactly how an **imperative** program would lo
 
 ## Software Architecture -
 
-As far as **software architectures** are concerned, the decision on which one to use wasn’t as easy. Each one of these architectures has the potential to work just fine. Since this is the case, we have to narrow our options down by getting rid of the architectures that might overcomplicate the program. Keeping a software model simple is a great way to keep code maintained properly.
+As far as **software architectures** are concerned, the decision on which one to use wasn’t as easy. Each one of these architectures has the potential to work just fine. Since this is the case, we have to narrow our options down by getting rid of the architectures that might over complicate the program. Keeping a software model simple is a great way to keep code maintained properly.
 
 The first one to go would probably be the **broker pattern**. While this could potentially work, there is one aspect of the broker pattern that could over complicate things. This aspect is where “services” will “publish” their capabilities to a broker. This could work well in applications where the software is used by many different organizations; each one submitting their own capabilities to the broker, however, this is not the case with our robot. It will have predefined capabilities that won’t change very much over time. Even if it does change, there would be no reason to have the extra layer to heighten compatibility.
 

@@ -14,7 +14,7 @@ has_children: false
 {: .design}
 # Introduction
 
-Today, we had our sixth team meeting of the year to discuss our progress and plan for the future. We spent a lot of time testing the chassis, and now we are eager to move on to developing the rest of the robot. To achieve this, we plan to finish the final chassis CAD and start its construction next week. Our goal is to have the new chassis ready for the upcoming scrimmage so that we can test it in a competitive setting. After that, we will focus on prototyping the robot's mechanisms to ensure that we have a working robot for our first competition in Ely, Nevada. However, we need to use our time wisely and make sure we have enough time to code in autons and give our driver time to practice. To stay on track, we will be using the Google Calendar to set deadlines for our tasks and schedule programming and driving practice.
+Today, we had our sixth team meeting of the year to discuss our progress and plan for the future. We spent a lot of time testing the chassis, and now we are eager to move on to developing the rest of the robot. To achieve this, we plan to finish the final chassis CAD and start its construction next week. Our goal is to have the new chassis ready for the upcoming scrimmage so that we can test it in a competitive setting. After that, we will focus on prototyping the robot's mechanisms to ensure that we have a working robot for our first competition in Ely, Nevada. However, we need to use our time wisely and make sure we have enough time to code in autonomous's and give our driver time to practice. To stay on track, we will be using the Google Calendar to set deadlines for our tasks and schedule programming and driving practice.
 
 {: .design}
 # Agenda
@@ -39,7 +39,7 @@ Weekly Goal:  Transfer notebook into the website
 
 This week most if not all tasks should be completed. Using the calendar we should be well on track with our goal of being prepared for our first competition. Not only to compete but also to learn and take notes on the other teams around us.
 
- |  Agust 30 - september 6  | Plan (s) |
+ |  August 30 - september 6  | Plan (s) |
 |:---|:---|
 | Thu | Finish website coding |
 | Fri |Transfer information and photos |

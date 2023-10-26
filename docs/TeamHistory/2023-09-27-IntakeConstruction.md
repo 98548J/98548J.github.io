@@ -2,7 +2,7 @@
 title: Intake Construction 
 parent: Team History
 notebook: team_meetings
-date: 2023-09-26
+date: 2023-09-27
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
@@ -31,7 +31,7 @@ We were able to completely rebuild our catapult in a reasonable time along with 
 With having our first full robot we can finally work on full programs for skills witch will increase our skills score along with more practice with a better robot. 
 
 
-| September 20 - 27  | Plan (s) |
+| September 27 - 4  | Plan (s) |
 |:---|:---|
 | Thu | Finish CAD |
 | Fri | CAD Intake/ Build Intake|
