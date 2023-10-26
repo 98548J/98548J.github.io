@@ -128,5 +128,5 @@ Below you can see a CAD screenshot of the gears after we moved them down. Specif
 {: .cad}
 
 {: .design}
-# summery
+# Evaluate Solution
 

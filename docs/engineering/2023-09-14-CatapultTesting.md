@@ -54,20 +54,20 @@ After conducting the rubber band intensity test we moved on to stand off lengths
 
 | Stand- Off length | With Middle Stand-Off | Without Middle Stand-Off |
 |:--:|:---:|:---:|
-| 1.5 | 90% | 60% |
-| 2 | 90% | 70% | 
-| 2.5 | 70% | 80% |
-| 3 | 70% | 50% |
+| 1.5" | 90% | 60% |
+| 2" | 90% | 70% | 
+| 2.5" | 70% | 80% |
+| 3" | 70% | 50% |
 {: .calendar}
 
 ## 4 Rubber Band
 
 | Stand- Off length | With Middle Stand-Off | Without Middle Stand-Off |
 |:--:|:---:|:---:|
-| 1.5 | 100% | 60% |
-| 2 | 80% | 100% | 
-| 2.5 | 60% | 100% |
-| 3 | 70% | 70% |
+| 1.5" | 100% | 60% |
+| 2" | 80% | 100% | 
+| 2.5" | 60% | 100% |
+| 3" | 70% | 70% |
 {: .calendar}
 
 {: .design}
