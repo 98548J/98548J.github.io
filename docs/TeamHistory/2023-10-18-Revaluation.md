@@ -31,14 +31,14 @@ Last week we had our first competition and we ended up being 3rd in qualificatio
 
 # Summary
 
+By implementing what we learned from the competition last week, we can improve and hopefully bring home an award next time.
 
 |  18 - 25  | Plan (s) |
 |:---|:---|
-| Thu | Program/ Interview |
-| Fri | Program/ Interview |
-| Sat | Competition |
-| Sun |  Drive Home|
-| Mon | Teacher Prep |
-| Tue | Competition Evaluation |
+| Thu | Prototype Elevation |
+| Sat |  |
+| Sun |  |
+| Mon | Skills |
+| Tue | Notebook |
 | Wed | Notebook |
 {: .calendar}
