@@ -1,13 +1,13 @@
 ---
 title: General Setup
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-06-07
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 5
+nav_order: 6
 has_children: false
 ---
 

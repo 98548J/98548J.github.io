@@ -1,13 +1,13 @@
 ---
 title: First Chassis
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-08-10
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 7
+nav_order: 8
 has_children: false
 ---
 
@@ -48,5 +48,5 @@ In my opinion, our robot will have a strong foundation thanks to the extensive t
 | Sun |  |
 | Mon | FInish CAD/ build chassis |
 | Tue | Build chassis |
-| Wed | Finishing building/ get ready for Thursday <br> scermage |
+| Wed | Finishing building/ get ready for Thursday <br> scrimmage |
 {: .calendar}

@@ -110,7 +110,7 @@ We discussed each potential solution as a team to identify which one would work 
 
 Concept [#1]({{site.url}}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Research%20to%20find%20a%20different%20gear%20ratio%20which%20would%20allow%20us%20to%20reduce%20the%20gaps%20in%20our%20drivetrain.) would likely work; however, we feel like there should be a way to modify the ***layout*** of our current gear ratio to achieve the same effect.
 
-Concept [#3]({site.url}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20everything%20vertically%20down%20relative%20to%20the%20obstructive%20c%2Dchannel.) would also likely work; however, this would force us to attatch our motors horizontally instead of vertically. This is a problem because the motors would then be taking up space where we may build an intake for our robot in the future.
+Concept [#3]({site.url}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20everything%20vertically%20down%20relative%20to%20the%20obstructive%20c%2Dchannel.) would also likely work; however, this would force us to attach our motors horizontally instead of vertically. This is a problem because the motors would then be taking up space where we may build an intake for our robot in the future.
 
 This leaves concept [#2]({{site.url}}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20the%20gears%20(not%20attatched%20to%20the%20c%2Dchannel)%20vertically%20down%2C%20below%20the%20axles%20of%20our%20wheels.) as our last remaining option.
 
@@ -128,5 +128,5 @@ Below you can see a CAD screenshot of the gears after we moved them down. Specif
 {: .cad}
 
 {: .design}
-# summery
+# Evaluate Solution
 

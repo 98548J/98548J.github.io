@@ -1,13 +1,13 @@
 ---
 title: First Team Meeting
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-05-31
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 3
+nav_order: 4
 has_children: false
 ---
 {: .design}

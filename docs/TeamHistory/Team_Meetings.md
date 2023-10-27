@@ -1,7 +1,7 @@
 ---
 title: Team History
 notebook: header
-notebook-head: team_meetings
+notebook-head: team_history
 nav_order: 6
 has_children: true
 has_toc: false

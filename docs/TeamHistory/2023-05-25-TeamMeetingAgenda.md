@@ -1,13 +1,13 @@
 ---
 title: Team Meeting Agenda
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-05-25
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 2
+nav_order: 3
 has_children: false
 ---
 
