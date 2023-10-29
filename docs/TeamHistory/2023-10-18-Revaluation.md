@@ -2,7 +2,7 @@
 title: Revaluation
 parent: Team History
 notebook: team_history
-date: 2023-10-11
+date: 2023-10-18
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
