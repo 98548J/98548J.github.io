@@ -2,9 +2,34 @@
 
 $link-color: tomato;
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 .center {
   margin: auto !important;
+}
+
+.profile {
+  align-content: space-evenly !important;
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+div.profile > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div.profile > div > p {
+  margin: 15px;
+}
+
+.profile-pic {
+  width: 40%;
+  margin: 5px;
 }
 
 .emphasize {
