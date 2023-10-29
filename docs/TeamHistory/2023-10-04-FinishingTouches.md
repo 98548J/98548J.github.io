@@ -1,7 +1,7 @@
 ---
 title: Finishing Touches 
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-10-04
 signatures:
 - "Ayla Clark"
