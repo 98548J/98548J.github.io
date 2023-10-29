@@ -1,5 +1,5 @@
 ---
-title: Competition Week
+title: Revaluation
 parent: Team History
 notebook: team_meetings
 date: 2023-10-11
@@ -31,9 +31,9 @@ Last week we had our first competition and we ended up being 3rd in qualificatio
 
 # Summary
 
-By implementing what we learned from the competition last week, we can improve and hopefully bring home an award next time.
+By implementing what we learned from last week's competition, we can improve and hopefully win an award next time. Moreover, we gained inspiration and learned from other participants.
 
-|  18 - 25  | Plan (s) |
+| October 18 - 25  | Plan (s) |
 |:---|:---|
 | Thu | Prototype Elevation |
 | Sat |  |

@@ -30,7 +30,7 @@ Last week we were able to make all of our competition programs now its just a ma
 
 Going into our first competition we believe we should be really well prepared for interviews skills and matches making us a well-rounded team.
 
-|  11 - 18  | Plan (s) |
+| October 11 - 18  | Plan (s) |
 |:---|:---|
 | Thu | Program/ Interview |
 | Fri | Program/ Interview |
