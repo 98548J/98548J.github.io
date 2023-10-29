@@ -60,6 +60,8 @@ Now, as far as **Imperative** programming is concerned, by looking at an autonom
 
 Below you can see a simple autonomous routine that we used last season:
 
+{% raw %}
+
 ```cpp
 void rightSimple()
 {
@@ -76,6 +78,7 @@ void rightSimple()
     SetRoller(globalColor, false);
 }
 ```
+{% endraw %}
 
 It is evident that this is almost exactly how an **imperative** program would look; the code is laid out in a series of distinct steps.
 

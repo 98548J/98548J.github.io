@@ -17,7 +17,7 @@ has_children: false
 After constructing and testing our first catapult, we have come to the realization that it needs to be significantly faster in order to be effective in matches and skills. Therefore, we will be rebuilding the catapult with the goal of launching 99 tri-balls per minute. This will allow us to quickly launch all 44 match loads during skills, enabling us to perform other game actions without delay.
 
 {: .problem}
-We need a better catapult that can fire at a faster rate
+We need a better catapult that can fire at a faster rate.
 
 {: .design}
 # Generate Concepts
