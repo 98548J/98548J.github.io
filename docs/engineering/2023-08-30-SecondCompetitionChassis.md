@@ -116,7 +116,7 @@ This leaves concept [#2]({{site.url}}/docs/engineering/2023-08-30-SecondCompetit
 
 {: .decision}
 >We will use idea [#2]({{site.url}}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20the%20gears%20(not%20attatched%20to%20the%20c%2Dchannel)%20vertically%20down%2C%20below%20the%20axles%20of%20our%20wheels.): 
-> * Move the gears (not attatched to the c-channel) vertically down, below the axles of our wheels.
+> * Move the gears (not attached to the c-channel) vertically down, below the axles of our wheels.
 
 {: .design}
 # Develop Solution
@@ -127,6 +127,34 @@ Below you can see a CAD screenshot of the gears after we moved them down. Specif
 ![SecondGearLayoutWithSupports](/assets/engineering/SecondRobot/SecondChassisFlexDisplay.png)
 {: .cad}
 
+Once we had one half of the chassis in CAD, we simply mirrored the part, and joined the two halves together with the rest of our robot's structure:
+
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisTOP3.png){: width="45%"}
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisISO1.png){: width="54%"}
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisFRONT1.png){: width="48%"}
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisRIGHT1.png){: width="48%"}
+ {: .cad}
+
+{: .design}
+# Construct
+
+Now that we have a CAD of our robot, we should be able to construct each half of our drivetrain easily. Below you can see pictures of each drivetrain half being assembled:
+
+
+
+{: .design}
+# Test
+
+To test this chassis, we ran the same tests as we did for our [drivetrain prototypes]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(This%20test%20includes%20all%207%20chassis%2C%20including%20the%20adjustable%20chassis)%3A); each test was run 10 times, and the results were recorded as a percentage. Below, you can see our results:
+
+| Momentum Jump | Contact Jump | High-Centered Jump|
+|:---:|:---:|:---:|
+| 100% | 100% | 100% |
+
+From this testing data, we can see that these [conclusions]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#evaluate-solution) we had drawn from our test drivetrain prototype testing previously have proven accurate. The use of flex wheels in between the drivetrain's main wheels allows the chassis to drive over the barrier much easier.
+
 {: .design}
 # Evaluate Solution
+
+According to our testing, this drivetrain should be a great starting point for our robot; by using more watts of power in our drivetrain (66W compared to 55W) and less speed, we should not have to worry about overheating.
 
