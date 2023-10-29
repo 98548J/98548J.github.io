@@ -29,6 +29,7 @@ Last week, our goal was to add more images and information to our notebook, and 
 * General Notebook   (Ayla, Caleb)
 * Prototype Elevation/CAD   (Thomas)
 
+{: .design}
 # Summary
 
 By dedicating more time to practicing and improving our notebook and robot, we will perform well in the upcoming competition. Additionally, as this is our home competition, it holds a great deal of significance for us, and we aim to do our best and achieve the highest possible results. 

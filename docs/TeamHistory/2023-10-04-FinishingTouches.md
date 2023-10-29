@@ -28,7 +28,7 @@ Last week we were able to completely CAD and construct our intake it has been wo
 * Program autonomous 			    (Caleb)
 * Skills			   (Tucker)
 
-
+{: .design}
 # Summary
 
 With a combination of programming and driving skills, we aim to prepare our drivers with precise and accurate programs. Win-point is crucial, as it impacts more than what most people perceive. Along with interview preps we will be filly prepared for our first competition.

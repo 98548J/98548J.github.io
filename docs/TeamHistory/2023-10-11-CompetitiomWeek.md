@@ -28,6 +28,7 @@ Last week we were able to make all of our competition programs now its just a ma
 * Program skills autonomous	    (Caleb)
 * Driving		   (Tucker)
 
+{: .design}
 # Summary
 
 Going into our first competition we believe we should be really well prepared for interviews skills and matches making us a well-rounded team.

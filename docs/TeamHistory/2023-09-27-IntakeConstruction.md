@@ -28,6 +28,7 @@ We were able to completely rebuild our catapult in a reasonable time along with 
 * Build Intake			    (Caleb)
 * CAD Intake			   (Thomas)
 
+{: .design}
 # Summary
 
 With having our first full robot we can finally work on full programs for skills witch will increase our skills score along with more practice with a better robot. 

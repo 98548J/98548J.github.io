@@ -30,6 +30,7 @@ Last week we had our first competition and we ended up being 3rd in qualificatio
 * Driving   (Tucker)
 * Prototype Elevation   (Thomas)
 
+{: .design}
 # Summary
 
 By implementing what we learned from last week's competition, we can improve and hopefully win an award next time. Moreover, we gained inspiration and learned from other participants.
