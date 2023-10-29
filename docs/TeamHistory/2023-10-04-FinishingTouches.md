@@ -20,9 +20,11 @@ We just had our eleventh team meeting of the year, and it's the last full week b
 # Agenda 
 
 ## Review calendar and timeline(s) -
+
 Last week we were able to completely CAD and construct our intake it has been working quite well along with a minor catapult adjustment. We did this so the tri-ball wouldn't be pulled in as far if we were just goal loading the goal.
 
 ## Tasks -
+
 * Program autonomous 			    (Caleb)
 * Skills			   (Tucker)
 

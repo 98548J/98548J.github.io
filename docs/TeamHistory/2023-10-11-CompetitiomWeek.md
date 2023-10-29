@@ -20,9 +20,11 @@ We just had our twelfth team meeting of the year, and we discussed the upcoming 
 # Agenda 
 
 ## Review calendar and timeline(s) -
+
 Last week we were able to make all of our competition programs now its just a matter of making sure that they are as accurate as possible. Our driver was also bale to get quite a lot of experience and was bale to raise his skill score a lot.
 
 ## Tasks -
+
 * Program skills autonomous	    (Caleb)
 * Driving		   (Tucker)
 

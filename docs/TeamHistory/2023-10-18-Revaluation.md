@@ -24,6 +24,7 @@ This week, we held our thirteenth team meeting to discuss our upcoming competiti
 Last week we had our first competition and we ended up being 3rd in qualifications we then allied with 89040A Marauders and we ended up getting beat in finals. Unfortunately we didn't take home any trophies but we were able to take our place as 15th in the world for skills and for our first competition we believe we did quite well however there is always ways to improve.That is going to be the main purpose of this week
 
 ## Tasks -
+
 * Pictures in notebook	    (Caleb, Ayla)
 * General Notebook   (Ayla, Caleb)
 * Driving   (Tucker)

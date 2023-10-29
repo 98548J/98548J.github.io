@@ -13,6 +13,7 @@ has_children: false
 
 {: .design}
 # Introduction 
+
 Today, we had our ninth team meeting of the year. The purpose of the meeting was not only to reevaluate but also to plan for our upcoming competition. Upon testing our catapult, we realized that it did not meet our expectations. Therefore, we had to decide whether to spend more time on it or leave it the way it is. After much deliberation, we decided that it would be best to rebuild the catapult. We have another competition right after our first, and our driver needs a catapult that works perfectly so that he can have time to learn with it. We aim to complete the rebuild within a week. Additionally, Thomas will be working on a CAD of our intake. This way, we can work on two tasks simultaneously. Ayla will take over the notebook until both tasks are completed, and the competition is over.
 
 
@@ -20,9 +21,11 @@ Today, we had our ninth team meeting of the year. The purpose of the meeting was
 # Agenda 
 
 ## Review calendar and timeline(s) -
+
 We were able to get caught up on notebook and testing, the wings have also been installed and preform really well it is a good addition to the robot.
 
 ## Tasks -
+
 * Rebuild Catapult				    (Caleb)
 * CAD Intake			   (Thomas)
 * Build Intake        (Thomas, Ayla)
