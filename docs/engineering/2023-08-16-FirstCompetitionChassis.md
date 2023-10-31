@@ -52,9 +52,9 @@ Here are some potential solutions we came up with, all of these concepts were ba
 
 ## Wheel Configuration -
 
-From our earlier testing, both concepts [#1]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%206%204%E2%80%9D%20wheels.), and [#2]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%204%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.) performed flawlessly during [our testing]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(This%20test%20includes%20all%207%20chassis%2C%20including%20the%20adjustable%20chassis)%3A). However, because 4" wheels are used for both of those concepts, we are limited in the gear ratio options we can use (the size of 4" wheels forces you to use larger gears). Additionally, 4" wheels take up a lot of space in a chassis, making future additions to the robot more difficult. 
+From our earlier testing, both concepts [#1](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%206%204%E2%80%9D%20wheels.), and [#2](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%204%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.) performed flawlessly during [our testing](/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(This%20test%20includes%20all%207%20chassis%2C%20including%20the%20adjustable%20chassis)%3A). However, because 4" wheels are used for both of those concepts, we are limited in the gear ratio options we can use (the size of 4" wheels forces you to use larger gears). Additionally, 4" wheels take up a lot of space in a chassis, making future additions to the robot more difficult. 
 
-Unlike the first two concepts, concept [#3]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%203.25%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.) uses 3.25" wheels. These wheels will give us a lot more space to build future additions to our robot. One potential catch to using this idea is that, according to [our testing]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(Adjustable)%20Four%2D3.25%E2%80%9D%20%2B%20Two%20Flex), this style of drivetrain did **not** perform flawlessly; this style of chassis wasn't able to complete **one of ten** of the high-centered jump tests.
+Unlike the first two concepts, concept [#3](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%203.25%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.) uses 3.25" wheels. These wheels will give us a lot more space to build future additions to our robot. One potential catch to using this idea is that, according to [our testing](/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(Adjustable)%20Four%2D3.25%E2%80%9D%20%2B%20Two%20Flex), this style of drivetrain did **not** perform flawlessly; this style of chassis wasn't able to complete **one of ten** of the high-centered jump tests.
 
 To mitigate this risk, we made one change to idea #3. This change was to attach a total of 4 flex wheels in between the main wheels (two flex wheels on each side). The idea behind this change is that the additional flex wheel on each side should give the drivetrain more purchase on the barrier as it goes over.
 
@@ -62,17 +62,17 @@ We predict that the addition of two flex wheels, as well as the compactness of t
 
 ## Chassis Width & Length -
 
-Our team immediately eliminated idea [#1]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20large%20chassis.%20(35%20holes%20in%20each%20dimension)) from consideration because a full-width chassis would limit our driver's maneuverability. Idea [#2]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20skinny%20chassis.%20(25%20holes%20wide%2C%2035%20holes%20long)) would provide us with a lot of maneuverability (especially while driving underneath an elevation bar), however, because of its width (or lack thereof), mechanisms that intake tri-balls and manipulate them will be severely limited in space. On the other hand, while idea [#3]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide)) is slightly wider than the skinny chassis, it's still not too wide. Additionally, the added space for building in the front and back due to its length will make adding an intake easier.
+Our team immediately eliminated idea [#1](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20large%20chassis.%20(35%20holes%20in%20each%20dimension)) from consideration because a full-width chassis would limit our driver's maneuverability. Idea [#2](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20skinny%20chassis.%20(25%20holes%20wide%2C%2035%20holes%20long)) would provide us with a lot of maneuverability (especially while driving underneath an elevation bar), however, because of its width (or lack thereof), mechanisms that intake tri-balls and manipulate them will be severely limited in space. On the other hand, while idea [#3](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide)) is slightly wider than the skinny chassis, it's still not too wide. Additionally, the added space for building in the front and back due to its length will make adding an intake easier.
 
 ## Chassis Speed -
 
-As we have decided not to use 4" wheels, we don't have to consider idea [#1]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20very%20fast%20chassis%20(~62%20inches%20per%20second)). We know that speed is your friend during a timed competition. As such we decided to go with idea [#2]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20fast%20chassis%20(~61%20inches%20per%20second)) because it is the fastest gear ratio out of the remaining concepts.
+As we have decided not to use 4" wheels, we don't have to consider idea [#1](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20very%20fast%20chassis%20(~62%20inches%20per%20second)). We know that speed is your friend during a timed competition. As such we decided to go with idea [#2](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20fast%20chassis%20(~61%20inches%20per%20second)) because it is the fastest gear ratio out of the remaining concepts.
 
 {: .decision}
 > Here is a summary of the decisions we made:
-> * Idea [#3]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%203.25%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.). A drivetrain with 4 3.25” wheels and small flex wheels in the middle.
-> * Idea [#3]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide)). A wide chassis. (25 holes long, 28 holes wide) 
-> * Idea [#2]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20fast%20chassis%20(~61%20inches%20per%20second)). A fast chassis ***(~61 inches per second)***
+> * Idea [#3](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%203.25%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.). A drivetrain with 4 3.25” wheels and small flex wheels in the middle.
+> * Idea [#3](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide)). A wide chassis. (25 holes long, 28 holes wide) 
+> * Idea [#2](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=A%20fast%20chassis%20(~61%20inches%20per%20second)). A fast chassis ***(~61 inches per second)***
 
 {: .design}
 # Develop Solution
@@ -131,13 +131,13 @@ We plan to test this new chassis in our scrimmage on Thursday. That way, we can 
 {: .design}
 # Test
 
-To test this chassis, we ran the same tests as we did for our [drivetrain prototypes]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(This%20test%20includes%20all%207%20chassis%2C%20including%20the%20adjustable%20chassis)%3A); each test was run 10 times, and the results were recorded as a percentage. Below, you can see our results:
+To test this chassis, we ran the same tests as we did for our [drivetrain prototypes](/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(This%20test%20includes%20all%207%20chassis%2C%20including%20the%20adjustable%20chassis)%3A); each test was run 10 times, and the results were recorded as a percentage. Below, you can see our results:
 
 | Momentum Jump | Contact Jump | High-Centered Jump|
 |:---:|:---:|:---:|
 | 100% | 100% | 100% |
 
-From this testing data, we can see that the [conclusions]({{site.url}}/docs/engineering/2023-06-08-ChassisPrototypeTests.html#evaluate-solution) we had drawn from our drivetrain prototype testing previously have proven accurate. The use of flex wheels in between the drivetrain's main wheels allows the chassis to drive over the barrier much easier.
+From this testing data, we can see that the [conclusions](/docs/engineering/2023-06-08-ChassisPrototypeTests.html#evaluate-solution) we had drawn from our drivetrain prototype testing previously have proven accurate. The use of flex wheels in between the drivetrain's main wheels allows the chassis to drive over the barrier much easier.
 
 ## Scrimmage -
 

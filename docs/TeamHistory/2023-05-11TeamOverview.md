@@ -25,7 +25,7 @@ To make sure we learn from those mistakes, we will be holding a formal team meet
 # Team Members
 
 <div class="profile">
-<img src="{{site.url}}/assets/Team%20History/Caleb.jpg" alt="Caleb Carlson" class="profile-pic">
+<img src="/assets/Team%20History/Caleb.jpg" alt="Caleb Carlson" class="profile-pic">
 <div>
 <h2>Caleb Carlson</h2>
 <p>This will be my fourth year participating in VRC, and my second year as a team member of 98548-J. My main responsibility will be programming. I have 10 years of programming experience, beginning with Just-BASIC, then moving to Python, C++, and finally, C#.</p>
@@ -33,7 +33,7 @@ To make sure we learn from those mistakes, we will be holding a formal team meet
 </div>
 
 <div class="profile">
-<img src="{{site.url}}/assets/Team%20History/Ayla.jpg" alt="Ayla Clark" class="profile-pic">
+<img src="/assets/Team%20History/Ayla.jpg" alt="Ayla Clark" class="profile-pic">
 <div>
 <h2>Ayla Clark</h2>
 <p>This will be my third year participating in VRC, and my second year on 98548-J (ACE). Last year I was the team captain. As our team captain last season, I took the responsibility of planning and organizing the team. I will be our team captain again this year.​</p>
@@ -41,7 +41,7 @@ To make sure we learn from those mistakes, we will be holding a formal team meet
 </div>
 
 <div class="profile">
-<img src="{{site.url}}/assets/Team%20History/Tucker.jpg" alt="Tucker Nielson" class="profile-pic">
+<img src="/assets/Team%20History/Tucker.jpg" alt="Tucker Nielson" class="profile-pic">
 <div>
 <h2>Tucker Nielson</h2>
 <p>This will be my third year participating in VRC, and my first year on 98548-J. I will be the driver. Last year, I was the driver on 98548-H; we won Tournament Champions, and Excellence state and competed at worlds. </p>
@@ -49,7 +49,7 @@ To make sure we learn from those mistakes, we will be holding a formal team meet
 </div>
 
 <div class="profile">
-<img src="{{site.url}}/assets/Team%20History/Thomas.jpg" alt="Thomas Reid" class="profile-pic">
+<img src="/assets/Team%20History/Thomas.jpg" alt="Thomas Reid" class="profile-pic">
 <div>
 <h2>Thomas Reid</h2>
 <p>This will be my first year participating in VRC, and my first year on 98548-J. I am the designer and builder. I have experience with coding through school classes and building through putting together different things.</p>

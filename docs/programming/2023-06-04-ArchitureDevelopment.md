@@ -94,9 +94,9 @@ This leaves the **layered pattern**. The layered pattern is very adaptable to di
 
 {: .decision}
 > Here is a summary of what we decided to use:
-> * Concept [#3]({{site.url}}/docs/programming/2023-06-06-ArchitureDevelopment.html#:~:text=Object%20Oriented%20programming%20(OOP).), an ***Object Oriented*** paradigm for robot functions.
-> * Concept [#1]({{site.url}}/docs/programming/2023-06-06-ArchitureDevelopment.html#:~:text=Imperative%20programming.), an ***Imperative*** paradigm for robot autonomouses.
-> * Concept [#1]({{site.url}}/docs/programming/2023-06-06-ArchitureDevelopment.html#:~:text=Data%20Science.-,Layered%20Pattern.,-Event%2DBus%20Pattern), a ***Layered*** software architecture.
+> * Concept [#3](/docs/programming/2023-06-06-ArchitureDevelopment.html#:~:text=Object%20Oriented%20programming%20(OOP).), an ***Object Oriented*** paradigm for robot functions.
+> * Concept [#1](/docs/programming/2023-06-06-ArchitureDevelopment.html#:~:text=Imperative%20programming.), an ***Imperative*** paradigm for robot autonomouses.
+> * Concept [#1](/docs/programming/2023-06-06-ArchitureDevelopment.html#:~:text=Data%20Science.-,Layered%20Pattern.,-Event%2DBus%20Pattern), a ***Layered*** software architecture.
 
 {: .design}
 # Develop Solution
