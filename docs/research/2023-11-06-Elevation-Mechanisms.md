@@ -24,4 +24,8 @@ Elevation is an important part of this year's game. As such we have looked into 
 ![229VElevation](/assets/Research/229VElevation.png){: width="50%"}
 ![Hanger-Style](/assets/Research/Hanger-Style.png){: width="50%"}
 
-229V uses a hanger-styled approach to elevating. We liked this idea but, we don't have space on the robot to fit it. We chose to use ramps to push the robot up onto the barrier so that the wheels could make contact with the bar and get enough traction to drive over.
+229V uses a hanger-styled approach to elevating. It is pretty useful since it doesn't require a motor and can be attached almost anywhere. 
+
+Another way to elevate is to park the robot on the lower black bars. A lot of teams use sleds to get their wheels up onto the barrier and then they balance on a tri-ball, or with something else.
+
+![Sleds](/assets/Research/Sleds.png){: width="50%"}
