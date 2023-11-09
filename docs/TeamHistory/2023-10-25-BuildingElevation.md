@@ -21,11 +21,11 @@ We had our fourteenth team meeting this week and will begin working on the CAD f
 
 ## Review calendar and timeline(s) -
 
-Last week, our goal was to add more images and information to our notebook, and start building a prototype of an elevation machine. We also did some research to get inspiration, and one of the sources we looked at was 229V ACE. You can find a research entry about them in our notebook. We were abel to add a lot of the pictures and information however before the notebook is due for our competition we want it to be as clear cut as possible.
+Last week, our goal was to add more images and information to our notebook and start building a prototype of an elevation machine. We also did some research to get inspiration, and one of the sources we looked at was 229V ACE. You can find a research entry about them in our notebook. We were able to add a lot of pictures and information however before the notebook is due for our competition we want it to be as clear-cut as possible.
 
 ## Tasks -
 
-* Pictures in notebook	    (Caleb, Ayla)
+* Adding pictures in notebook	    (Caleb, Ayla)
 * General Notebook   (Ayla, Caleb)
 * Prototype Elevation/CAD   (Thomas)
 

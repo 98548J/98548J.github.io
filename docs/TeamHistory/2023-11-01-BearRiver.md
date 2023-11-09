@@ -14,7 +14,7 @@ has_children: false
 {: .design}
 # Introduction
 
-This week we had our fifteenth and we had a lot to talk about we have our second competition of the year and its our home competition in Tremonton Utah at Bear River high school. 
+This week we had our fifteenth and we had a lot to talk about we have our second competition of the year and it's our home competition in Tremonton Utah at Bear River High School. 
 
 {: .design}
 # Agenda 
