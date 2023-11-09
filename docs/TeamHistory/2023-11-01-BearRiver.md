@@ -14,12 +14,14 @@ has_children: false
 {: .design}
 # Introduction
 
-This week we had our fifteenth and we had a lot to talk about we have our second competition of the year and it's our home competition in Tremonton Utah at Bear River High School. 
+This week we had our fifteenth and we had a lot to talk about we have our second competition of the year and it's our home competition in Tremonton Utah at Bear River High School. There are a few things we need to go over as a team such as match loading and match review so we can be better prepared for our next competition.
 
 {: .design}
 # Agenda 
 
 ## Review calendar and timeline(s) -
+
+Last week, we participated in our home competition and won the tournament championship. Our team, 15468H Vexation, performed exceptionally well and secured the first position in qualification and tied for the second position in skills. We are proud of our performance at Bear River. Nonetheless, we believe that there is always room for improvement and learning, even after a successful competition.
 
 ## Tasks -
 
@@ -29,6 +31,8 @@ This week we had our fifteenth and we had a lot to talk about we have our second
 
 {: .design}
 # Summary
+
+By analyzing our match loading and performance, we can improve our overall competition results. Placing high now is not a guarantee for future success.
 
 | October 25 - November 1  | Plan (s) |
 |:---|:---|
