@@ -15,16 +15,16 @@ has_children: false
 {: .design}
 # Introduction
 
-Elevation is an important part of this year's game. As such we have looked into many different ways in which to elevate our robot. We found a video by **229V** [here.](https://www.youtube.com/watch?v=BGkmDeIMQyQ)
+Elevation is an important part of this year's game. As such we have looked into many different ways in which to elevate our robot.
 
 {: .design}
 # Evaluation
 
+There are a lot of different ways to elevate. One way is by getting caught on the middle bar and hanging. We found a video by **229V** That shows this technique quite well. [Video's link.](https://www.youtube.com/watch?v=BGkmDeIMQyQ) This style of elevation is pretty useful since it doesn't require a motor and can be attached almost anywhere on a robot. 
 
-![229VElevation](/assets/Research/229VElevation.png){: width="50%"}
-![Hanger-Style](/assets/Research/Hanger-Style.png){: width="50%"}
+<!-- ![Feild](/assets/Game%20Analysis/Over%20Under%20field.png){: width="50%"} -->
 
-229V uses a hanger-styled approach to elevating. It is pretty useful since it doesn't require a motor and can be attached almost anywhere. 
+![229VElevation](/assets/Research/229VElevation.png){: width="51.25%"}![Hanger-Style](/assets/Research/Hanger-Style.png){: width="45%"}
 
 Another way to elevate is to park the robot on the lower black bars. A lot of teams use sleds to get their wheels up onto the barrier and then they balance on a tri-ball, or with something else.
 
