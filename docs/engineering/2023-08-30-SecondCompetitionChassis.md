@@ -98,8 +98,8 @@ There are large gaps between the flex wheels and omni wheels. These gaps will ma
 
 Here are a few options we came up with to fix our problem:
 
-1. Research to find a different gear ratio which would allow us to reduce the gaps in our drivetrain.
-2. Move the gears (not attatched to the c-channel) vertically down, below the axles of our wheels.
+1. Research to find a different gear ratio that would allow us to reduce the gaps in our drivetrain.
+2. Move the gears (not attached to the c-channel) vertically down, below the axles of our wheels.
 3. Move everything vertically down relative to the obstructive c-channel.
 
 
