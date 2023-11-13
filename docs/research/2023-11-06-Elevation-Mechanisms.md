@@ -26,6 +26,6 @@ There are a lot of different ways to elevate. One way is by getting caught on th
 
 ![229VElevation](/assets/Research/229VElevation.png){: width="51.25%"}![Hanger-Style](/assets/Research/Hanger-Style.png){: width="45%"}
 
-Another way to elevate is to park the robot on the lower black bars. A lot of teams use sleds to get their wheels up onto the barrier and then they balance on a tri-ball, or with something else.
+Another way to elevate is to park the robot on the lower black bars. A lot of teams use sleds to get their wheels up onto the barrier and then balance on a tri-ball, or with something else.
 
 ![Sleds](/assets/Research/Sleds.png){: width="50%"}
