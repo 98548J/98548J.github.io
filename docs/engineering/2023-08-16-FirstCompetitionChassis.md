@@ -86,9 +86,10 @@ Rather than using a 6-motor drivetrain (66 watts), we want to make a 55-watt dri
 
 To mount the 5.5-watt motors, we had to make a special mounting bracket. Below you can see the CAD used for the bracket:
 
-![5.5-wattBracket](/assets/engineering/5.5WVerticalISO.png){: width="45%"}
-![5.5-wattBracket](/assets/engineering/5.5WVerticalRight.png){: width="54%"}
- {: .cad}
+![5.5-wattBracket](/assets/engineering/5.5WVerticalISO.png){: width="45%"}![5.5-wattBracket](/assets/engineering/5.5WVerticalRight.png){: width="54%"}
+{: .image-pair}
+{: .cad}
+
 
 And, here is our CAD with the addition of bearings, axles, motors, wheels, and other necessary components:
 

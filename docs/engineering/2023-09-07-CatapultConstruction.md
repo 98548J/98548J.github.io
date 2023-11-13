@@ -25,7 +25,7 @@ Here are some ideas we came up with to launch the tri-balls:
 
 1. **Flywheel**: By using a flywheel, we can launch tri-balls at incredibly high rates due to the ability to adjust the RPM of a flexible wheel. However, achieving consistency with a flywheel can be quite challenging.
 
-2. **Catapult**: Using a catapult allows us to launch tri-balls with great accuracy, consistently placing them in the desired area. This strategy makes it easier for us to push the balls under the goal, resulting in a significant increase in our points per-second. However, it's important to note that the use of rubber bands is required, and over time, the rubber bands may wear out, potentially leading to decreased accuracy.
+2. **Catapult**: Using a catapult allows us to launch tri-balls with great accuracy, consistently placing them in the desired area. This strategy makes it easier for us to push the balls under the goal, resulting in a significant increase in our points per second. However, it's important to note that the use of rubber bands is required, and over time, the rubber bands may wear out, potentially leading to decreased accuracy.
 
 3. **Puncher**: Using a puncher allows tri-balls to be placed onto a stationary platform (as opposed to a moving catapult), which can make it much easier to match load quickly.
 
@@ -42,9 +42,16 @@ We will be designing and building a catapult.
 {: .design}
 # Develop Solution
 
-To begin, we will CAD our design for our catapult, including the gear box and the head. After CAD, Caleb will be constructing and attaching the catapult to our chassis. 
+To begin, we will CAD our design for the catapult gearbox. After CADing is complete, Caleb will construct and attach the catapult to our chassis. 
+
+Below you can see our first attempt at a CAD for our catapult:
+
+![Cata33](/assets/engineering/SecondRobot/Cata33ISO2.png)
+{: .cad}
+
+
 
 {: .design}
 # Construction 
 
-When starting construction we made a slip gear by using a dermal to grind off some of the teeth so when the gear would get to the gap the tension on the catapult would send it flying forward at a high velocity then in turn launching the the tri-ball. After that we made a gear casing for the slip gear to sit in along with its counter part to move it in the first place. We didn't want the gear box to high so we decided that nine holes was tall enough. WIth it being that tall it will also put the catapult it self in the correct place for launching.  Our catapult head consists of horizontal standoffs that give the catapult central support for launching there are a set of outer and inner stand offs to make sure the tri-ball launches at the correct time and not to early or to late. We also plan to tests the catapult for the right tension and for the right length of stand off.
+When starting construction we made a slip gear by using a dermal to grind off some of the teeth so when the gear would get to the gap the tension on the catapult would send it flying forward at a high velocity then in turn launching the the tri-ball. After that, we made a gear casing for the slip gear to sit in along with its counterpart to move it in the first place. We didn't want the gearbox too high so we decided that nine holes were tall enough. With it being that tall it will also put the catapult itself in the correct place for launching.  Our catapult head consists of horizontal standoffs that give the catapult central support for launching there are a set of outer and inner standoffs to make sure the tri-ball launches at the correct time and not too early or too late. We also plan to test the catapult for the right tension and the right length of stand-off.
