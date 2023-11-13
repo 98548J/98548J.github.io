@@ -5,6 +5,7 @@ $link-color: tomato;
 p {
   text-align: justify;
   text-justify: inter-word;
+  text-indent: 30px;
 }
 
 .center {
@@ -188,7 +189,16 @@ table.calendar {
   .content {
     padding: 16px;
   }
+
+  .image-pair {
+    display:flex;
+    flex-wrap: nowrap;
+  }
   
+  .image-pair > img {
+    margin: 2%;
+  }
+
   .sticky {
     overflow: hidden;
     position: fixed;
