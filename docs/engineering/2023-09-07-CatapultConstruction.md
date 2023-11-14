@@ -42,6 +42,8 @@ We will be designing and building a catapult.
 {: .design}
 # Develop Solution
 
+Now that we know which concept we will be building, we need to decide exactly how to build it. One team we took inspiration from was 229V, you can see the research entry we did on them [here]({{site.url}}/docs/research/2023-09-07-229V-ACE.html). 
+
 To begin, we will CAD our design for the catapult gearbox. After CADing is complete, Caleb will construct and attach the catapult to our chassis. 
 
 Below you can see our first attempt at a CAD for our catapult:
@@ -49,9 +51,25 @@ Below you can see our first attempt at a CAD for our catapult:
 ![Cata33](/assets/engineering/SecondRobot/Cata33ISO2.png)
 {: .cad}
 
-
+There is an intermediary slip-gear which will have 3 sections of teeth cut out of it. These sections of teeth will allow the catapult to fire after storing up enough energy.
 
 {: .design}
 # Construction 
 
-When starting construction we made a slip gear by using a dermal to grind off some of the teeth so when the gear would get to the gap the tension on the catapult would send it flying forward at a high velocity then in turn launching the the tri-ball. After that, we made a gear casing for the slip gear to sit in along with its counterpart to move it in the first place. We didn't want the gearbox too high so we decided that nine holes were tall enough. With it being that tall it will also put the catapult itself in the correct place for launching.  Our catapult head consists of horizontal standoffs that give the catapult central support for launching there are a set of outer and inner standoffs to make sure the tri-ball launches at the correct time and not too early or too late. We also plan to test the catapult for the right tension and the right length of stand-off.
+Below you can see our gearbox frame as it is being assembled, and the gearbox attached to our robot:
+
+![PartialGearbox](/assets/engineering/Cata/PartialGearbox.png)![Gearbox](/assets/engineering/Cata/Gearbox.png)
+{: .image-pair}
+
+{: .design}
+# Test
+
+After attaching the gearbox to our robot, we made a simple basket for the catapult and tested the fire rate of our catapult:
+
+<div class="center">
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/IMFXdegquXM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+We recorded a short video of our catapult and re-watched the video to calculate our fire rate. This is useful because we can compare our ***actual*** fire rate to our **theoretical** fire rate to determine the efficiency of our mechanism. Our fire rate ended up being around **98.4** launches per minute. When we compare this to the ideal fire rate of our catapult, **99.0** launches per minute, we can quantitatively see that it is very close to this. (about a 0.6% away from the ideal)
+
+
