@@ -25,7 +25,7 @@ Here are some ideas we came up with to launch the tri-balls:
 
 1. **Flywheel**: By using a flywheel, we can launch tri-balls at incredibly high rates due to the ability to adjust the RPM of a flexible wheel. However, achieving consistency with a flywheel can be quite challenging.
 
-2. **Catapult**: Using a catapult allows us to launch tri-balls with great accuracy, consistently placing them in the desired area. This strategy makes it easier for us to push the balls under the goal, resulting in a significant increase in our points per-second. However, it's important to note that the use of rubber bands is required, and over time, the rubber bands may wear out, potentially leading to decreased accuracy.
+2. **Catapult**: Using a catapult allows us to launch tri-balls with great accuracy, consistently placing them in the desired area. This strategy makes it easier for us to push the balls under the goal, resulting in a significant increase in our points per second. However, it's important to note that the use of rubber bands is required, and over time, the rubber bands may wear out, potentially leading to decreased accuracy.
 
 3. **Puncher**: Using a puncher allows tri-balls to be placed onto a stationary platform (as opposed to a moving catapult), which can make it much easier to match load quickly.
 
@@ -42,9 +42,34 @@ We will be designing and building a catapult.
 {: .design}
 # Develop Solution
 
-To begin, we will CAD our design for our catapult, including the gear box and the head. After CAD, Caleb will be constructing and attaching the catapult to our chassis. 
+Now that we know which concept we will be building, we need to decide exactly how to build it. One team we took inspiration from was 229V, you can see the research entry we did on them [here]({{site.url}}/docs/research/2023-09-07-229V-ACE.html). 
+
+To begin, we will CAD our design for the catapult gearbox. After CADing is complete, Caleb will construct and attach the catapult to our chassis. 
+
+Below you can see our first attempt at a CAD for our catapult:
+
+![Cata33](/assets/engineering/SecondRobot/Cata33ISO2.png)
+{: .cad}
+
+There is an intermediary slip-gear which will have 3 sections of teeth cut out of it. These sections of teeth will allow the catapult to fire after storing up enough energy.
 
 {: .design}
 # Construction 
 
-When starting construction we made a slip gear by using a dermal to grind off some of the teeth so when the gear would get to the gap the tension on the catapult would send it flying forward at a high velocity then in turn launching the the tri-ball. After that we made a gear casing for the slip gear to sit in along with its counter part to move it in the first place. We didn't want the gear box to high so we decided that nine holes was tall enough. WIth it being that tall it will also put the catapult it self in the correct place for launching.  Our catapult head consists of horizontal standoffs that give the catapult central support for launching there are a set of outer and inner stand offs to make sure the tri-ball launches at the correct time and not to early or to late. We also plan to tests the catapult for the right tension and for the right length of stand off.
+Below you can see our gearbox frame as it is being assembled, and the gearbox attached to our robot:
+
+![PartialGearbox](/assets/engineering/Cata/PartialGearbox.png)![Gearbox](/assets/engineering/Cata/Gearbox.png)
+{: .image-pair}
+
+{: .design}
+# Test
+
+After attaching the gearbox to our robot, we made a simple basket for the catapult and tested the fire rate of our catapult:
+
+<div class="center">
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/IMFXdegquXM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+We recorded a short video of our catapult and re-watched the video to calculate our fire rate. This is useful because we can compare our ***actual*** fire rate to our **theoretical** fire rate to determine the efficiency of our mechanism. Our fire rate ended up being around **98.4** launches per minute. When we compare this to the ideal fire rate of our catapult, **99.0** launches per minute, we can quantitatively see that it is very close to this. (about a 0.6% away from the ideal)
+
+

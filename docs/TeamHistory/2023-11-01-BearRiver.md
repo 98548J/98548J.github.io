@@ -21,7 +21,7 @@ This week we had our fifteenth and we had a lot to talk about we have our second
 
 ## Review calendar and timeline(s) -
 
-Last week, we participated in our home competition and won the tournament championship. Our team, 15468H Vexation, performed exceptionally well and secured the first position in qualification and tied for the second position in skills. We are proud of our performance at Bear River. Nonetheless, we believe that there is always room for improvement and learning, even after a successful competition.
+Last week, we participated in our home competition and won the tournament championship. Our team, along with 15468H Vexation, performed exceptionally well and secured the first position in qualification and tied for the second position in skills. We are proud of our performance at Bear River. Nonetheless, we believe that there is always room for improvement and learning, even after a successful competition.
 
 ## Tasks -
 
