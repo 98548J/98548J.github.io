@@ -32,6 +32,14 @@ div.profile > div > p {
   margin: 15px;
 }
 
+p > img {
+  margin-left: -30px;
+}
+
+img + img {
+  margin-left: 0px !important;
+}
+
 .profile-pic {
   width: 40%;
   margin: 5px;
