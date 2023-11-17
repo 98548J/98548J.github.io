@@ -128,5 +128,13 @@ Below you can see a CAD screenshot of the gears after we moved them down. Specif
 {: .cad}
 
 {: .design}
+# Construct
+
+Now that we have a CAD of our drivetrain, we can start to build. Building went very smoothly
+
+{: .design}
+# Test
+
+{: .design}
 # Evaluate Solution
 
