@@ -11,10 +11,10 @@ nav_order: 19
 has_children: false
 ---
 
-[: .design]
+{: .design}
 # Introduction 
 
-We recently had our sixteenth team meeting and we realized that we need to focus more on our notebook. As much as we love taking part in the vex, we also have to fulfill our academic responsibilities, and unfortunately, we don't have enough time to dedicate to our notebook. Therefore, we are devising a plan to incorporate more time for the notebook in our tight schedule.
+    We recently had our sixteenth team meeting and we realized that we need to focus more on our notebook. As much as we love taking part in the vex, we also have to fulfill our academic responsibilities, and unfortunately, we don't have enough time to dedicate to our notebook. Therefore, we are devising a plan to incorporate more time for the notebook in our tight schedule.
 
 {: .design}
 # Agenda 
