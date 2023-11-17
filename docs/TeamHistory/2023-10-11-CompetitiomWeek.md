@@ -1,7 +1,7 @@
 ---
 title: Competition Week
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-10-11
 signatures:
 - "Ayla Clark"
@@ -20,17 +20,20 @@ We just had our twelfth team meeting of the year, and we discussed the upcoming 
 # Agenda 
 
 ## Review calendar and timeline(s) -
+
 Last week we were able to make all of our competition programs now its just a matter of making sure that they are as accurate as possible. Our driver was also bale to get quite a lot of experience and was bale to raise his skill score a lot.
 
 ## Tasks -
+
 * Program skills autonomous	    (Caleb)
 * Driving		   (Tucker)
 
+{: .design}
 # Summary
 
 Going into our first competition we believe we should be really well prepared for interviews skills and matches making us a well-rounded team.
 
-|  11 - 18  | Plan (s) |
+| October 11 - 18  | Plan (s) |
 |:---|:---|
 | Thu | Program/ Interview |
 | Fri | Program/ Interview |

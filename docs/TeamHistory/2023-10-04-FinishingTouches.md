@@ -1,7 +1,7 @@
 ---
 title: Finishing Touches 
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-10-04
 signatures:
 - "Ayla Clark"
@@ -20,18 +20,20 @@ We just had our eleventh team meeting of the year, and it's the last full week b
 # Agenda 
 
 ## Review calendar and timeline(s) -
+
 Last week we were able to completely CAD and construct our intake it has been working quite well along with a minor catapult adjustment. We did this so the tri-ball wouldn't be pulled in as far if we were just goal loading the goal.
 
 ## Tasks -
+
 * Program autonomous 			    (Caleb)
 * Skills			   (Tucker)
 
-
+{: .design}
 # Summary
 
 With a combination of programming and driving skills, we aim to prepare our drivers with precise and accurate programs. Win-point is crucial, as it impacts more than what most people perceive. Along with interview preps we will be filly prepared for our first competition.
 
-|  4 - 11  | Plan (s) |
+| October 4 - 11  | Plan (s) |
 |:---|:---|
 | Thu | Skills |
 | Fri | Skills |

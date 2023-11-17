@@ -41,10 +41,10 @@ To speed up the process of building our designs, we use CAD software before we b
 
 Below you can see the CAD we will build our design from:
 
-![placeholder CAD PICTURES](/assets/engineering/TestRigTop.png){: width="53%"}
-![placeholder CAD PICTURES](/assets/engineering/TestRig.png){: width="46%"}
-![placeholder CAD PICTURES](/assets/engineering/TestRigRight.png){: width="48%"}
-![placeholder CAD PICTURES](/assets/engineering/TestRigFront.png){: width="48%"}
+> ![placeholder CAD PICTURES](/assets/engineering/TestRigTop.png)![placeholder CAD PICTURES](/assets/engineering/TestRig.png)
+> {: .image-pair}
+> ![placeholder CAD PICTURES](/assets/engineering/TestRigRight.png)![placeholder CAD PICTURES](/assets/engineering/TestRigFront.png)
+> {: .image-pair}
 {: .cad}
 
 One thing to note is that we only inserted one tracking wheel into the CAD, this was to make sure we knew exactly what spacing to use to get the tracking wheel to make contact with the center of the robot. 
@@ -54,8 +54,8 @@ One thing to note is that we only inserted one tracking wheel into the CAD, this
 
 First, we put together the frame of the chassis. Then, we constructed the tracking wheels and attached all the motors and tracking wheels.
 
-![placeholder ConstructionPictures](/assets/engineering/TestRigConstructionFrame.jpg){: width="48%"}
-![placeholder ConstructionPictures](/assets/engineering/TestRigConstructionTrackingWheel.jpg){: width="48%"}
+![placeholder ConstructionPictures](/assets/engineering/TestRigConstructionFrame.jpg)![placeholder ConstructionPictures](/assets/engineering/TestRigConstructionTrackingWheel.jpg)
+{: .image-pair}
 ![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction.jpg){: width="48%"}
 
 However, by this point, we realized something was wrong. The issue was, that the V5 brain would not support the use of the 393 motors we were intending on using. The 393 motors draw around **4.6 Amps** when under maximum load (stalling), but the 3-wire ports on the V5 brain only support **2 Amps** together.
@@ -111,8 +111,8 @@ Aside from any questions of whether this should be done, the switch should be ve
 
 Below you can see the test rig with the motors attached, and then wired:
 
-![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction2Unwired.jpg){: width="48%"}
-![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction2Wired.jpg){: width="48%"}
+![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction2Unwired.jpg)![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction2Wired.jpg)
+{: .image-pair}
 
 The first step in testing our rig was to turn on the brain and verify that all of the motors and sensors are working -- they were. Next, we programmed the robot with a basic tank drive driver control program to see how well it drove.
 

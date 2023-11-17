@@ -1,7 +1,7 @@
 ---
 title: Intake Construction 
 parent: Team History
-notebook: team_meetings
+notebook: team_history
 date: 2023-09-27
 signatures:
 - "Ayla Clark"
@@ -24,14 +24,17 @@ Today, our team had our tenth meeting of the year. We discussed the importance o
 We were able to completely rebuild our catapult in a reasonable time along with the beginning of a CAD for an intake. by the end of the week we should have a full robot to program and drive. 
 
 ## Tasks -
+
 * Build Intake			    (Caleb)
 * CAD Intake			   (Thomas)
 
+{: .design}
 # Summary
+
 With having our first full robot we can finally work on full programs for skills witch will increase our skills score along with more practice with a better robot. 
 
 
-| September 27 - 4  | Plan (s) |
+| September 27 - October 4  | Plan (s) |
 |:---|:---|
 | Thu | Finish CAD |
 | Fri | CAD Intake/ Build Intake|

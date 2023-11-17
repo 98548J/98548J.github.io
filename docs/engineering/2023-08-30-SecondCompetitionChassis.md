@@ -52,21 +52,21 @@ We had already come up with a decent list of potential drivetrain configurations
 
 ## Wheel Configuration -
 
-The wheel configuration of our [previous chassis]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#develop-solution) worked very well and was able to complete all the tasks we threw at it. As such, we will keep our current wheel configuration.
+The wheel configuration of our [previous chassis](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#develop-solution) worked very well and was able to complete all the tasks we threw at it. As such, we will keep our current wheel configuration.
 
 ## Chassis Width & Length -
 
-Again, we thought that the size of our [previous chassis]({{site.url}}/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=%233.-,A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide),-Idea%20%232.%20A) (25 holes long, 28 holes wide) was good. As such, we will keep our current chassis width and length.
+Again, we thought that the size of our [previous chassis](/docs/engineering/2023-08-16-FirstCompetitionChassis.html#:~:text=%233.-,A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide),-Idea%20%232.%20A) (25 holes long, 28 holes wide) was good. As such, we will keep our current chassis width and length.
 
 ## Chassis Speed -
 
-As we have decided not to use 4" wheels, we don't have to consider idea [#1]({{site.url}}/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20very%20fast%20chassis%20(~62%20inches%20per%20second)). We previously acted under the assumption that ***"The faster your robot is the better!"***, however, we now realize that this is **not the case**. We still want to have a decent-speed chassis, but we don't want to be too fast. idea [#4]({{site.url}}/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20slower%20chassis%20(~51%20inches%20per%20second)) fits this description; while it is the slowest chassis speed we brainstormed, it is still fairly fast (compared to, say, 4" wheels at 200 Rpm).
+As we have decided not to use 4" wheels, we don't have to consider idea [#1](/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20very%20fast%20chassis%20(~62%20inches%20per%20second)). We previously acted under the assumption that ***"The faster your robot is the better!"***, however, we now realize that this is **not the case**. We still want to have a decent-speed chassis, but we don't want to be too fast. idea [#4](/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20slower%20chassis%20(~51%20inches%20per%20second)) fits this description; while it is the slowest chassis speed we brainstormed, it is still fairly fast (compared to, say, 4" wheels at 200 Rpm).
 
 {: .decision}
 > Here is a summary of the decisions we made:
-> * Idea [#3]({{site.url}}/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%203.25%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.). A drivetrain with 4 3.25” wheels and small flex wheels in the middle.
-> * Idea [#3]({{site.url}}/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide)). A wide chassis. (25 holes long, 28 holes wide) 
-> * Idea [#2]({{site.url}}/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20fast%20chassis%20(~61%20inches%20per%20second)). A slower chassis ***(~51 inches per second)***
+> * Idea [#3](/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20drivetrain%20with%204%203.25%E2%80%9D%20wheels%20and%20small%20flex%20wheels%20in%20the%20middle.). A drivetrain with 4 3.25” wheels and small flex wheels in the middle.
+> * Idea [#3](/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20wide%20chassis.%20(25%20holes%20long%2C%2028%20holes%20wide)). A wide chassis. (25 holes long, 28 holes wide) 
+> * Idea [#2](/docs/engineering/2023-08-28-SecondCompetitionChassis.html#:~:text=A%20fast%20chassis%20(~61%20inches%20per%20second)). A slower chassis ***(~51 inches per second)***
 
 {: .design}
 # Develop Solution
@@ -98,8 +98,8 @@ There are large gaps between the flex wheels and omni wheels. These gaps will ma
 
 Here are a few options we came up with to fix our problem:
 
-1. Research to find a different gear ratio which would allow us to reduce the gaps in our drivetrain.
-2. Move the gears (not attatched to the c-channel) vertically down, below the axles of our wheels.
+1. Research to find a different gear ratio that would allow us to reduce the gaps in our drivetrain.
+2. Move the gears (not attached to the c-channel) vertically down, below the axles of our wheels.
 3. Move everything vertically down relative to the obstructive c-channel.
 
 
@@ -108,15 +108,15 @@ Here are a few options we came up with to fix our problem:
 
 We discussed each potential solution as a team to identify which one would work best for us.
 
-Concept [#1]({{site.url}}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Research%20to%20find%20a%20different%20gear%20ratio%20which%20would%20allow%20us%20to%20reduce%20the%20gaps%20in%20our%20drivetrain.) would likely work; however, we feel like there should be a way to modify the ***layout*** of our current gear ratio to achieve the same effect.
+Concept [#1](/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Research%20to%20find%20a%20different%20gear%20ratio%20which%20would%20allow%20us%20to%20reduce%20the%20gaps%20in%20our%20drivetrain.) would likely work; however, we feel like there should be a way to modify the ***layout*** of our current gear ratio to achieve the same effect.
 
 Concept [#3]({site.url}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20everything%20vertically%20down%20relative%20to%20the%20obstructive%20c%2Dchannel.) would also likely work; however, this would force us to attach our motors horizontally instead of vertically. This is a problem because the motors would then be taking up space where we may build an intake for our robot in the future.
 
-This leaves concept [#2]({{site.url}}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20the%20gears%20(not%20attatched%20to%20the%20c%2Dchannel)%20vertically%20down%2C%20below%20the%20axles%20of%20our%20wheels.) as our last remaining option.
+This leaves concept [#2](/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20the%20gears%20(not%20attatched%20to%20the%20c%2Dchannel)%20vertically%20down%2C%20below%20the%20axles%20of%20our%20wheels.) as our last remaining option.
 
 {: .decision}
->We will use idea [#2]({{site.url}}/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20the%20gears%20(not%20attatched%20to%20the%20c%2Dchannel)%20vertically%20down%2C%20below%20the%20axles%20of%20our%20wheels.): 
-> * Move the gears (not attatched to the c-channel) vertically down, below the axles of our wheels.
+>We will use idea [#2](/docs/engineering/2023-08-30-SecondCompetitionChassis.html#:~:text=Move%20the%20gears%20(not%20attatched%20to%20the%20c%2Dchannel)%20vertically%20down%2C%20below%20the%20axles%20of%20our%20wheels.): 
+> * Move the gears (not attached to the c-channel) vertically down, below the axles of our wheels.
 
 {: .design}
 # Develop Solution
@@ -126,6 +126,40 @@ Below you can see a CAD screenshot of the gears after we moved them down. Specif
 ![SecondGearLayout](/assets/engineering/SecondRobot/SecondChassisGears.png)
 ![SecondGearLayoutWithSupports](/assets/engineering/SecondRobot/SecondChassisFlexDisplay.png)
 {: .cad}
+
+Once we had one half of the chassis in CAD, we simply mirrored the part, and joined the two halves together with the rest of our robot's structure:
+
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisTOP3.png){: width="45%"}
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisISO1.png){: width="54%"}
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisFRONT1.png){: width="48%"}
+![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisRIGHT1.png){: width="48%"}
+ {: .cad}
+
+{: .design}
+# Construct
+
+Now that we have a CAD of our robot, we should be able to construct each half of our drivetrain easily.
+
+One thing that we emphasize a lot during our builds is ensuring we have as little friction as possible in our builds. Below you can see a video showing the amount of resistance in our drivetrain:
+
+<div class="center">
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/V5yFDuwT_t4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+After we had constructed each half of our drivetrain, we connected them:
+
+![Second Competition Chassis Top View](/assets/engineering/SecondRobot/SecondCompChassisTOP.jpg)
+
+{: .design}
+# Test
+
+To test this chassis, we ran the same tests as we did for our [drivetrain prototypes](/docs/engineering/2023-06-08-ChassisPrototypeTests.html#:~:text=(This%20test%20includes%20all%207%20chassis%2C%20including%20the%20adjustable%20chassis)%3A); each test was run 10 times, and the results were recorded as a percentage. Below, you can see our results:
+
+| Momentum Jump | Contact Jump | High-Centered Jump|
+|:---:|:---:|:---:|
+| 100% | 100% | 100% |
+
+From this testing data, we can see that these [conclusions](/docs/engineering/2023-06-08-ChassisPrototypeTests.html#evaluate-solution) we had drawn from our test drivetrain prototype testing previously have proven accurate. The use of flex wheels in between the drivetrain's main wheels allows the chassis to drive over the barrier much easier.
 
 {: .design}
 # Construct
@@ -137,4 +171,6 @@ Now that we have a CAD of our drivetrain, we can start to build. Building went v
 
 {: .design}
 # Evaluate Solution
+
+According to our testing, this drivetrain should be a great starting point for our robot; by using more watts of power in our drivetrain (66W compared to 55W) and less speed, we should not have to worry about overheating.
 

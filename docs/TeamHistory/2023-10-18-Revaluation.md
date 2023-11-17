@@ -1,8 +1,8 @@
 ---
-title: Competition Week
+title: Revaluation
 parent: Team History
-notebook: team_meetings
-date: 2023-10-11
+notebook: team_history
+date: 2023-10-18
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
@@ -21,19 +21,21 @@ This week, we held our thirteenth team meeting to discuss our upcoming competiti
 
 ## Review calendar and timeline(s) -
 
-Last week we had our first competition and we ended up being 3rd in qualifications we then allied with 89040A Marauders and we ended up getting beat in finals. Unfortunately we didn't take home any trophies but we were able to take our place as 15th in the world for skills and for our first competition we believe we did quite well however there is always ways to improve.That is going to be the main purpose of this week
+Last week we had our first competition and we ended up being 3rd in qualifications we then allied with 89040A Marauders and we ended up getting beat in finals. Unfortunately, we didn't take home any trophies but we were able to take our place as 15th in the world for skills and for our first competition we believe we did quite well however there are always ways to improve. That is going to be the main purpose of this week
 
 ## Tasks -
+
 * Pictures in notebook	    (Caleb, Ayla)
 * General Notebook   (Ayla, Caleb)
 * Driving   (Tucker)
 * Prototype Elevation   (Thomas)
 
+{: .design}
 # Summary
 
-By implementing what we learned from the competition last week, we can improve and hopefully bring home an award next time.
+By implementing what we learned from last week's competition, we can improve and hopefully win an award next time. Moreover, we gained inspiration and learned from other participants.
 
-|  18 - 25  | Plan (s) |
+| October 18 - 25  | Plan (s) |
 |:---|:---|
 | Thu | Prototype Elevation |
 | Sat |  |

@@ -8,7 +8,7 @@ has_children: false
 <h1 style="font-size: 3rem !important;" id="page-title">Table of Contents</h1>
 
 <h1>
-    <a href="{{site.url}}/docs/engineering/Engineering.html"> Engineering </a> -
+    <a href="/docs/engineering/Engineering.html"> Engineering </a> -
 </h1>
 
 <ol>
@@ -23,7 +23,7 @@ has_children: false
 </ol>
 
 <h1>
-    <a href="{{site.url}}/docs/programming/Programming.html"> Programming </a> -
+    <a href="/docs/programming/Programming.html"> Programming </a> -
 </h1>
 
 <ol>
@@ -38,7 +38,7 @@ has_children: false
 </ol>
 
 <h1>
-    <a href="{{site.url}}/docs/game_analysis/Game_analysis.html"> Game Analysis </a> -
+    <a href="/docs/game_analysis/Game_analysis.html"> Game Analysis </a> -
 </h1>
 
 <ol>
@@ -53,7 +53,7 @@ has_children: false
 </ol>
 
 <h1>
-    <a href="{{site.url}}/docs/skills_history/Skills_History.html"> Skills History </a> -
+    <a href="/docs/skills_history/Skills_History.html"> Skills History </a> -
 </h1>
 
 <ol>
@@ -68,7 +68,7 @@ has_children: false
 </ol>
 
 <h1>
-    <a href="{{site.url}}/docs/team_meetins/team_history.html"> Team History </a> -
+    <a href="/docs/team_meetins/team_history.html"> Team History </a> -
 </h1>
 
 <ol>
@@ -83,7 +83,7 @@ has_children: false
 </ol>
 
 <h1>
-    <a href="{{site.url}}/docs/research/Research.html"> Research </a> -
+    <a href="/docs/research/Research.html"> Research </a> -
 </h1>
 
 <ol>

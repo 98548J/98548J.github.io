@@ -5,10 +5,15 @@ $link-color: tomato;
 p {
   text-align: justify;
   text-justify: inter-word;
+  text-indent: 30px;
 }
 
 .center {
   margin: auto !important;
+}
+
+.grid-two {
+  display:grid;
 }
 
 .profile {
@@ -25,6 +30,14 @@ div.profile > div {
 
 div.profile > div > p {
   margin: 15px;
+}
+
+p > img {
+  margin-left: -30px;
+}
+
+img + img {
+  margin-left: 0px !important;
 }
 
 .profile-pic {
@@ -184,7 +197,16 @@ table.calendar {
   .content {
     padding: 16px;
   }
+
+  .image-pair {
+    display:flex;
+    flex-wrap: nowrap;
+  }
   
+  .image-pair > img {
+    margin: 2%;
+  }
+
   .sticky {
     overflow: hidden;
     position: fixed;
