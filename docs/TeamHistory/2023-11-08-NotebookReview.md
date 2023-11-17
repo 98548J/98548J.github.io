@@ -21,20 +21,23 @@ has_children: false
 
 ## Review calendar and timeline(s) -
 
-
+Last week, we conducted a review of our recent competition to identify areas where we could improve for the next one. Along with working on some notebook, we also prototyped an elevation mechanism for our robot. However, we realized that we need to rethink the design of the elevation mechanism so that it can support the weight of the robot when it is hanging on it.
 
 ## Tasks -
 
 * Pictures in notebook	    (Caleb, Ayla)
 * General Notebook   (Ayla, Caleb)
-* Prototype Elevation/CAD   (Thomas)
+* Research   (Thomas)
+* Driver Skills (Tucker)
 
 {: .design}
 # Summary
 
-| October 18 - 25  | Plan (s) |
+By dedicating more time to the notebook, we believe we can achieve excellence. Additionally, we can use the notebook as a tool, as it was intended, rather than just a log.
+
+| November 8 - 15  | Plan (s) |
 |:---|:---|
-| Thu | Prototype Elevation |
+| Thu | Notebook |
 | Sat |  |
 | Sun |  |
 | Mon | Skills |
