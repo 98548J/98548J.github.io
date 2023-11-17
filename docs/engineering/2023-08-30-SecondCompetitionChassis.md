@@ -162,6 +162,14 @@ To test this chassis, we ran the same tests as we did for our [drivetrain protot
 From this testing data, we can see that these [conclusions](/docs/engineering/2023-06-08-ChassisPrototypeTests.html#evaluate-solution) we had drawn from our test drivetrain prototype testing previously have proven accurate. The use of flex wheels in between the drivetrain's main wheels allows the chassis to drive over the barrier much easier.
 
 {: .design}
+# Construct
+
+Now that we have a CAD of our drivetrain, we can start to build. Building went very smoothly
+
+{: .design}
+# Test
+
+{: .design}
 # Evaluate Solution
 
 According to our testing, this drivetrain should be a great starting point for our robot; by using more watts of power in our drivetrain (66W compared to 55W) and less speed, we should not have to worry about overheating.
