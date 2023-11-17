@@ -24,9 +24,11 @@ There are a lot of different ways to elevate. One way is by getting caught on th
 
 <!-- ![Feild](/assets/Game%20Analysis/Over%20Under%20field.png){: width="50%"} -->
 
-{: .grid-two}
-![229VElevation](/assets/Research/229VElevation.png){: width="1fr"}![Hanger-Style](/assets/Research/Hanger-Style.png){: width="1fr"}
+![229VElevation](/assets/Research/229VElevation.png)![Hanger-Style](/assets/Research/Hanger-Style.png)
+{: .image-pair}
 
-Another way to elevate is to park the robot on the lower black bars. A lot of teams use sleds to get their wheels up onto the barrier and then they balance on a tri-ball, or with something else.
+Another way to elevate is to park the robot on the lower black bars. A lot of teams use sleds to get their wheels up onto the barrier and then balance on a tri-ball, or with something else.
 
 ![Sleds](/assets/Research/Sleds.png){: width="50%"}
+
+People have also used an arm to lift their robot up, or a wheel that attaches to the bar so they can drive up the bar. https://www.youtube.com/watch?v=QTX_AHG4Rlw

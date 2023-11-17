@@ -69,11 +69,37 @@ layout: default
         }
     });
 
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("scroll", function() {
 
-        var 
+    var imageContainers = document.getElementsByClassName("image-pair");
+
+    for (let i = 0; i  < imageContainers.length; i++) {
+        let img_1 = imageContainers[i].children[0];
+        let img_2 = imageContainers[i].children[1];
+
+        let img_1_dim = [img_1.naturalWidth, img_1.naturalHeight];
+        let img_2_dim = [img_2.naturalWidth, img_2.naturalHeight];
+
+        let container_width = imageContainers[i].clientWidth;
+
+        let style1 = window.getComputedStyle(img_1);
+        let style2 = window.getComputedStyle(img_2);
+        let style3 = window.getComputedStyle(imageContainers[i]);
+
+        let total_extra_space = parseFloat(style1.marginRight) + parseFloat(style1.marginLeft) + parseFloat(style2.marginRight) + parseFloat(style2.marginLeft) + parseFloat(style3.paddingRight) + parseFloat(style3.paddingLeft);
+
+        let img_1_scale_factor_partial = img_2_dim[1] / img_1_dim[1];
+        let both_img_scale_factor = (container_width - total_extra_space) / ((img_1_dim[0] * img_1_scale_factor_partial) + img_2_dim[0]);
+
+        img_1.style.width = (img_1_dim[0] * img_1_scale_factor_partial * both_img_scale_factor) + 'px';
+        img_1.style.height = (img_1_dim[1] * img_1_scale_factor_partial * both_img_scale_factor) + 'px';
+
+        img_2.style.width = (img_2_dim[0] * both_img_scale_factor) + 'px';
+        img_2.style.height = (img_2_dim[1] * both_img_scale_factor) + 'px';
+    }
 
     });
+
     /*Skills History Chart*/
 
     document.addEventListener("DOMContentLoaded", function() {

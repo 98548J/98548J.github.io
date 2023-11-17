@@ -10,14 +10,15 @@ signatures:
 nav_order: 17
 has_children: false
 ---
-
 {: .design}
+
 # Introduction
 
 We had our fourteenth team meeting this week and will begin working on the CAD for our home competition's elevation. Adding this elevation will help us maintain our good qualification rankings and give us an advantage in case something goes wrong during a match. With the ability to elevate, we hope to turn the tides of any game in our favor.
 
 {: .design}
-# Agenda 
+
+# Agenda
 
 ## Review calendar and timeline(s) -
 
@@ -30,16 +31,18 @@ Last week, our goal was to add more images and information to our notebook and s
 * Prototype Elevation/CAD   (Thomas)
 
 {: .design}
+
 # Summary
 
-By dedicating more time to practicing and improving our notebook and robot, we will perform well in the upcoming competition. Additionally, as this is our home competition, it holds a great deal of significance for us, and we aim to do our best and achieve the highest possible results. 
+By dedicating more time to practice and improving our notebook and robot, we will perform well in the upcoming competition. Additionally, as this is our home competition, it holds a great deal of significance for us, and we aim to do our best and achieve the highest possible results.
 
-| October 25 - November 1  | Plan (s) |
-|:---|:---|
-| Thu | Prototype Elevation |
-| Sat |  |
-| Sun |  |
-| Mon | CAD Elevation |
-| Tue | Notebook |
-| Wed | Notebook |
-{: .calendar}
+
+| October 25 - November 1 | Plan (s)            |
+| :------------------------ | :-------------------- |
+| Thu                     | Prototype Elevation |
+| Sat                     |                     |
+| Sun                     |                     |
+| Mon                     | CAD Elevation       |
+| Tue                     | Notebook            |
+| Wed                     | Notebook            |
+| {: .calendar}           |                     |

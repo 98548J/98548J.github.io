@@ -77,8 +77,8 @@ Our testing procedure involves multiple runs over the center bar to determine it
 
 After completing construction, we will move on to testing the functionality of each drivetrain to evaluate how well it performs during game tasks. Here are some pictures showing the first drivetrain, and the first test mode of the adjustable chassis:
 
-![smallerChassis](/assets/engineering/MinniChassis2.jpg){: width="35.665%"}
-![adjustableChassis](/assets/engineering/AdjustableChassisSide.jpg){: width="63.345%"}
+![smallerChassis](/assets/engineering/MinniChassis2.jpg)![adjustableChassis](/assets/engineering/AdjustableChassisSide.jpg)
+{: .image-pair}
 
 {: .design}
 # Test
