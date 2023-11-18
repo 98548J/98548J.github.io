@@ -1,8 +1,8 @@
 ---
-title: Building Elevation]
+title: Building Elevation
 parent: Team History
 notebook: team_history
-date: 2023-10-25
+date: 2023-11-08
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
