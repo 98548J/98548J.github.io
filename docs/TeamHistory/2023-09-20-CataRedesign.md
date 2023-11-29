@@ -46,5 +46,5 @@ We believe that by effectively managing our time, we will be well-prepared for o
 | Wed | Build Intake |
 {: .calendar}
 
-<div class="profile">
-<img src="/assets/Team%20History/2023-09-20" alt="" class="profile-pic">
+
+<img src="/assets/Team%20History/2023-09-20.jpg" alt="Our Robot this week">
