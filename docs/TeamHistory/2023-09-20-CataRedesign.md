@@ -22,7 +22,7 @@ Today, we had our ninth team meeting of the year. The purpose of the meeting was
 
 ## Review calendar and timeline(s) -
 
-We were able to get caught up on notebook and testing, the wings have also been installed and preform really well it is a good addition to the robot.
+We were able to get caught up on notebook and testing, the wings have also been installed and perform well it is a good addition to the robot.
 
 ## Tasks -
 
@@ -45,3 +45,6 @@ We believe that by effectively managing our time, we will be well-prepared for o
 | Tue | Rebuild Catapult/ Build Intake |
 | Wed | Build Intake |
 {: .calendar}
+
+<div class="profile">
+<img src="/assets/Team%20History/2023-09-20" alt="" class="profile-pic">
