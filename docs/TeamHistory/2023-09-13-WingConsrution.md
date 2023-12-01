@@ -43,3 +43,5 @@ I am confident that our current plans will lead us to success in our upcoming co
 | Tue | Build Wings/ Notebook |
 | Wed | Test wings/ Notebook |
 {: .calendar}
+
+<img src="/assets/Team%20History/2023-09-13.jpg" alt="Our Robot this week">
