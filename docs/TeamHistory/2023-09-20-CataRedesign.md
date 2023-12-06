@@ -22,7 +22,7 @@ Today, we had our ninth team meeting of the year. The purpose of the meeting was
 
 ## Review calendar and timeline(s) -
 
-We were able to get caught up on notebook and testing, the wings have also been installed and preform really well it is a good addition to the robot.
+We were able to get caught up on notebook and testing, the wings have also been installed and perform well it is a good addition to the robot.
 
 ## Tasks -
 
@@ -33,7 +33,7 @@ We were able to get caught up on notebook and testing, the wings have also been 
 {: .design}
 # Summary
 
-We believe that by effectively managing our time, we will be well-prepared for our first competition. This includes not only coding, but also ensuring that our driver is experienced. By planning ahead now, we can minimize the amount of work we need to do between our first and second competitions.
+We believe that by effectively managing our time, we will be well-prepared for our first competition. This includes not only coding but also ensuring that our driver is experienced. By planning now, we can minimize the amount of work we need to do between our first and second competitions.
 
 | September  20 - 27  | Plan (s) |
 |:---|:---|
@@ -45,3 +45,6 @@ We believe that by effectively managing our time, we will be well-prepared for o
 | Tue | Rebuild Catapult/ Build Intake |
 | Wed | Build Intake |
 {: .calendar}
+
+
+<img src="/assets/Team%20History/2023-09-20.jpg" alt="Our Robot this week">

@@ -43,3 +43,5 @@ I think we'll be caught up this week and ready for our first competition. Let's 
 | Tue | Build Catapult |
 | Wed | Test Catapult|
 {: .calendar}
+
+<img src="/assets/Team%20History/2023-09-06.jpg" alt="Our Robot this week">
