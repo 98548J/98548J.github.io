@@ -84,4 +84,4 @@ To test if this modification worked, we shot tri-balls over the mid bar from the
 {: .design}
 # Evaluate
 
-We are confident in our modification. With the ability to match load, and the ability to run our catapult at full speed we will be much more competitive.
+We are confident in our modification. With the ability to match load, and the ability to run our catapult at full speed we will be much more competitive. 
