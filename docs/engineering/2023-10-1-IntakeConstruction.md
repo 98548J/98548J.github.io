@@ -22,17 +22,18 @@ We need an intake so we can better play the game and do more defensive strategie
 {: .design}
 # Generate Concepts
 
-There are a few ways that we can create an in-take such as a single and double stage. These 
+There are two main ways to create an intake system: a single-stage and a double-stage. The double-stage system is more effective as it can easily intake and remove tri-balls from the robot. It is also much more accurate when it comes to scoring in the goal. On the other hand, a one-stage intake system needs to be larger to accommodate tri-balls and is more difficult to operate if a tri-ball gets stuck inside.
 
 {: .design}
 # Our Decision
 
+We ultimately decide to go with a double stage intake because of accuracy and it is a lot easier to use.
+
 ### Objective --
+
 # Develop Solution 
 
-### Addressing the jamming problem --
-
-### Addressing the layout issue --
+When creating our intake we 
 
 {: .design}
 # Construction
