@@ -64,3 +64,4 @@ After conducting tests, we realized that our intake is quite versatile and hard 
 {: .design}
 # Evaluate
 
+Now that we have completed the construction and testing of our intake mechanism and are pleased with its performance. However, it is quite heavy, so we plan to make it lighter on our next robot. We will draw inspiration from this design but focus on reducing its weight. Despite its weight, the intake mechanism is highly accurate and sturdy, and works really well continuously and relatively frictionless.
