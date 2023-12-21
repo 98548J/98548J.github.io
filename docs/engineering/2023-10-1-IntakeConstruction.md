@@ -27,7 +27,7 @@ There are two main ways to create an intake system: a single-stage and a double-
 {: .design}
 # Our Decision
 
-We ultimately decide to go with a double stage intake because of accuracy and it is a lot easier to use.
+We ultimately decided to go with a double-stage intake because of accuracy and it is a lot easier to use.
 
 ### Objective --
 
