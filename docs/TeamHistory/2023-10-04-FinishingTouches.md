@@ -43,3 +43,7 @@ With a combination of programming and driving skills, we aim to prepare our driv
 | Tue | Match Auton/Interview |
 | Wed | Match Auton/ Interview |
 {: .calendar}
+
+## Our robot this week
+
+<img src="/assets/Team%20History/2023-09-13.jpg" alt="Our Robot this week">

@@ -43,3 +43,7 @@ By analyzing our match loading and performance, we can improve our overall compe
 | Tue | Notebook |
 | Wed | Notebook |
 {: .calendar}
+
+## Our robot this week
+
+<img src="/assets/Team%20History/2023-09-13.jpg" alt="Our Robot this week">
