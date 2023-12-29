@@ -44,3 +44,4 @@ With having our first full robot we can finally work on full programs for skills
 | Tue | Hook up |
 | Wed | Cable management/ pneumatics |
 {: .calendar}
+

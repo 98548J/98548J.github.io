@@ -46,3 +46,7 @@ By dedicating more time to practice and improving our notebook and robot, we wil
 | Tue                     | Notebook            |
 | Wed                     | Notebook            |
 | {: .calendar}           |                     |
+
+## Our robot this week
+
+<img src="/assets/Team%20History/2023-09-13.jpg" alt="Our Robot this week">

@@ -28,12 +28,7 @@ Last week, we came up with a plan to enhance our notebook, enabling us to move c
 
 We believe that by putting a lot of effort into improving our skills, we can increase our score by 30 to 50 points. While practicing skills this also helped us practice maneuvers for matches which will ultimately lead us to perform better overall. At the USU competition, we are confident that we will perform much better and hopefully come away with an award.
 
-| November 15 -  22 | Plan (s) |
-|:---|:---|
-| Thu | Skills |
-| Sat |  |
-| Sun |  |
-| Mon | Skills |
-| Tue | Notebook |
-| Wed | Skills |
-{: .calendar}
+
+## Our robot this week
+
+<img src="/assets/Team%20History/2023-09-13.jpg" alt="Our Robot this week">

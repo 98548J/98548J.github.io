@@ -51,3 +51,7 @@ Through researching chassis, we can move closer to our objective of creating a r
 | Tue | CAD new chassis |
 | Wed | Finish CAD/  build chassis |
 {: .calendar}
+
+## Our robot this week
+
+<img src="/assets/Team%20History/FirstChassis.jpg" alt="Our Robot this week">

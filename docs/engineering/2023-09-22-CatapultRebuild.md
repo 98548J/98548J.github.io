@@ -56,7 +56,7 @@ One of our sister teams has a catapult with the same maximum fire rate as us, bu
 * 12-tooth, single-stage, slip-gear spinning at 200 rpm driving a 36 tooth gear... **99 tri-balls per minute**
 * 36-tooth, triple-stage, slip-gear spinning at 66.6 rpm driving a 36 tooth gear... **99 tri-balls per minute**
 
-And yet, when you look at the geometry of the gears, it is easy to see that they do behave slightly different; because of the slightly bigger window with the 12-tooth gear -- literally a bit of extra **"wiggle room"** -- our catapult would have **more time** to launch.
+And yet, when you look at the geometry of the gears, it is easy to see that they do behave slightly differently; because of the slightly bigger window with the 12-tooth gear -- literally a bit of extra **"wiggle room"** -- our catapult would have **more time** to launch.
 
 For our construction, we will be using the 12-tooth gear in our gearbox as a slip-gear instead.
 
@@ -79,9 +79,9 @@ We used two linear rails attached to the back of our catapult to support a backs
 {: .design}
 # Testing
 
-To test if this modification worked, we shot tri-balls over the mid bar from the match load bar. The match loading platform worked very well. All of the tri-balls we attempted to launch went over.
+To test if this modification worked, we shot tri-balls over the mid bar from the match load bar. The match loading platform worked very well. All of the tri-balls we attempted to launch went over with ease.
 
 {: .design}
 # Evaluate
 
-We are confident in our modification. With the ability to match load, and the ability to run our catapult at full speed we will be much more competitive. 
+We are confident in our redesign. Not only is it much more accurate, but it is also a lot faster. This helps us flood the zone with tri-balls more quickly, gives us more time to play defense, and prevents the other team from reacting as fast.

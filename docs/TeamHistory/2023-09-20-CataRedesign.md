@@ -47,4 +47,6 @@ We believe that by effectively managing our time, we will be well-prepared for o
 {: .calendar}
 
 
-<img src="/assets/Team%20History/2023-09-20.jpg" alt="Our Robot this week">
+## Our robot this week
+
+<img src="/assets/Team%20History/CataRedesign.jpg" alt="Our Robot this week">
