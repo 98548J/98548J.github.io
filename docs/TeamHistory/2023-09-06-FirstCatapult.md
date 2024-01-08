@@ -7,7 +7,7 @@ signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 12
+nav_order: 11
 has_children: false
 ---
 
@@ -44,6 +44,6 @@ I think we'll be caught up this week and ready for our first competition. Let's 
 | Wed | Test Catapult|
 {: .calendar}
 
-## Our robot this week
+## Our robot at the end of this week --
 
 <img src="/assets/Team%20History/2023-09-06.jpg" alt="Our Robot this week">

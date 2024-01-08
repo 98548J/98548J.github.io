@@ -7,7 +7,7 @@ signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 16
+nav_order: 17
 has_children: false
 ---
 
@@ -45,6 +45,6 @@ By implementing what we learned from last week's competition, we can improve and
 | Wed | Notebook |
 {: .calendar}
 
-## Our robot this week
+## Our robot at the end of this week --
 
 <img src="/assets/Team%20History/2023-09-13.jpg" alt="Our Robot this week">

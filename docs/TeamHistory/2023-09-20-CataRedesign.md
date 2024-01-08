@@ -7,7 +7,7 @@ signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 14
+nav_order: 13
 has_children: false
 ---
 
@@ -22,7 +22,7 @@ Today, we had our ninth team meeting of the year. The purpose of the meeting was
 
 ## Review calendar and timeline(s) -
 
-We were able to get caught up on notebook and testing, the wings have also been installed and perform well it is a good addition to the robot.
+We were able to get caught up on the notebook and testing, the wings have also been installed and perform well it is a good addition to the robot.
 
 ## Tasks -
 
@@ -47,6 +47,6 @@ We believe that by effectively managing our time, we will be well-prepared for o
 {: .calendar}
 
 
-## Our robot this week
+## Our robot at the end of this week --
 
 <img src="/assets/Team%20History/CataRedesign.jpg" alt="Our Robot this week">

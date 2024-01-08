@@ -51,6 +51,6 @@ In my opinion, our robot will have a strong foundation thanks to the extensive t
 | Wed | Finishing building/ get ready for Thursday <br> scrimmage |
 {: .calendar}
 
-## Our robot this week
+## Our robot at the end of this week --
 
 <img src="/assets/Team%20History/FirstChassis.jpg" alt="Our Robot this week">

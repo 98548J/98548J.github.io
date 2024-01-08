@@ -1,45 +1,46 @@
 ---
-title: Bear River
+title: Building Elevation
 parent: Team History
 notebook: team_history
-date: 2023-11-01
+date: 2023-11-08
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
-nav_order: 19
+nav_order: 20
 has_children: false
 ---
 
 {: .design}
-# Introduction
+# Introduction 
 
-This week we had our fifteenth and we had a lot to talk about we have our second competition of the year and it's our home competition in Tremonton Utah at Bear River High School. There are a few things we need to go over as a team such as match loading and match review so we can be better prepared for our next competition.
+We recently had our sixteenth team meeting and we realized that we need to focus more on our notebook. As much as we love taking part in the vex, we also have to fulfill our academic responsibilities, and unfortunately, we don't have enough time to dedicate to our notebook. Therefore, we are devising a plan to incorporate more time for the notebook in our tight schedule.
 
 {: .design}
 # Agenda 
 
 ## Review calendar and timeline(s) -
 
-Last week, we participated in our home competition and won the tournament championship. Our team, along with 15468H Vexation, performed exceptionally well and secured the first position in qualification and tied for the second position in skills. We are proud of our performance at Bear River. Nonetheless, we believe that there is always room for improvement and learning, even after a successful competition.
+Last week, we conducted a review of our recent competition to identify areas where we could improve for the next one. Along with working on our notebook, we also prototyped an elevation mechanism for our robot. However, we realized that we need to rethink the design of the elevation mechanism so that it can support the weight of the robot when it is hanging on it.
 
 ## Tasks -
 
 * Pictures in notebook	    (Caleb, Ayla)
 * General Notebook   (Ayla, Caleb)
-* Prototype Elevation/CAD   (Thomas)
+* Research   (Thomas)
+* Driver Skills (Tucker)
 
 {: .design}
 # Summary
 
-By analyzing our match loading and performance, we can improve our overall competition results. Placing high now is not a guarantee for future success.
+By dedicating more time to the notebook, we believe we can achieve excellence. Additionally, we can use the notebook as a tool, as it was intended, rather than just a log.
 
-| October 25 - November 1  | Plan (s) |
+| November 8 - 15  | Plan (s) |
 |:---|:---|
-| Thu | Prototype Elevation |
+| Thu | Notebook |
 | Sat |  |
 | Sun |  |
-| Mon | CAD Elevation |
+| Mon | Skills |
 | Tue | Notebook |
 | Wed | Notebook |
 {: .calendar}
