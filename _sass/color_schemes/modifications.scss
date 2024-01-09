@@ -296,7 +296,7 @@ code {
   color: #272822;
   background-color: #f92672;
 }
-.highlight .c, .highlight .cd, .highlight .cm, .highlight .c1, .highlight .cs {
+.highlight .c, .highlight .cd, .highlight .c1, .highlight .cs {
   font-weight: 600;
   font-style: italic;
   color: #009c60;
@@ -307,10 +307,32 @@ code {
   padding-top: 3px;
   padding-bottom: 3px;
   transition-duration: 0.125s;
-
 }
 
-.highlight .c:hover, .highlight .cd:hover, .highlight .cm:hover, .highlight .c1:hover, .highlight .cs:hover{
+.highlight .cm{
+  font-weight: 600;
+  font-style: italic;
+  color: #009c60;
+  background-color: #1b1b1b;
+  display: inline-block;
+  margin: 0px;
+  border-radius: 5px;
+  padding-left: 6px;
+  padding-right: 17px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  transition-duration: 0.125s;
+}
+
+.highlight .c:hover, .highlight .cd:hover, .highlight .c1:hover, .highlight .cs:hover{
+  font-weight: 400;
+  font-style: italic;
+  color: #00ff88;
+  background-color: #373d4e;
+  box-shadow: 2px 2px #888, -2px -2px #888,  2px -2px #888,  -2px 2px #888
+}
+
+.highlight .cm:hover{
   font-weight: 400;
   font-style: italic;
   color: #00ff88;
