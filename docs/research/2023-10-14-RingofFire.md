@@ -19,25 +19,51 @@ has_children: false
 # Evaluation
 
 {: .design}
-Qualification #7 
+Qualification #5 
+
+Red                         Blue
+98548J  89040B      2410A 98548G
+Score: 95R 123B
 
 {: .design}
-Qualification #13 
+Qualification # 8
+
+Red                         Blue
+37250F  98548G      2131R 98548J
+Score: 49R 156B
 
 {: .design}
-Qualification #23
+Qualification #18
+
+Red                         Blue
+98548 J  70528B      283P  37250E
+Score: 71R 57B
 
 {: .design}
-Qualification #39
+Qualification #25
+
+Red                          Blue
+98548D  74177G      2410B  98548J
+Score: 48R 148B
 
 {: .design}
-Qualification #49
+Qualification #29
+
+Red                         Blue
+70528A  98548J      37250F  37250A
+Score: 67R 122B
 
 {: .design}
-Qualification #57
+Qualification #36
+
+Red                   Blue
+283S  283W      98548J 98548J
+Score: 67R 122B
 
 {: .design}
 Alliance Selection
+
+After qualifications we ened in third place so that means we were ina good picking postion 
 
 {: .design}
 Round of 16 #1-1
@@ -54,19 +80,15 @@ Finals #1-1
 {: .design}
 Awards
 
-**Tournament Champion**-    89040A and 89040B
+**Tournament Champion**-    2131Y 98548C
 
-**HS Excellence**-  15486H
+**HS Excellence**-  98548H
 
-**MS Excellence**-  98548G
+**Design**- 2131R	
 
-**Design**- 89040B
+**Judges**- 2410A
 
-**Judges**- 1154A
-
-**Sportsmanship**-  98548C
-
-**Robot Skills Champion**-  98548J
+**Robot Skills Champion**-  98548H
 
 {: .design}
 Summary
