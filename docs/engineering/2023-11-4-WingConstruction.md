@@ -37,17 +37,22 @@ Before we start constructing our wings, we need to think about the design. We pl
 {.design}
 # Construction
 
+When we were constructing the wings, we realized that they required some assistance in opening. Due to the piston's acute angle, it was difficult for it to push out. As a solution, we decided to use the new mini pistons to act as a boost for opening and closing. The mini pistons would push the wings out so that the other pistons could carry them. When it was time to retract the wings, the mini pistons would disengage the lock.
+
 {: .design}
 # Testing
 
+When we commenced testing, we planned to conduct three different tests. Firstly, we aimed to de-score the alliance tri-ball. Secondly, we intended to execute a front-load goal push. Lastly, we planned to examine if we could push a large number of tri-balls over the central bar. For the two push tests, we will line up ten tri-balls and see how many go in or over. Then we will line up the Alliance tri-ball ten times for each test.
+
 ## Results 
 
-| | Corner Intake| Central Bar Intake | Inside Robot |
+| | Ali Tri-ball | Goal push | Over central |
 |:---|:---:|:---:|:---:|
-| Corner down | 100% | 100% | 100% |
-|  Flat side on the ground  | 100% | 100% | 100% |
-| Thrown/ Random | 100% | 100% | 100% |
+| Test 1 | 100% | 100% | 20% |
+| Test 2 | 90% | 70% | 0% |
+| Test 3 | 90% | 90% | 10% |
 
 {: .design}
 # Evaluate
 
+Overall the wings seem to be quite successful with great testing scores we think they will accomplish what we need them to do during a match. Not only that It could chnage the tides of any match.
