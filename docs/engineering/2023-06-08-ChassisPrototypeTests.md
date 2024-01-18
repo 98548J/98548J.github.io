@@ -17,7 +17,7 @@ has_children: false
 
 This season presents our robots with a unique challenge; there is a (non-trivially tall) barrier spanning the field:
 
-![barrier](/assets/engineering/Barrier.png)
+![barrier](https://lh3.googleusercontent.com/pw/ABLVV85IpLtfwDRrN8mD9ewp_jYHcZzoK9sG62c2ecON3zKM4t2orRJoMTedifC5vtVWBO1NgAbRM7M6baGGtgqJtkaSkZk8GGFvhyxL4y3S9BNf6hRVpNiPM-ZUo2nKh2YMAEEmlqrcd2GzgREITE9x_Jde=w994-h468-s-no-gm)
 
 Because our team has never encountered such a (literal) obstacle before, we don't know what the most effective method of traversing such an obstacle would be.
 
@@ -55,16 +55,16 @@ For our seven different chassis designs, we first made a CAD model of **a single
 
 | First Chassis: | Adjustable Chassis: |
 |:---:|:---:|
-|![first chassis](/assets/engineering/4 inch 4 wheel HOME.png) | ![adjustable](/assets/engineering/HOME.png) |
+|![first chassis](https://lh3.googleusercontent.com/pw/ABLVV84bNHoFMhko8bs79MSZILgkUjuVhS3fMZWkgjADKfFNlexYsscqmfUqxFv1o-PKYR1OewNlT4juocrfBujSQoW8xdq-vNumgDc_YVtLB9O83aVNfq5EQhdPvJgEuITjnZJi1GVvI_bgSVO5rpCrU_te=w1586-h1060-s-no-gm) | ![adjustable](https://lh3.googleusercontent.com/pw/ABLVV86iiD4xiX7193GuY_nEFckSznQJyyd4n5FABf99XIQSG6OQdcx-8qKnnAbF4dejfxDN_nSahO0XN4eT52yygDKbIQVG2koWBBZxw-gpdpN-5C0wFR5XsWkA4apkLx8HiI3VPryWNqTxn-lyN_Oz8AjH=w1586-h1060-s-no-gm) |
 
 ## Configurations:
 
-![adjustable](/assets/engineering/4 inch 4 wheel RIGHT.png){: width="32.5%"}
-![adjustable](/assets/engineering/4 inch 4 wheel 2 flex RIGHT.png){: width="32.5%"}
-![adjustable](/assets/engineering/4 inch 6 wheel RIGHT.png){: width="32.5%"}
-![adjustable](/assets/engineering/3.75 inch 4 wheel RIGHT.png){: width="32.5%"}
-![adjustable](/assets/engineering/3.75 inch 4 wheel 2 flex RIGHT.png){: width="32.5%"}
-![adjustable](/assets/engineering/3.75 inch 6 wheel RIGHT.png){: width="32.5%"}
+![adjustable](https://lh3.googleusercontent.com/pw/ABLVV84bt5wPuUikx5W_w1gaANE4JPnASezj4MT0roXPXppkkw1UiGwMTY1TarAS-m2WFXtsLb713CVQOscpb-cN5cxZgUqOnYFR8QImBJbirb6pEEHFsVFUk-2yiqMi4MfqTh5IkRTAoQld3viBVek5-Lr1=w1586-h1060-s-no-gm){: width="32.5%"}
+![adjustable](https://lh3.googleusercontent.com/pw/ABLVV85ytVgTa4na_M8rzTs45fDT6KZWuAFtHHgEGmGsqAXZzpUEDKoUhr0kxh7oPRLp5n0JghJQBBuxdcib1Wf2ESH5em6A5UruLqw-A-_i8d0oVw4DZBPj_ydSz-nCcldsor4DTu16sGfDJtcFiMDjjTOA=w1586-h1060-s-no-gm){: width="32.5%"}
+![adjustable](https://lh3.googleusercontent.com/pw/ABLVV85gJCI_Lz4cbaRdjp8HuiAC8mWu-BUPfYYfQItRm52Q_EwaT8pLDb2xKmdy6TVheA3pOifzG1TyH0r6JT-U5vT4uBDAb23vpGNtae7kujKQXd6b6ryijgWl8h1yzTaqo6N5rw3sqF3j11Q7fsq8OeVp=w1586-h1060-s-no-gm){: width="32.5%"}
+![adjustable](https://lh3.googleusercontent.com/pw/ABLVV87bjfeWbubq8djNKsnUZulq73gHr3w_kbB5mtdwQd5w2TIXTQ-lfspeCWrUTsQ-0y3epIdNLJZgB-7yxiO84aCYRbJ7EumU_KONnARlMHWwwxC6NCLeVUjNLfMseNM0f4j639SIivZEhJwn840fCHZh=w1586-h1060-s-no-gm){: width="32.5%"}
+![adjustable](https://lh3.googleusercontent.com/pw/ABLVV85oUHH2Fr9JawM98iPGn43jVqXjdv6b1XR-jcuKwWHt3eyOB0-FS2q9HUDgAVZq1fqe0hGKzAlhFgMnrgSolgPpFDhfRZ8uDi1bVBenow-0DtrkGHS6I58k2AFZrWxru2Ld1cnwLLMBB51zjluM09ra=w1586-h1060-s-no-gm){: width="32.5%"}
+![adjustable](https://lh3.googleusercontent.com/pw/ABLVV87g37bgAM9270N0H2D9hKtER3YbgO-Q6MpP3HMQA-hJbe5ao9peUlCPIf9KQourKIkAy3FSdws3dh8ovaO587ChgVqACmHqLd7vAMDyiH_pog9eXNbV-uZzHc-s7uifCC2xRjtlO9tYJgWLVJx_djvG=w1586-h1060-s-no-gm){: width="32.5%"}
  {: .cad}
 
 The images depicted above show the seven chassis that we will be testing. We plan to gather data on both designs and incorporate the best features into another CAD model.
@@ -78,7 +78,7 @@ Our testing procedure involves multiple runs over the center bar to determine it
 
 After completing construction, we will move on to testing the functionality of each drivetrain to evaluate how well it performs during game tasks. Here are some pictures showing the first drivetrain, and the first test mode of the adjustable chassis:
 
-![smallerChassis](/assets/engineering/MinniChassis2.jpg)![adjustableChassis](/assets/engineering/AdjustableChassisSide.jpg)
+![smallerChassis](https://lh3.googleusercontent.com/pw/ABLVV84ieFSsRrP6cGe2CLIIZf1L6732Okgpee7N_KVGtVwMHQhueOeFF4UvJkbTj9NznY0UAqx7AnnqJLxkdkqAa7sFlIbXwInzfu24VUNCwJww5F5FQ1ff9O_oQ_4AJ9TTHbw4PLpylJCCFG_oBwGg7xBO=w795-h1060-s-no-gm)![adjustableChassis](https://lh3.googleusercontent.com/pw/ABLVV840r6PuvdLkV_0Gr-q0ZV_hvpwBC8Ta3HyeOxPdwM5un5IRfZ-vBi2gIf_YH5u6GD_urJUYVwlFfaAH45Zvd0XsE-HFepRJj69jCfEcJLs59XiVW6EvgF8TeNQLv4qLHrF9YGR5vqL-J3n0LYVLW41V=w1413-h1060-s-no-gm)
 {: .image-pair}
 
 {: .design}
@@ -98,7 +98,7 @@ We then conducted a series of tests involving the central bar:
 
 | First Test - Distance | Second Test - Contacting | Third Test - High Centered |
 |:---:|:---:|:---:|
-|![Distance](/assets/engineering/Distance.jpg) | ![Contact](/assets/engineering/Contact.jpg) | ![HighCentered](/assets/engineering/HighCentered.jpg) |
+|![Distance](https://lh3.googleusercontent.com/pw/ABLVV87Ff897OKiyeERVxFsQBA5_0-RwNTq5YW7QpwcyRli8EB8XXU7zgN2AVtcoygsZm_Gt-y6b3kUArSxZSvoGKZSL1eqrZkcKHrO_g6sh10pHvlFDGGVA2yg8yG9r86Ky-0PKiBL5OwGh7Uwj_CqtXukN=w1413-h1060-s-no-gm) | ![Contact](https://lh3.googleusercontent.com/pw/ABLVV84X0NjK5Si0K23BHYGi8iRB9Kj3ie4NcYrO-hgcolt1r4IEkIE7qwuFuux6eltu3WygUKrawNZqsPTfkwhLoSqzhaaVzEUbI9iJD76PI6fX0cY4cqKVglV6n_SmznAAJTONIFmOfofFVO07Gg5DgWbq=w1413-h1060-s-no-gm) | ![HighCentered](https://lh3.googleusercontent.com/pw/ABLVV86wDTIlwl7dYaxQIazg9QSDUnhDfqC_afiVVXCJAvevWc26QByHZuFNprWn7-MlS1Ala0m6XErGlIoyKkNQUdq44f0572vXdgGoqlDZVzdF3q9LaOjOJ3KBaq6gDhFLpayu46-vLbasjcqKh3uHHTEB=w1413-h1060-s-no-gm) |
 
 Below you can see the results of our barrier tests, each trial had 10 tests, and the result of those 10 tests is shown in percentage as a success rate; higher is better.
 

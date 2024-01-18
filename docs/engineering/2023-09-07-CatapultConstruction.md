@@ -46,7 +46,7 @@ To begin, we will CAD our design for the catapult gearbox. After CADing is compl
 
 Below you can see our first attempt at a CAD for our catapult:
 
-![Cata33](/assets/engineering/SecondRobot/Cata33ISO2.png)
+![Cata33](https://lh3.googleusercontent.com/pw/ABLVV84y1EARF0oQU5kKmUNY0XPphPVDaAwScYly9TTVWNlcWpaqaGRXTgrgnpjN8eFURZukoPcQZg0Od--4_OqML2UlyYaPmO68EeLYt4WW8oU6BNJMiiRt-QIzZfW0AwltxIwNqSN1lei7yGnLU14QW0M4=w1280-h978-s-no-gm)
 {: .cad}
 
 There is an intermediary slip-gear which will have 3 sections of teeth cut out of it. These sections of teeth will allow the catapult to fire after storing up enough energy.
@@ -56,7 +56,7 @@ There is an intermediary slip-gear which will have 3 sections of teeth cut out o
 
 Below you can see our gearbox frame as it is being assembled, and the gearbox attached to our robot:
 
-![PartialGearbox](/assets/engineering/Cata/PartialGearbox.png)![Gearbox](/assets/engineering/Cata/Gearbox-Braces.png)
+![PartialGearbox](https://lh3.googleusercontent.com/pw/ABLVV86g_S4gji2NQXL_yTYd5q7fupZadJ02X2C1EfA_a6hQpsqAJfHrHDDxCGq3FdX5yv4Qjoz42gvFNvyov6V-_OSMTVV7YPAZy1jQGde6w24_mzFBO4Cfu5PSitVXooy1HrTh4mTRm-93p_Dj0gdeP84Q=w795-h1060-s-no-gm)![Gearbox](https://lh3.googleusercontent.com/pw/ABLVV84K2nTGaxRB2K1SrNg7Ml6aSAhYc9PaXawht9r_Sdy1vWS3GxabjhOjfPTEgW1ccq_jibupqXMbVca6Vxhet1exN13jXS6-RBrXZ3IRqMFGoco37OhvkLfUaCr8VrOEArjDnjDuyuimcG_NlXbqcR98=w1413-h1060-s-no-gm)
 {: .image-pair}
 
 During construction, we also added two 7.5" braces. These braces will help counteract any torque impulses that would otherwise bend our rear C-channel into oblivion.
@@ -91,4 +91,6 @@ We isolated the source of the problem to the *settling time of the catapult*. By
 {:  .design}
 # Evaluate
 
-After testing our fire rate, we know that our catapult has potential, but until we can fix the seizing issue, we will have to run our catapult at a lower fire rate. Overall, things are looking good for our catapult; the potential of 98.4 tri-balls per minute is promising. 
+After testing our fire rate, we know that our catapult has potential, but until we can fix the seizing issue, we will have to run our catapult at a lower fire rate.
+
+Overall, things are looking good for our catapult; the potential of 98.4 tri-balls per minute is promising.

@@ -50,5 +50,5 @@ With having our first full robot we can finally work on full programs for skills
 
 Unfortunately, we failed to find a good picture of our robot's intake. We were only able to find some partial photos. The first is of the intake chain, and the second is of the intake pivot point.
 
-![Intake Partial](https://lh3.googleusercontent.com/pw/ABLVV86vnBVQlgO5mxLvh2KvQqJMegPDRDhQAVVTM4vK5xfycqYNLSMpxkhCOfkWD2nRWkJT0MYMfXvlnaAN_Pfwhp_QjEI3ieM8eGbDSkylKInLQZwSV43qwrZb2EIsKFOjyS3Qb8JhNpTy0WAhVxd4UDbR=w1179-h884-s-no-gm)![Intake Partial](https://lh3.googleusercontent.com/pw/ABLVV84TVkAIs-JNb9QdnJXN9lqY9DYmMxvR8G27iGtBIBWtSkA4mtOwMB13dHD8pIJCbb8LCEU6XS3DaykV3F94d5pHr0iBIzwvpP83Vny8COAsP4OkIydcm8RjCdyjMAqJqTT9iOsDG5R-siZTlg1_oYt2=w1179-h884-s-no-gm)
+![Intake Partial](https://lh3.googleusercontent.com/pw/ABLVV86vnBVQlgO5mxLvh2KvQqJMegPDRDhQAVVTM4vK5xfycqYNLSMpxkhCOfkWD2nRWkJT0MYMfXvlnaAN_Pfwhp_QjEI3ieM8eGbDSkylKInLQZwSV43qwrZb2EIsKFOjyS3Qb8JhNpTy0WAhVxd4UDbR=w1179-h884-no)![Intake Partial](https://lh3.googleusercontent.com/pw/ABLVV84TVkAIs-JNb9QdnJXN9lqY9DYmMxvR8G27iGtBIBWtSkA4mtOwMB13dHD8pIJCbb8LCEU6XS3DaykV3F94d5pHr0iBIzwvpP83Vny8COAsP4OkIydcm8RjCdyjMAqJqTT9iOsDG5R-siZTlg1_oYt2=w1179-h884-no)
 {: .image-pair}

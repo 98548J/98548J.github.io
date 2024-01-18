@@ -43,9 +43,9 @@ To speed up the process of building our designs, we use CAD software before we b
 
 Below you can see the CAD we will build our design from:
 
-> ![placeholder CAD PICTURES](/assets/engineering/TestRigTop.png)![placeholder CAD PICTURES](/assets/engineering/TestRig.png)
+> ![placeholder CAD PICTURES](https://lh3.googleusercontent.com/pw/ABLVV87sQ1qCmYonFf_DNRXvcBo6nhtL00-W9Hz7QWCwxAXHflCbNpXxL8MyKgyyQ8DDSaM0llKjOIuZcuXbB3qcP51YvX217ix2htAQzpGfHHnPyK2b3hYANRWqSAgK8wajVAIxnEzJe8FN6pJZ3F5gJfqE=w1238-h1060-s-no-gm)![placeholder CAD PICTURES](https://lh3.googleusercontent.com/pw/ABLVV86F-N67J4c-SN62mn3t5IIQJCdyiEkOTYaAXj5qYLVCmmDL1QTKtukY4zwNByhm-bub8H174zIb8tdPBvXexdr0-SmseqqzlH-yCYaRBU5gHePrr6SMIOKQhSgbBUuKCs7CqN7VgL0_IWuRW0lSmOV6=w1406-h1060-s-no-gm)
 > {: .image-pair}
-> ![placeholder CAD PICTURES](/assets/engineering/TestRigRight.png)![placeholder CAD PICTURES](/assets/engineering/TestRigFront.png)
+> ![placeholder CAD PICTURES](https://lh3.googleusercontent.com/pw/ABLVV87b2oQokPFgFxFo7ZnwMx-ydKzGGxFAZJD4BOKjzn2CuJWh6AJWWudOyrY5fGGnf1mOIUrFQ5Dld2IOjqLeJdhfYGqthYF_8MlJB7rKhWTL6PvxBULXaWCsuuXY19OOsgvAfmEjXNT2_CP0eKNnZ9VU=w1922-h973-s-no-gm)![placeholder CAD PICTURES](https://lh3.googleusercontent.com/pw/ABLVV86Rf8upa9B7pu5_DweEtaPaMP0AuJfThITTWBUxJW4dhqYJUYjCXYhqiTPEIILPGVLBuCaN-Zmwsr5KYnb8bba_TxuMdNscqTRDMTzHCWRHefXWSaSTA6kL9DFgyDg4Us7Leny4a4yPpVaKx-PZ2anR=w1922-h973-s-no-gm)
 > {: .image-pair}
 {: .cad}
 
@@ -56,9 +56,9 @@ One thing to note is that we only inserted one tracking wheel into the CAD, this
 
 First, we put together the frame of the chassis. Then, we constructed the tracking wheels and attached all the motors and tracking wheels.
 
-![placeholder ConstructionPictures](/assets/engineering/TestRigConstructionFrame.jpg)![placeholder ConstructionPictures](/assets/engineering/TestRigConstructionTrackingWheel.jpg)
+![placeholder ConstructionPictures](https://lh3.googleusercontent.com/pw/ABLVV86m1sEVYsd1vhCfcMJ3RW-BglcWRITxDJiN4KbIW0GfJg43ZpIVxs9Q9gu3NmSgMVGZW5qx_ZO5M1v--wZ0ih78kYYj9cbYy5pMwi21blmW85z0dpHFOW-aKW5bRMZ28RWcl30wDBq5TMcm9r0WWCqg=w795-h1060-s-no-gm)![placeholder ConstructionPictures](https://lh3.googleusercontent.com/pw/ABLVV8410Jy-AnhHCvgCNekpNdmjYFGOxFK69NrI490DH-LjDidrlwHFBoa-O7TlQ917XzB0uQvj_W7N8M_eX9zLDy7rlLuyv5oSgatT8pdzCzoC0SgTPsfPT5czPV1bQecK4-mCk9oxfADO8Sod3lmPzL8K=w795-h1060-s-no-gm)
 {: .image-pair}
-![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction.jpg){: width="48%"}
+![placeholder ConstructionPictures](https://lh3.googleusercontent.com/pw/ABLVV86gc_yqmQwomT70bFtfNCTTBZhkfxbZTQlMuyx0YpgapdC3gS0l5YA6TBhhGyR4DYHYZSQvPO9OQhUCr74mxoPCwrrq9yPblpv2WQ0fFqYIQkki6qhrrNUXfp7G2dAGA9EIQc1FON2RpP5-BwZNP7w4=w795-h1060-s-no-gm){: width="48%"}
 
 However, by this point, we realized something was wrong. The issue was, that the V5 brain would not support the use of the 393 motors we were intending on using. The 393 motors draw around **4.6 Amps** when under maximum load (stalling), but the 3-wire ports on the V5 brain only support **2 Amps** together.
 
@@ -113,7 +113,7 @@ Aside from any questions of whether this should be done, the switch should be ve
 
 Below you can see the test rig with the motors attached, and then wired:
 
-![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction2Unwired.jpg)![placeholder ConstructionPictures](/assets/engineering/TestRigConstruction2Wired.jpg)
+![placeholder ConstructionPictures](https://lh3.googleusercontent.com/pw/ABLVV84hWXQRs52oM9d_X637DMi83lNA-mUuMoaQzUyuGbwegqtueFyp-0NFINj_N2rm3ooAhCwpSPh-FfmHn3MYdgh7wrjjiqBhVBnnstYW7gpVoU_-IK7jjziomxxRHc1FSF_O5NMAdcLnisqexC8vQH3K=w1413-h1060-s-no-gm)![placeholder ConstructionPictures](https://lh3.googleusercontent.com/pw/ABLVV86_kWAQbLpbuazfpo_ADYLT4d8BMLEKvy3w9wTYSxkQRoHHwOVEFyhmXrT62aXaBUxw7I1oGloi-eiL5lngPunowilo6HQcUxsUnth2cC1pjBFvSxFRQ_lBX6f8KWZINUAghxUwT4-pQroWlBi7yokn=w1413-h1060-s-no-gm)
 {: .image-pair}
 
 The first step in testing our rig was to turn on the brain and verify that all of the motors and sensors are working -- they were. Next, we programmed the robot with a basic tank drive driver control program to see how well it drove.

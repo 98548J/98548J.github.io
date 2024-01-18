@@ -76,8 +76,8 @@ Now that we know what we are going to build for our chassis, we can start to fig
 
 The first step was to make a CAD of the gear layout for our drivetrain. Below you can see the initial layout we made:
 
-![FirstGearLayout](/assets/engineering/SecondRobot/FirstChassisGears.png)
-![FirstGearAndWheelLayout](/assets/engineering/SecondRobot/ChassisFirst1.png)
+![FirstGearLayout](https://lh3.googleusercontent.com/pw/ABLVV865TAKnnvmD8fUQngNREaohrkXnOaAohBRcNSSEPbxq5fV5qssA8zdpF9oyb6nSF3PX4gVkSp0vzM9FQF0pLzjW0rG79NhhS4T8JDWtne6XhFkHGcbhKumjt3u5XJE732pxpafC5qIPgHQZ0jFSQpD0=w1800-h500-s-no-gm)
+![FirstGearAndWheelLayout](https://lh3.googleusercontent.com/pw/ABLVV87hCQDSr5tZN8sYY9ZbG2KdHYztdBeUU50PnCghi7_sXsbcBNQvJptNNkUqizHHKUsF_ZgBu9geGEoXEN3gqDJIqX4MMi76ZhyCMfkcNbSAEwjGUrb_N59c5ZlpnWBOu9pmctnBCp_5SMbP8171ekd2=w1850-h600-s-no-gm)
 {: .cad}
 
 However, at this point, we noticed a problem with our current CAD.
@@ -87,7 +87,7 @@ However, at this point, we noticed a problem with our current CAD.
 
 There are large gaps between the flex wheels and omni wheels. These gaps will make it much more difficult for us to drive over the barrier:
 
-![FirstGearAndWheelLayoutProblem](/assets/engineering/SecondRobot/ChassisFirst.png)
+![FirstGearAndWheelLayoutProblem](https://lh3.googleusercontent.com/pw/ABLVV848yDNiyLW_rRcZBmQM3spsK-LPaQ_2HpWf4mPC0OgSwUa1HbxCSmJFDOpTT4FBX2VJ5_3E45pWsIbQvx-_D7KF-9_DKC_KldN5reSe5juV2eKvlfEm9DPQ1h3ko8Vx87oT7CcSBzwg1PYyZBI6MsZc=w1850-h725-s-no-gm)
 {: .cad}
 
 {: .problem}
@@ -124,16 +124,16 @@ This leaves concept [#2](/docs/engineering/2023-08-30-SecondCompetitionChassis.h
 
 Below you can see a CAD screenshot of the gears after we moved them down. Specifically, we moved the inner gears between the large outer gears down exactly 0.5 inches. Additionally, you can see the supporting framework structure of the drivetrain in the second picture.
 
-![SecondGearLayout](/assets/engineering/SecondRobot/SecondChassisGears.png)
-![SecondGearLayoutWithSupports](/assets/engineering/SecondRobot/SecondChassisFlexDisplay.png)
+![SecondGearLayout](https://lh3.googleusercontent.com/pw/ABLVV86gnJhKKBEOS-RnWhhV8qUZJUjIqHft9eqAfRML3lDKQzvHkt_0XQMv82Oww0qABk1bsxASJU0RSk3lwrsEygA7GfKfPm3Wb0Cj7vi10ZZ6M95EjYOakJTboQexN5qlF8XE1StPoNCR_fHIofjqx-KI=w1922-h576-s-no-gm)
+![SecondGearLayoutWithSupports](https://lh3.googleusercontent.com/pw/ABLVV858hP0sLZ1W6pfWc6Xr92kmOaha2DHaUFCbFPRh74OjbLaeKlnSvT35W10i8CE5gURt6Id-GxGvJz2WQOdWztZ64Znv1FdTv2w0Vl1DvBT8XFFQrQirUqX4bauBPPNDkEejQ8nc037Fgo4xwdgZbLC6=w1922-h769-s-no-gm)
 {: .cad}
 
 Once we had one half of the chassis in CAD, we simply mirrored the part, and joined the two halves together with the rest of our robot's structure:
 
-![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisTOP3.png){: width="45%"}
-![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisISO1.png){: width="54%"}
-![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisFRONT1.png){: width="48%"}
-![FirstDrivetrainTop](/assets/engineering/SecondRobot/SecondChassisRIGHT1.png){: width="48%"}
+![FirstDrivetrainTop](https://lh3.googleusercontent.com/pw/ABLVV86Na92QFy-gZpbshMx1147LoxfxbT5r0RVtNK1NobN-FyvVgVrkqaRSw0ZtootBq8juRrHGlzJQ4S0AAYTRF-GRZzd6EyWQWjECW4Wj40snbYff4QapfbmwAR_H-SvRu2JKucghfGFextWS75E7bN3E=w990-h931-s-no-gm){: width="45%"}
+![FirstDrivetrainTop](https://lh3.googleusercontent.com/pw/ABLVV87lN3899YNxWvXD1zvnK7bQPj-9MRtCktInr5TnH1ns_kQsq3aXnQm8ROp915IIzMELIsldBQddefgSZSeXg84_Dzzu6iBeXU2kToEnuNOP_UJ1mYrn_nRAvLJB8wNfMPw_mAxV28yM7oKl0yjTpx4S=w1201-h770-s-no-gm){: width="54%"}
+![FirstDrivetrainTop](https://lh3.googleusercontent.com/pw/ABLVV87ubRj2cl3iQ_MU_UgbbeZ9z5YfQhWsGiTy0NPOx88SmMO6-5O2Cs1XE9_RXcHzGLBoyhqgqlOEsadL-enXGhY0HTETk1Zo8D1gtoJn34J8B8sXK00-xM5si78edRt1QOoh0adRjbjx5r6skm_b5No8=w1886-h430-s-no-gm){: width="48%"}
+![FirstDrivetrainTop](https://lh3.googleusercontent.com/pw/ABLVV84mvHN-twj9WVtUiWjeSNG9wAF7JPM9-_PXxnxuBvwvtACrw1XLIvZIzIK_HoBOpscnJsxrkmUwq0DwSfocLAeHMffUTZC_KKxYD1Yj6lg_jYVfTaFbxoxpDowrTBTXUnHKO6r0Hew-eTIIsGqfQqNw=w1832-h440-s-no-gm){: width="48%"}
  {: .cad}
 
 {: .design}
@@ -149,7 +149,7 @@ One thing that we emphasize a lot during our builds is ensuring we have as littl
 
 After we had constructed each half of our drivetrain, we connected them:
 
-![Second Competition Chassis Top View](/assets/engineering/SecondRobot/SecondCompChassisTOP.jpg)
+![Second Competition Chassis Top View](https://lh3.googleusercontent.com/pw/ABLVV86iIt3wQRVR2HPLytsSN-j_7n_UMKCZmGd7VMIJDDHZlhj7dFqD42kt5oe23mF7c9Qc3-2-g5VjNUbkhBWUsMGT2SphRTY-E9oEDjOb-ITbTzgDaj8OPIcwsIS3KKZvK4MFOgIBWS5J9IhhMiCToseG=w1413-h1060-s-no-gm)
 
 {: .design}
 # Test
