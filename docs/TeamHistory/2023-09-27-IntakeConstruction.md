@@ -7,6 +7,7 @@ signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
 - "Tucker Nielson"
+- "Thomas Reid"
 nav_order: 14
 has_children: false
 ---

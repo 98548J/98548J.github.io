@@ -8,6 +8,7 @@ signatures:
 - "Caleb Carlson"
 - "Tucker Nielson"
 - "Thomas Reid"
+- "Thomas Reid"
 nav_order: 4
 has_children: false
 ---

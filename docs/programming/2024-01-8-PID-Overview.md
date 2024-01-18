@@ -4,9 +4,10 @@ parent: Programming
 notebook: programming
 date: 2024-01-08
 signatures:
-- "Caleb Carlson"
 - "Ayla Clark"
+- "Caleb Carlson"
 - "Tucker Nielson"
+- "Thomas Reid"
 nav_order: 3
 has_children: false
 ---

@@ -6,6 +6,8 @@ date: 2023-06-05
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
+- "Tucker Nielson"
+- "Thomas Reid"
 nav_order: 2
 has_children: false
 ---
