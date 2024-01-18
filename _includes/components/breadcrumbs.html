@@ -6,7 +6,7 @@
 <body>
 
 <div id="navbar">
-    <a {% if page.url == "/" %} class="active" {% endif %} {% if page.url != "/" %} href="" {% endif %}>Table of Contents</a>
+    <a {% if page.url == "/" %} class="active" {% endif %} {% if page.url != "/" %} href="{{site.url}}" {% endif %}>Table of Contents</a>
 
     {% if page.url != "/" and page.parent %}
         {% assign pages_list = site[page.collection]
