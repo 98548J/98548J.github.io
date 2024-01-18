@@ -412,3 +412,61 @@ code {
   color: #a6e22e;
 }
 
+.table-hover > tbody > tr:hover * {
+  background-color: hsl(230, 12%, 22%);
+}
+
+.match-results {
+  color: white;
+  background-color: rgb(80, 80, 80);
+}
+
+.match-results tr {
+  background-color: rgb(52, 52, 52);
+}
+
+.match-results .highlight{
+  font-weight: 800;
+  color: #eee;
+  border: 4px solid grey;
+}
+
+.match-result-red .red-team[data-v-21f72818] {
+  background-color: hsl(0, 69%, 25%);
+  color: white;
+}
+
+.match-result-red:hover .red-team[data-v-21f72818] {
+  background-color: hsl(0, 50%, 42%);
+  color: white;
+}
+
+.match-result-blue .blue-team[data-v-21f72818] {
+  background-color: hsl(225, 69%, 25%);
+  color: white;
+}
+.match-result-blue:hover .blue-team[data-v-21f72818] {
+  background-color: hsl(225, 50%, 42%);
+  color: white;
+}
+
+.match-results td {
+  padding-top: 0.125rem !important;
+  padding-bottom: 0.125rem !important;
+}
+
+// .match-results table{
+//   padding: 0px 0px 0px 0px;
+// }
+
+// .match-results table tbody tr {
+//   margin: 1px;
+//   display: flex;
+//   justify-content: center;
+//   width: 100%;
+// }
+
+// .match-results table tbody tr td{
+//   width: 98%;
+//   height: 95%;
+// }

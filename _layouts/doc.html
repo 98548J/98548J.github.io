@@ -15,7 +15,77 @@ layout: default
     {% endfor %}
 {% endif %}
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- Structure of sub-table -->
+<!-- <td style="padding: 0px;">
+    <table>
+        <tbody>
+            <tr>
+                <td class="blue-team" data-v-21f72818="">2323H</td>
+            </tr>
+            <tr>
+                <td class="blue-team" data-v-21f72818="">84075A</td>
+            </tr>
+            <tr>
+                <td class="blue-team" data-v-21f72818="">38</td>
+            </tr>
+        </tbody>
+    </table>
+</td> -->
+
+
 <script>
+
+
+    function addTableData(element, data){
+
+        element.style = "padding: 0px";
+        element.appendChild(document.createElement("table"));
+        element.children[0].appendChild(document.createElement("tbody"));
+        let tbody = element.children[0].children[0];
+
+        for(let i = 0; i < 3; i += 1){
+
+            tbody.appendChild(document.createElement("tr"));
+            console.log(data[i]);
+            tbody.children[i].appendChild(data[i]);
+
+        }
+    }
+
+    /*Match Results Table Formatting*/
+    document.addEventListener("DOMContentLoaded", function (){
+        //Get table:
+        parent_table = document.getElementsByClassName("vrc-match-results");
+        number_of_matches = parent_table.item(0).children[0].children.length;
+
+        matches = parent_table.item(0).children[0].children;
+
+        for( let match_number = 0; match_number < number_of_matches; match_number += 1){
+            match_data = matches[match_number];
+
+            let red_alliance_1 = match_data.children[2].cloneNode(true);
+            let red_alliance_2 = match_data.children[3].cloneNode(true);
+            let red_score = match_data.children[4].cloneNode(true);
+            let blue_alliance_1 = match_data.children[5].cloneNode(true);
+            let blue_alliance_2 = match_data.children[6].cloneNode(true);
+            let blue_score = match_data.children[7].cloneNode(true);
+
+            for(let i = 0; i < 6; i += 1){
+                match_data.children[2].remove();
+            }
+            
+            red_score_table = document.createElement("td");
+            blue_score_table = document.createElement("td");
+            match_data.appendChild(red_score_table);
+            match_data.appendChild(blue_score_table);
+
+            addTableData(red_score_table, [red_alliance_1, red_alliance_2, red_score]);
+            addTableData(blue_score_table, [blue_alliance_1, blue_alliance_2, blue_score]);
+
+            console.log(red_score);
+        }
+    });
     /*Chart Percentage Coloring*/
     document.addEventListener("DOMContentLoaded", function (){
         var tdElements = document.querySelectorAll("td");

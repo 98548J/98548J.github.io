@@ -97,3 +97,17 @@ has_children: false
 {% endfor %}
 </ol>
 
+<h1>
+    <a href="/docs/tournament_history/TournamentHistory.html"> Tournament History </a> -
+</h1>
+
+<ol>
+{% for post in site.pages %}
+{% if post.notebook == "TournamentHistory" %}
+    <li>
+    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> 
+    - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+{% endif %}
+{% endfor %}
+</ol>

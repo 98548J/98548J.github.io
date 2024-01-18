@@ -1,7 +1,7 @@
 ---
 title: Syracuse
-parent: Research
-notebook: research
+parent: Tournament History
+notebook: Tournament History
 date: 2024-01-13
 signatures:
 - "Ayla Clark"
