@@ -15,7 +15,7 @@ has_children: false
 {: .design}
 # Introduction
 
-We participated in our first competition of the year, called Ring of Fire. The competition was held in Ely, Nevada, and we took extra care to ensure that we were fully prepared for it. We ran multiple tests and made several adjustments to our robot to ensure that we performed to the best of our abilities. Apart from trying to establish ourselves in Nevada, we also enjoyed meeting new teams and making friends.
+We participated in our first competition of the year, called Ring of Fire. The competition was held in Ely, Nevada, and we took extra care to ensure that we were fully prepared for it. We ran multiple tests and made several adjustments to our robot to ensure that we performed to the best of our abilities. Apart from trying to establish ourselves in Nevada, we also enjoyed meeting new teams and making friends. 
 
 {: .design}
 # Evaluation
