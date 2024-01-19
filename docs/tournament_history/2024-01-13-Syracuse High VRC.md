@@ -50,10 +50,41 @@ In this match, we were with 61466B. They had an intake and a catapult. We won au
 
 ## Qualification #69
 
-This was our last qualification match of the day. We were allianced with 2131Y which had a catapult, an intake, wings, and a side park that gets A-tier. We won autonomous and got the autonomous win point.
+This was our last qualification match of the day. We were allianced with 2131Y which had a catapult, an intake, wings, and a side park that gets A-tier. We won autonomous and got the autonomous win point. We also won the match 129-24.
 
 {: .design}
 Alliance Selection
 
 We ended up in third place only below 2131Y and 2131R. We knew that if those two teams allianced together then they would be hard to beat so we tried to convince 2131Y to pick us. We then had to make sure we had a backup if they decided to choose 2131R. We landed on 2131H because they had a tall blocker, an intake, an A-tier park, and a pretty decent kicker. They also had a far-side autonomous that scored five tri-balls in the goal. 2131Y ended up picking up 2131R. This meant that we picked 2131H.
 
+## Round of 16 #5-1
+
+This was our first elimination match and we went against 1154A and 84075C. We lost autonomous because our alliance partner crossed the line but we won the match 66-43.
+
+## QF #3-1
+
+In our next match, we were against 2131V and 98548D. We won autonomous and then went on to win the match 93-40.
+
+## SF #2-1
+
+This would be the match that would decide whether we would compete in the finals match or not. We were going against 98548H and 2131G. We won autonomous and then won the match 66-43.
+
+## Final #1
+
+This would be the last match of the day deciding who would go home with the tournament champion trophy and who would go home with the tournament finalist trophy. For this match we would be going against 2131Y and 2131R. Going into this match we knew it would be the hardest match of the day and it proved to be. We won autonomous but then lost the match 72-69. However, 2131Y had illegally match loaded a tri-ball so the other alliance got DQ'd. This meant we won the match.
+
+{: .design}
+# Awards
+
+**Tournament Champion**-98548J ana 2131H
+
+**Tournament Finalist**-2131R and 2131Y
+
+**Robot Skills Champion**-2131Y
+
+**Robot Skills 2nd Place**-2131R
+
+{: .design}
+Summary
+
+Overall, this was a successful tournament with us finishing ranked 3rd in Qualifications and ranking 20th in Skills.
