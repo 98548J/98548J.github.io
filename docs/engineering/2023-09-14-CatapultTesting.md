@@ -53,7 +53,6 @@ Each graph records the number of tests, the number of rubber bands on each side 
 | 4 | 3 | 100% |
 | 4 | 4 | 100% |
 | 4 | 4 | 100% |
-{: .calendar}
 
 After conducting the rubber band intensity test we moved on to stand-off lengths we did 4 different sizes of stand-offs with and without the central stand-off supporting in the launch. We did two versions of this test one with a four-band tensioned catapult and one with a six-band tensioned catapult as seen in the tables below. 
 
@@ -65,7 +64,6 @@ After conducting the rubber band intensity test we moved on to stand-off lengths
 | 2" | 90% | 70% | 
 | 2.5" | 70% | 80% |
 | 3" | 70% | 50% |
-{: .calendar}
 
 ## 4 Rubber Band
 
@@ -75,7 +73,6 @@ After conducting the rubber band intensity test we moved on to stand-off lengths
 | 2" | 80% | 100% |
 | 2.5" | 60% | 100% |
 | 3" | 70% | 70% |
-{: .calendar}
 
 {: .design}
 # Summary

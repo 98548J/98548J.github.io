@@ -1,5 +1,5 @@
 ---
-title: Rebuild Overview
+title: Rebuild Overview & Brainstorm
 parent: Engineering
 notebook: engineering
 date: 2023-12-21
@@ -37,4 +37,17 @@ The third issue is much the same as the second; This issue could probably be sol
 
 {: .design}
 # Generate Concepts
+
+# *Objective* -
+
+Our current robot has been performing fairly well. It would be a shame if we re-built our robot only to find that we have not improved our situation. Because of this, this rebuild will be focused on creating a new robot that ***has the same capabilities as our old robot** as well as additional functionalities or improvements.
+
+Here is an overview of our current robot: (with links to the appropriate notebook entries)
+
+* [300rpm drivetrain](http://localhost:4000/docs/engineering/2023-08-30-SecondCompetitionChassis.html)
+* [Two horizontally folding wings]()
+
+## ***Drivetrain***
+
+
 
