@@ -66,7 +66,7 @@ Considering these factors, we decided to create a new intake mechanism that woul
 
 ## **Wings** 
 
-As we explore different designs for adding wings to our robot, we have identified three options: door hinge, drop-down, and flap. Door hinge wings function like a door hinge on the side of the robot and fold out from a horizontal position, but they do move tri-balls in the process. drop-down wings drop from a vertical position without moving any tri-balls, making deployment easier and consuming less air from the pneumatics. Flap wings are fixed together and can be flung down in front of the robot, allowing them to push a small group of tri-balls.
+As we explore different designs for adding wings to our robot, we have identified three options: door hinge, drop-down, and flap. Door hinge wings function like a door hinge on the side of the robot and fold out from a horizontal position, but they do move tri-balls in the process. drop-down wings drop from a vertical position without moving any tri-balls, making deployment easier and consuming less air from the pneumatics. Flap wings are fixed together and can be flung down in front of the robot, allowing it to push a small group of tri-balls.
 
 While designing the wings for our new robot, we decided against using the same fold-out wings from our previous robot. These wings were problematic as they kept pushing tri-balls in unintended directions. We opted instead for drop-down wings that would allow for smoother tri-ball release and deployment with reduced air usage from the pneumatics.
 
