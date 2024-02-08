@@ -1,4 +1,5 @@
 {
     "editor.fontFamily": "Segoe UI",
-    "editor.fontSize": 20
+    "editor.fontSize": 20,
+    "editor.wordWrap": "on"
 }
