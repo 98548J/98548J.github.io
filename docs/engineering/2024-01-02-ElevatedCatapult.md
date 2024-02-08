@@ -2,7 +2,7 @@
 title: Elevated Catapult
 parent: Engineering
 notebook: engineering
-date: 2023-1-2
+date: 2023-01-02
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
