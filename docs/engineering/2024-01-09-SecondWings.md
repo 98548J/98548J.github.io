@@ -2,7 +2,7 @@
 title: Second Wings
 parent: Engineering
 notebook: engineering
-date: 2023-01-09
+date: 2024-01-09
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
@@ -31,7 +31,7 @@ While designing the wings for our new robot, we decided against using the same f
 {:.design}
 # Construction
 
-
+When we initially constructed our wings, we designed them to be perfectly vertical. However, we later realized that we couldn't pass under the bar as easily as we initially thought. So, we pointed the wings further inward to ensure they could fit under the bar and be pushed out by a piston from a better angle. Once we completed the construction of the wings themselves, we added Lexan ramps to enable us to push tri-balls over the central bar and score them into the goal with high precision. In addition to the ramps on the wings, we also added one on the front of our robot to help the wings push tri-balls over the bar.
 
 {:.design}
 # Testing
@@ -54,3 +54,4 @@ For the two push tests, we will line up ten tri-balls and see how many go in or 
 
 {:.design}
 # Summary 
+
