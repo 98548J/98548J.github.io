@@ -66,7 +66,7 @@ To attach rubber bands to our catapult, we added four standoffs; two on our cata
 {: .image-pair}
 
 {: .design}
-# Test
+# Testing
 
 After attaching the gearbox to our robot, we made a simple basket for the catapult and tested the fire rate of our catapult. To test the fire rate, we simply took a video of the catapult and reviewed the footage afterward:
 
