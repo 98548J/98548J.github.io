@@ -26,3 +26,24 @@ We arrived early on the first day of the competition allowing us to figure out w
 
 ## Practice #9
 
+This was our first match of the day and it wouldn't count towards our rankings. In this match, we were allianced with 95888A. Looking at our match schedule we were with them qualification #63. Their robot was an X-drive. Going into this match we were focused on accomplishing two main things. First, we wanted to try a newer strategy to us called bowling. In this strategy, we would set one tri-ball in our intake and set multiple tri-balls off the back of the robot. This allowed us to have control over where the tri-ball would end up on the other side of the field. Second, we wanted to test our side elevation. We finished this elevation on the morning of the competition and tested it but hadn't had the chance to do it in a match.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nxMJYakyi4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We lost auton because our teammate's robot crossed into the opposing's sides offensive zone. Using our newer strategy and our side elevation, we won the match 142-15.
+
+## Qualification #9
+This was the first of our qualification matches. We were allied with 80804B. Their robot was a double flywheel and a tank drive.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHe2Vv7Abqc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We won auton and got the autonomous winpoint. In this match, we continued to use the bowling strategy mentioned in Practice #9. At the end of the match, we attempted to elevate but were barely touching the ground with our wheels. However, we still won the match 97-49.
+
+## Qualification #21
+
+Going into this match, we knew we would have to perform well because we would be going against 2131R, a team from Davis High School, who performs highly at local competitions. Our alliance partner for this match would be another team from Utah, however they were from Weber High School. Their robot was an X-drive, had an elevated flywheel, an arm to grab tri-balls, and their elevated flywheel also helped them have an A-tier elevation on the horizontal bar.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhCIFpeVD3w?rel=0&amp;start=13480" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We won auton and got the autonomous winpoint. It was a back-and-forth match but in the end, we elevated as well as our alliance partner to get a double park which allowed us to win the match 90-57.
+

@@ -1,8 +1,8 @@
 ---
-title: Elevated Catapult
+title: Second Intake
 parent: Engineering
 notebook: engineering
-date: 2023-01-05
+date: 2024-01-05
 signatures:
 - "Ayla Clark"
 - "Caleb Carlson"
@@ -40,5 +40,28 @@ When constructing the intake we wanted to keep it similar to our last one but re
 
 
 {:.design}
+<<<<<<< HEAD:docs/engineering/2024-01-05-Intake.md
 # Summary 
 
+=======
+# Construction
+
+When we were constructing the intake, we decided to use two pieces of c-channel arms pivoting on screws. This allows the intake to move up and down freely as we encounter the goal or other robots. To provide the best grip on the tri-balls, we kept the rubber bands. We used sprockets to hold the rubber bands in the grooves to keep them evenly spaced and prevent them from moving around. As well as Instead of using two 5.5-watt motors, we chose to use one single-watt motor to save space and ensure a clean operation. We also made polycarbonate ramps for the intake to slide up the goal so we don't go inside it.
+
+{:.design}
+# Testing
+Once we finished constructing our intake, we planned to perform a series of tests. These included in-taking tri-balls from a corner, in-taking them from the central bar, and out-taking them while a tri-ball was inside the robot. During these tests, we will randomly position the tri-balls to ensure the accuracy of our results.
+
+## Results 
+
+| | Corner Intake| Central Bar Intake | Inside Robot |
+|:---|:---:|:---:|:---:|
+| Corner down | 100% | 100% | 100% |
+|  Flat side on the ground  | 100% | 100% | 100% |
+| Thrown/ Random | 100% | 100% | 100% |
+
+{:.design}
+# Summary 
+
+Based on the test results, the intake has performed well and it fulfills all the requirements we were looking for. The new intake has a reduced bulk, while still providing the same grip and range as the old one. In addition, it is stronger and can withstand contact with robots and the field exceptionally well.
+>>>>>>> 7c986fea143dbb079e8fd6c5cc02083edb3a3922:docs/engineering/2024-01-05-SecondIntake.md
