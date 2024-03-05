@@ -47,3 +47,53 @@ Going into this match, we knew we would have to perform well because we would be
 
 We won auton and got the autonomous winpoint. It was a back-and-forth match but in the end, we elevated as well as our alliance partner to get a double park which allowed us to win the match 90-57.
 
+## Qualification #30
+
+In the qualifier, we were with 15486E. They had a tank drive flywheel that doubled as a blocker. We were going against 98548G and 2131Y, two teams we regularly compete against at local competitions. We knew this would probably be a fairly close match and it was.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhCIFpeVD3w?rel=0_ehfgOKALm-_gWe&amp;start=14957" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We got the autonomous win point but didn't win the autonomous bonus. Our strategy was to one ball and bowl the whole match and it ended up working out because we won the match by one tri-ball with a score of 86-81.
+
+## Qualifier #38
+
+In this match, we were allianced with 1771A. Their robot was a four-wheel drive and motor-controlled wings.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhCIFpeVD3w?rel=0EpUD9pgvEnH8oAeK&amp;start=16366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We lost autonomous and also did not get the win point. We went on to lose the match 89-159.
+
+## Qualifier #46
+
+This match we were allied with 315N. Their robot had an intake, wings, six-wheel drive, and a C-tier park.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhCIFpeVD3w?rel=eyW4BCALG3OzN_1Z&amp;start=18004" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We won autonomous but didn't get the win point because our inertial sensor didn't calibrate correctly and our auton did not work. We went on to win the match 120-69 using the one-ball strategy. 
+
+## Qualifier #54
+
+This match would be a difficult one because we would be going against the former world champions. We were with 9776C and their robot was a six-wheel drive with an intake and puncher.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhCIFpeVD3w?rel=GyHqoMLl0mU1FRBi&amp;start=20072" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We won autonomous and got the autonomous win point. We used the strategy of one-balling which worked very well but in the end, we lost the match 55-67, because we missed our park. 
+
+
+## Qualification #63
+
+In this qualifier, we ended up being allianced with the same alliance partner that we had in our practice match. That team was 95888A and they were an x-drive robot.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ReOXs_4_PYs?rel=6G4OleP286vzo8R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Before the match, we talked to our alliance partner about the autonomous period, this was because during the practice match, they crossed onto the opposite side of the field and did not score the alliance tri-ball. This time they didn't cross onto the opposite side of the field and they scored the alliance tri-ball. This helped our alliance win autonomous and get the autonomous win point. We then continued to use our strategy of one-balling and bowling and won the match 123-58.
+
+## Qualification #80
+
+For this match, we were allied with 1168A. Their robot had wings, an intake, and a puncher on a lift that got at least an A-tier park. We won autonomous and got the autonomous win point. We won the match 118-67. For the match, we played very defensively trying to not let the other team score. We used the bowling/one-ball strategy to score.
+
+
+
+## Qualification #92
+
+In this match, our alliance partner was 83757A. Their robot had an intake. We won autonomous but didn't get the autonomous win point since our alliance partner didn't have an auton. Our strategy for this match was to score all the tri-balls on our side and then stop the other team from scoring. We won this match 78-57.
